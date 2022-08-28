@@ -1,0 +1,30 @@
+---
+name: WinWin
+logo: /assets/logo-winwin-256.png
+www: https://winwin.finance/
+socials:
+  twitter: winwindefi
+  tg: winwindefi
+sacrifice:
+  type: disabled
+  desc: sacrifice to show how strongly you believe in freedom of business activity and entrepreneurship
+  start: "2022-09-15T00:00:00Z"
+  end: PulseChainLaunchDate
+  address: "0x0000000000000000000000000000000000000001"
+  networks:
+    ethereum:
+      tokens: DAI, HEX, HDRN, LUSD, MAXI, TUSD, USDC, USDT, WBTC
+    # pulsechain:
+    #   tokens: HEX, HDRN, LOAN, MAXI, MINT, PLS, PLSX, USDL, WATT
+    bsc:
+      tokens: BUSD, USDC, BUSD-T
+  hideRateGraphs: true
+ranking:
+  founder: red
+  team: red
+  plan: orange
+  implementation: red
+  audit: orange
+  note: Our ranking has not been verified with the project team yet.
+token:
+  symbol: WIN

@@ -1,0 +1,12 @@
+---
+name: Love.io
+desc: A peer-to-peer cryptocurrency that monetizes social interactions on social media, eCommerce, and gaming.
+logo: /assets/logo-love-256.png
+www: https://love.io
+socials:
+  twitter: lovedotio
+  tg: loveiocommunity
+sacrifice:
+  type: running
+  desc: sacrifice to prove believe in love as a universal language
+  start: "2021-11-20T00:00:00.000Z"

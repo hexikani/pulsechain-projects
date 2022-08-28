@@ -1,0 +1,8 @@
+---
+name: Internet Money Dividend
+logo: /assets/logo-imd-256.png
+sacrifice:
+  type: past
+  desc: sacrifice for freedom of time
+  start: "2022-03-14T00:00:00.000Z"
+  hideRateGraphs: true

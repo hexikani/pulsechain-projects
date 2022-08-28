@@ -1,0 +1,29 @@
+---
+name: DecentralizeX
+logo: /assets/logo-decentralizex-256.png
+www: https://decentralizex.com/
+sacrifice:
+  type: disabled
+  desc: sacrifice to prove how strongly you believe that blockchains are speech and speech is a protected human right
+  start: "2022-06-11T00:00:00Z"
+  #start: "2022-06-07T00:00:00.000Z"
+  end: PulseChainLaunchDate
+  address: "0x017b5900B4681B5C9Edd9BB5C08bCd6365e0dadE"
+  networks:
+    ethereum:
+      tokens: USDC, USDT, BUSD, DAI, HEX, WBTC, WMATIC, LINK, UNI, SHIB
+    bsc:
+      tokens: BUSD-T, BUSD, USDC, DAI
+    polygon:
+      tokens: DAI, WMATIC, HEX, USDC
+    avax:
+  pointsPerUSD: 100000
+ranking:
+  founder: red
+  team: red
+  plan: green
+  implementation: green
+  audit: orange
+  note: Our ranking has not been verified with the project team yet.
+token:
+  symbol: DTX

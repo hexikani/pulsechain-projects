@@ -1,0 +1,7 @@
+---
+name: PoorPleb Token
+logo: /assets/logo-poorpleb-256.png
+sacrifice:
+  type: running
+  desc: sacrifices for freedom of plebs
+  start: "2022-07-17T00:00:00.000Z"

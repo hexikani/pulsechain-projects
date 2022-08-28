@@ -1,0 +1,28 @@
+---
+name: IketSwap
+logo: /assets/logo-iketswap-256.png
+www: https://www.iketoken.co.uk
+socials:
+  twitter: IKETOKEN_
+  tg: IKETOKEN
+sacrifice:
+  type: disabled
+  desc: ???
+  start: "2022-08-23T00:00:00Z"
+  end: "2022-11-05T00:00:00Z"
+  address: "0x1990DE4Ff399870209CaCF182b80e1a77a7F7a5D"
+  pointsPerUSD: 10000
+  networks:
+    ethereum:
+      tokens: USDC # FIXME
+    bsc:
+      tokens: USDC, BUSD # FIXME
+ranking:
+  founder: red
+  team: red
+  plan: red
+  implementation: red
+  audit: red
+  note: Our ranking has not been verified with the project team yet.
+token:
+  symbol: IKET

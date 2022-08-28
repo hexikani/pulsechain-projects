@@ -1,0 +1,7 @@
+---
+name: PulseShib
+logo: /assets/logo-pulseshib-256.png
+sacrifice:
+  type: past
+  desc: sacrifice for PulseShib tokens
+  start: "2021-11-10T00:00:00.000Z"

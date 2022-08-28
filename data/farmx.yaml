@@ -1,0 +1,7 @@
+---
+name: FarmX
+logo: /assets/logo-farmx-256.png
+sacrifice:
+  type: past
+  desc: sacrifice for cross-chain yield farming on PulseChain
+  start: "2022-06-12T00:00:00.000Z"

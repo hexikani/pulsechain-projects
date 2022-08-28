@@ -1,0 +1,6 @@
+---
+name: Hedron (ERC-20)
+logo: /assets/logo-hedron-256.png
+token:
+  type: final
+  desc: Value minted from HEX T-Shares

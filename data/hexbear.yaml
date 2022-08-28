@@ -1,0 +1,13 @@
+---
+name: HexBear Sacrifice of Time
+logo: /assets/logo-hexbear-256.png
+sacrifice:
+  type: running
+  desc: sacrifice time for the right to keep your hard earned crypto
+  start: "2022-06-11T00:00:00.000Z"
+token:
+  desc: Token for HEX bears
+fundraiser:
+  name: "HexBear Stake Address #1"
+  type: past
+  desc: Donate to stake 25,000 HEX for 15 years

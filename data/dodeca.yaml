@@ -1,0 +1,7 @@
+---
+name: DODECA Token
+logo: /assets/logo-dodeca-256.png
+sacrifice:
+  type: disabled
+  desc: sacrifice to prove you belief that cryptocurrency was invented to remove middlemen and third-parties
+  start: "2022-08-14T00:00:00Z"

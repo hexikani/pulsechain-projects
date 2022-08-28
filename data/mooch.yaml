@@ -1,0 +1,7 @@
+---
+name: Mooch Movie
+logo: /assets/logo-mooch-256.png
+sacrifice:
+  type: running
+  desc: invest into the production of a movie
+  start: "2022-07-07T09:00:00.000Z"

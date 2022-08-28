@@ -1,0 +1,19 @@
+---
+name: PulsePot
+desc: Worlds first fully decentralized casino on chain.
+longDesc: |
+  PLSP is a utility token and a shareholder token.
+  PLSP is is both extremely limited in supply and deflationary.
+  When you play on Pulsepot, holders of PLSP gets a reduced winners fee based on the total amount tokens the winning wallet is holding at the time the win.
+logo: /assets/logo-pulsepot-256.png
+www: https://pulsepot.io/
+socials:
+  twitter: JPulsepot
+  tg: pulsepot
+sacrifice:
+  type: past
+  desc: sacrifice to prove how strong you believe that blockchain are speech and speech is a protected human right
+  start: "2022-05-15T00:00:00.000Z"
+  final: https://docs.google.com/spreadsheets/d/1FZL-jXV4wAPYslMYANL1BMAF2DK5AkJ_wTmoeJT0g4U/edit?usp=sharing
+token:
+  symbol: PLSP

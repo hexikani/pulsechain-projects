@@ -1,0 +1,6 @@
+---
+name: Internet Money (BEP-20)
+logo: /assets/logo-im-256.png
+token:
+  type: foreign-chain
+  desc: Peer to Peer "digital cash"

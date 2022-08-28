@@ -1,0 +1,6 @@
+---
+name: Pulse33 (BEP-20)
+logo: /assets/logo-pulse33-256.png
+token:
+  type: foreign-chain
+  desc: Best meme coin on PulseChain

@@ -1,0 +1,15 @@
+---
+name: Phiat
+desc: Borrow. Leverage. Short. A fork of AAVE for PulseChain
+logo: /assets/logo-phiat-256.png
+www: https://phiat.io/
+socials:
+  twitter: phiatcrypto
+  tg: +_2BI2i6MFtg1N2I9
+  email: team@phiat.io
+sacrifice:
+  type: past
+  desc: for the right to do cool stuff with your RH coins
+  start: "2022-04-29T14:00:00.000Z"
+  hideRateGraphs: true
+  final: https://phiat.io/claim

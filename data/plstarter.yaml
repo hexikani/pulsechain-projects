@@ -1,0 +1,29 @@
+---
+name: PulseStarter
+logo: /assets/logo-plstarter-256.png
+www: https://plstarter.com/
+socials:
+  twitter: Plstarter
+  tg: plstarter
+sacrifice:
+  type: running
+  desc: sacrifice to show how strongly you believe in freedom of business activity and entrepreneurship
+  start: "2022-09-06T00:00:00Z"
+  end: PulseChainLaunchDate
+  address: "0xAd1b3Cc191A4F33a3191d2fcA2e32cB6778Ed044"
+  networks:
+    ethereum:
+      tokens: HEX, HDRN, MAXI, USDC, USDT, DAI, UNI, LINK, WBTC, SHIB, CRO, PLSD, BUSD
+    bsc:
+      tokens: BUSD-T
+    polygon:
+  hideRateGraphs: true
+ranking:
+  founder: green
+  team: orange
+  plan: orange
+  implementation: red
+  audit: red
+  note: Our ranking has not been verified with the project team yet.
+token:
+  symbol: PLST

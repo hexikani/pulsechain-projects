@@ -1,0 +1,6 @@
+---
+name: EQUINOX Token (BEP-20)
+logo: /assets/logo-eqnox-256.png
+token:
+  type: disabled
+  desc: Certificate of deposit token aligned with the seasons

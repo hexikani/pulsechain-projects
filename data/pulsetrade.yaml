@@ -1,0 +1,7 @@
+---
+name: Pulse Trade
+logo: /assets/logo-pulsetrade-256.png
+sacrifice:
+  type: disabled
+  desc: sacrifice for PST tokens
+  start: "2022-07-01T16:00:00.000Z"
