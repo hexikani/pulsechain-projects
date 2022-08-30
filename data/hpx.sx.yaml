@@ -1,7 +1,14 @@
 ---
 name: HPX NFT Marketplace
+desc: Decentralized NFT marketplace on PulseChain
 logo: /assets/logo-hpx.sx-256.png
+www: https://hpx.sx/
+socials:
+  twitter: Hpx369
+  tg: hpx369
 sacrifice:
   type: disabled
   desc: ???
   start: "2022-08-09T00:00:00Z"
+token:
+  symbol: HPX

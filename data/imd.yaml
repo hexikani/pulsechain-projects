@@ -1,6 +1,13 @@
 ---
 name: Internet Money Dividend
+desc: Earn passive income (dividen) from Internet Money Wallet.
 logo: /assets/logo-imd-256.png
+www: https://imcrypto.net/
+socials:
+  reddit: internetmoneyio
+  tg: internetmoneyio
+  twitter: internetmoneyio
+  yt: c/brotherkdg
 sacrifice:
   type: past
   desc: sacrifice for freedom of time

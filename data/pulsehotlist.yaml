@@ -1,6 +1,11 @@
 ---
 name: PulseHotList
+desc: PulseChain project and token ranking site.
 logo: /assets/logo-pulsehotlist-128.png
+www: https://pulsehotlist.com/
+socials:
+  twitter: PulseHotList
+  tg: PulseHotList
 sacrifice:
   type: past
   desc: sacrifice for the freedom to invest - the freedom to inform, rate, analyze, and share value

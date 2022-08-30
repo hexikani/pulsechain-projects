@@ -1,6 +1,10 @@
 ---
 name: Terrapulse
+desc: Building the future of finance on the PulseChain network
 logo: /assets/logo-terrapulse-256.png
+www: https://www.terrapulse.xyz/
+socials:
+  twitter: terrapulse_xyz
 sacrifice:
   type: past
   desc: sacrifice to form a collective group of PulseChain advocates to push forward rapid adoption and long-term success of the new blockchain

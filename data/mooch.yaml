@@ -1,6 +1,9 @@
 ---
 name: Mooch Movie
+desc: A movie written and directed by Jeff Ryan.
 logo: /assets/logo-mooch-256.png
+socials:
+  tg: MoochMovie
 sacrifice:
   type: running
   desc: invest into the production of a movie

@@ -2,13 +2,14 @@
 name: Genius
 desc: The first hyper-yield, A.I. driven blockchain Certificate of Deposit
 logo: /assets/logo-genius-256.png
-www: https://geni.app
-app: https://beta.geni.app/get-started
+www: https://geni.app/
 socials:
   twitter: Genicrypto
   tg: Genicrypto
   gihub: GeniusGENI
-  youtube: channel/UCDBU7NW5m2JujP7WE_KFMEQ
+  yt: channel/UCDBU7NW5m2JujP7WE_KFMEQ
+links:
+  - dapp: https://beta.geni.app/get-started
 sacrifice:
   type: past
   desc: sacrifice for financial freedom and transactional freedom

@@ -1,6 +1,15 @@
 ---
 name: Pulsedoge (tPRC-20)
+desc: Meme token, echo staking & NFT's
 logo: /assets/logo-pulsedoge-256.png
+www: https://pulsedoge.win/
+socials:
+  twitter: PulseDogeWin
+  tg: Pulsedoge
+  ig: pulsedoge
+  email: info@pulsedoge.win
+  discord: Rce33xGjdH
+  medium: pulsedoge
 token:
   type: testnet
   desc: First meme coin on PulseChain

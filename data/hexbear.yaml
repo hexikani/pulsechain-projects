@@ -1,12 +1,18 @@
 ---
-name: HexBear Sacrifice of Time
+name: HexBear Token
+desc: A community and token for HEX bears. Creating volatility for maximum potential. Aimed at aggressive expansion.
 logo: /assets/logo-hexbear-256.png
+www: https://hexbear.io/
+socials:
+  tg: hexbeario
 sacrifice:
   type: running
+  name: HexBear Sacrifice of Time
   desc: sacrifice time for the right to keep your hard earned crypto
   start: "2022-06-11T00:00:00.000Z"
 token:
   desc: Token for HEX bears
+  symbol: HXB
 fundraiser:
   name: "HexBear Stake Address #1"
   type: past

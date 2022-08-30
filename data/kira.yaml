@@ -1,6 +1,13 @@
 ---
 name: Kira Token (tPRC-20)
+desc: A basic multi-chain token created by artists. Fixed supply, no inflation or deflation.
 logo: /assets/logo-kiratoken-256.png
+www: https://www.kiratoken.com/
+socials:
+  twitter: kiratokencom
+  tg: KIRAtokencom
+  email: MotionMark@protonmail.com
+  ig: kiratokencom
 token:
   type: testnet
   desc: Token airdropped to PulseChain sacrificers

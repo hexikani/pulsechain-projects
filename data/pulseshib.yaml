@@ -1,6 +1,10 @@
 ---
 name: PulseShib
+desc: Shiba inspired meme coin on PulseChain.
 logo: /assets/logo-pulseshib-256.png
+socials:
+  twitter: pulseshib
+  tg: pulseshib
 sacrifice:
   type: past
   desc: sacrifice for PulseShib tokens

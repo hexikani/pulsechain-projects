@@ -1,6 +1,12 @@
 ---
 name: Pulse Valley
+desc: Exclusive Poker Club. Deflationary token, limited access clubs, high end tournaments and much more.
 logo: /assets/logo-pulsevalley-256.png
+web: https://pulsevalley.com/
+socials:
+  twitter: pulse_valley
+  tg: PulseValley
+  ig: pulsevalley
 sacrifice:
   type: disabled
   desc: sacrifice to prove that you believe extorsion is a crime even when done by governments, and that you also believe blockchains are speech and speech is a protected human right

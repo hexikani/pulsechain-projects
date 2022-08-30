@@ -1,11 +1,12 @@
 ---
 name: Pulse Abides Token
-desc: Token with value appreciation based on reveniue from YouTube stream
+desc: Token with value appreciation based on revenue from YouTube stream.
 logo: /assets/logo-pulseabidestoken-256.png
 www: https://www.thepulseabides.info/
 socials:
   tg: ThePulseAbidesToken
-  youtube: ThePulseAbides
+  yt: ThePulseAbides
+  discord: F4gRrnzkGr
 sacrifice:
   type: past
   desc: sacrifice for a free and uncensored press

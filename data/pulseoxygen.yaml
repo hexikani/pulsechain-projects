@@ -1,6 +1,11 @@
 ---
 name: Pulse Oxygen
+desc: Buy, sell, hold, invest and exchange real world carbon credits.
 logo: /assets/logo-pulseoxygen-256.png
+www: https://pulseoxygen.info/
+socials:
+  twitter: pulseoxygen
+  tg: pulseoxygen
 sacrifice:
   type: past
   desc: sacrifice to prove how strong you believe that blockchains are speech and speech is a protected human right

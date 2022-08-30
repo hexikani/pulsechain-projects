@@ -1,6 +1,11 @@
 ---
 name: Meme Coin City
+desc: A zero narrative meme coin collection on PulseChain. Just hold $MEME and receive air drops of every new meme coin in our collection.
 logo: /assets/logo-memecoincity-256.png
+www: https://memecoincity.com/
+socials:
+  twitter: MemeCoinCity
+  tg: memecoincity
 sacrifice:
   type: disabled
   desc: sacrifice to prove that you believe extorsion is a crime even when done by governments, and that you also believe blockchains are speech and speech is a protected human right

@@ -1,6 +1,15 @@
 ---
 name: BankX
+desc: A dual token, partially collateralized, partially algorithmic stablecoin.
 logo: /assets/logo-bankx-256.png
+www: https://bankx.io/
+links:
+  - docs: https://docs.bankx.io/
+socials:
+  twitter: bankxio
+  discord: invite/V5JaTEGAEp
+  tg: BankXio
+  yt: channel/UCLlgoLq-ROfFeJls0mwZUUA
 sacrifice:
   type: running
   desc: sacrifice to prove how strongly you believe that central reserve banks should not be privately owned but controlled by and benefit the individual

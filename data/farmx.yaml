@@ -1,6 +1,13 @@
 ---
 name: FarmX
+desc: Protocol designed with a set of ingenious farming strategies for auto-compounding, significantly increasing benefits for those who stake PulseX LPs.
 logo: /assets/logo-farmx-256.png
+www: https://farmx.land/
+socials:
+  twitter: YieldFarmX
+  github: FarmXx
+  tg: farmXTG
+  medium: farmsX
 sacrifice:
   type: past
   desc: sacrifice for cross-chain yield farming on PulseChain

@@ -1,6 +1,9 @@
 ---
 name: PulseDogecoin (ERC-20)
 logo: /assets/logo-pulsedogecoin-256.png
+www: https://pulsedogecoin.com/
+socials:
+  tg: PLSDcoin
 token:
   type: final
   desc: Token airdropped to HEX stakers

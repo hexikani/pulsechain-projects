@@ -1,6 +1,9 @@
 ---
 name: Free Carpet Ride Pool
+desc: A freepulse.io sacrifice pool
 logo: /assets/logo-freecarpetride-256.png
+socials:
+  tg: FreeCarpetRide
 sacrifice:
   type: pool
   desc: contribute to the FreePulse.io pool

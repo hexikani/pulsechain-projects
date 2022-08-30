@@ -1,6 +1,12 @@
 ---
 name: CryptoHours
+desc: CryptoHours is a Freelancer Network Launching on PulseChain. Work, Earn & Hire using Cryptocurrency
 logo: /assets/logo-cryptohours-256.png
+www: https://cryptohours.com/
+socials:
+  twitter: CryptoHours
+  tg: CryptoHoursNetwork
+  yt: c/CryptoHours
 sacrifice:
   type: disabled
   desc: sacrifice for believe freedom of speech is a protected human right

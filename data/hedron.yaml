@@ -1,6 +1,13 @@
 ---
 name: Hedron (ERC-20)
+desc: Take advantage of your HEX stake's maturity. Trade it, borrow against it, get free liquidity.
 logo: /assets/logo-hedron-256.png
+www: https://hedron.pro/
+socials:
+  twitter: hedroncrypto
+  tg: HedronCrypto
+links:
+  - dapp: https://hedron.pro/#/dapp
 token:
   type: final
   desc: Value minted from HEX T-Shares

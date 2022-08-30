@@ -1,8 +1,8 @@
 ---
 name: HEX (ERC-20)
 desc: HEX - First blockchain certificate of deposit. HEX is the future of investing, it pays 38% APY. Become your own bank.
-www: https://hex.com/
 logo: /assets/logo-hex-256.png
+www: https://hex.com/
 socials:
   tg: HEXcrypto
 token:

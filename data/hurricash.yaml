@@ -1,6 +1,14 @@
 ---
 name: Hurricash
+desc: The first completely decentralized non-custodian protocol for private transactions on PulseChain.
 logo: /assets/logo-hurricash-256.png
+www: https://hurricash.com/
+socials:
+  tg: hurricashchat
+  twitter: hurricash
+links:
+  - dapp: https://hurricash-testnet2b.on.fleek.co/
+  - docs: https://hurricash.gitbook.io/hurricash
 sacrifice:
   type: past
   desc: sacrifice for freedom of privacy

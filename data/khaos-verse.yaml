@@ -1,9 +1,10 @@
 ---
 name: Khaos Verse
-desc: The first AMM & DEX on Pulsechain. Khaos provides the first bridge between Pulsechain and ERC-20 with the lowest trading fees and highest APY on Pulsechain network
+desc: Provides the bridge between PulseChain and ERC-20 with the lowest trading fees and highest APY on PulseChain network
 logo: /assets/logo-khaos-verse-256.png
-www: https://khaosverse.com
+www: https://khaosverse.com/
 socials:
+  twitter: KhaosVerse
   tg: KhaosVerse
 sacrifice:
   type: running

@@ -1,6 +1,10 @@
 ---
 name: FPpool
+desc: A freepulse.io sacrifice pool
 logo: /assets/logo-fppool-256.png
+www: https://freepulsepool.com/
+socials:
+  tg: FPpool
 sacrifice:
   type: pool
   desc: contribute to the FreePulse.io pool

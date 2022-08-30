@@ -1,7 +1,11 @@
 ---
-name: PLSOptions Token
+name: PLSOptions
+desc: Options trading on PulseChain.
 logo: /assets/logo-anything-256.png
+www: https://plsoptions.com/
+socials:
+  tg: plsoptions
 sacrifice:
-  type: disabled
-  desc: ???
+  type: past
+  desc:
   start: "2022-06-06T00:00:00.000Z"

@@ -1,6 +1,13 @@
 ---
 name: EQUINOX Token (BEP-20)
+desc: The first certificate of deposit token aligned with the seasons.
 logo: /assets/logo-eqnox-256.png
+www: https://eqnox-token.com/
+links:
+  - dapp: https://eqnox-token.com/
+socials:
+  twitter: eqnox_token
+  tg: eqnox_token
 token:
   type: disabled
   desc: Certificate of deposit token aligned with the seasons

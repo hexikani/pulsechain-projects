@@ -1,6 +1,11 @@
 ---
 name: Texan Token
+desc: World’s first crypto endowment smart contract with staking and interest withdrawal.
 logo: /assets/logo-texantoken-256.png
+www: https://texan.cc/
+socials:
+  twitter: texan_token
+  tg: texantoken
 sacrifice:
   type: running
   desc: donate to the Texas nationalist movement

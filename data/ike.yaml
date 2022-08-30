@@ -1,7 +1,12 @@
 ---
 name: IKE Finance
+desc: High yield protocol launching on Pulsechain.
 logo: /assets/logo-ike-256.png
 www: https://ike.finance/
+socials:
+  twitter: IKETOKEN_
+  tg: IKETOKEN
+  ty: channel/UCOHkEiQYcC5YS4JkJj2DehQ
 sacrifice:
   type: disabled
   desc: sacrifice to prove how strong you believe that blockchains are speech and speech is a protected human right

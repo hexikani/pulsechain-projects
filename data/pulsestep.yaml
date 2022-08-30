@@ -1,6 +1,14 @@
 ---
 name: Pulse Step
+desc: Get Fit. Earn Crypto. Anonymous and privacy focused user rewards app on the PulseChain.
 logo: /assets/logo-pulsestep-256.png
+www: https://pulsestep.io
+socials:
+  twitter: WalkWithSTEP
+  tg: WalkWithStepTelegram
+  discord: QEZF32ebZF
+  reddit: OfficialSTEP
+  ig: step_ecosystem
 sacrifice:
   type: running
   desc: sacrifice to prove how strongly you believe fitness and healthy lifestyle as a way to earn cryptocurrencies

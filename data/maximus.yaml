@@ -1,5 +1,11 @@
 ---
+name: Maximus
+desc: Earn more HEX yield, save on gas fees, and hold liquid with Maximus stake pools.
 logo: /assets/logo-maximus-256.png
+www: https://maximus.cash/
+socials:
+  twitter: maximus_dao
+  tg: MaximusDAO
 fundraiser:
   name: Maximus Grand Exhibition at PulseCon 2022
   type: past

@@ -1,6 +1,14 @@
 ---
 name: Aqua Protocol
+desc: Combines the power of Defi and the blockchain to facilitate a sustainable, safe clean, and healthy source for drinking water with the support of the Aqua community.
 logo: /assets/logo-aqua-protocol-256.png
+www: https://aquaprotocol.io/
+links:
+  - kyc: https://www.assuredefi.io/projects/aqua-protocol/
+socials:
+  twitter: https://twitter.com/aquaprotocol/
+  tg: +vheTCJi9ByY5NzQx
+  ig: CciGle0u_ew
 sacrifice:
   type: running
   desc: sacrifice for believe that clean drinking water and sanitation should be freely available for everyone worldwide, regardless of socio-economic conditions

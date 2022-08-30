@@ -1,6 +1,15 @@
 ---
 name: Victory Point
+desc: Free-to-Play (F2P), Play-to-Earn (P2E), Multiplayer, First Person Shooter (FPS) game built on Unreal Engine and powered by blockchain and NFTs.
 logo: /assets/logo-victorypoint-256.png
+www: https://victorypoint.io/
+socials:
+  twitter: VictoryPoint_io
+  tg: +uPhVrPJYg85lNmQ0
+  yt: channel/UCp_8JhM_jK7XWne3hfpHLVQ
+  discord: YurGJz7mAm
+links:
+  - docs: https://docs.winwin.finance/
 sacrifice:
   type: disabled
   desc: sacrifice to prove how strongly you believe in the freedom of gaming and the right of gamers to own their in-game assets

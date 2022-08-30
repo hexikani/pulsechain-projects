@@ -1,6 +1,10 @@
 ---
 name: PulseHotList Pool
+desc: PulseHotList sacrifice pool
 logo: /assets/logo-pulsehotlistpool-256.png
+www: https://pulsehotlistpool.com/
+socials:
+  tg: PulseHotListPool
 sacrifice:
   type: past-pool
   desc: contribute to the Pulse Hot List PulseHotList sacrifice Pool

@@ -1,6 +1,12 @@
 ---
 name: PulseX
+desc: Most liquid DEX on PulseChain by Richard Heart.
 logo: /assets/logo-pulsex-256.png
+www: https://pulsex.com/
+socials:
+  twitter: pulsexcom
+  tg: PulseXcom
+  reddit: PulseX
 sacrifice:
   type: past
   desc: sacrifice for freedom of movement and assembly
