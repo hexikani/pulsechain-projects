@@ -1,8 +1,10 @@
 ---
 name: DODECA Token
 desc: Deflationary token designed to pump HEX
-logo: /assets/logo-dodeca-256.png
+logo: /logos/dodeca-256.png
 www: https://dodeca.tech/
+categories:
+  defi:
 socials:
   twitter: DodecaCrypto
   tg: DodecaCommunity  # DodecaCrypto

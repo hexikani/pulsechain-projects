@@ -1,8 +1,10 @@
 ---
 name: Pulse Valley
 desc: Exclusive Poker Club. Deflationary token, limited access clubs, high end tournaments and much more.
-logo: /assets/logo-pulsevalley-256.png
+logo: /logos/pulsevalley-256.png
 web: https://pulsevalley.com/
+categories:
+  game:
 socials:
   twitter: pulse_valley
   tg: PulseValley

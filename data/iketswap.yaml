@@ -1,8 +1,11 @@
 ---
 name: IketSwap
 desc: Decentralized exchange protocol allowing swap process on other networks.
-logo: /assets/logo-iketswap-256.png
+logo: /logos/iketswap-256.png
 www: https://www.iketoken.co.uk/
+categories:
+  defi:
+  dex:
 socials:
   twitter: IKETOKEN_
   tg: IKETOKEN

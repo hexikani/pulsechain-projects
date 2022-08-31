@@ -1,8 +1,10 @@
 ---
 name: Genius
 desc: The first hyper-yield, A.I. driven blockchain Certificate of Deposit
-logo: /assets/logo-genius-256.png
+logo: /logos/genius-256.png
 www: https://geni.app/
+categories:
+  defi:
 socials:
   twitter: Genicrypto
   tg: Genicrypto

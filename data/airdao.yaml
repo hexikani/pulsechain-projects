@@ -1,8 +1,10 @@
 ---
 name: AirDAO
 desc: A Decentralized Autonomous Organization to drive climate action by tokenizing carbon emission allowances via carbon-backed, algorithmic currency.
-logo: /assets/logo-pulseairdao-256.png
+logo: /logos/pulseairdao-256.png
 www: https://airdao.app/
+categories:
+  defi:
 links:
   - docs: https://pulse-airdao.gitbook.io/pulse-airdao/
 socials:

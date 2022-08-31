@@ -3,6 +3,8 @@ name: Everlasting
 desc: P2E, cross chain, PVP first person shooter game on the blockchain.
 www: https://www.pulselasting.com/
 logo: /logos/everlasting-256.png
+categories:
+  game:
 sacrifice:
   address: "0x8b64a5e9b0CE1481a02908804800c07f5D03Fd28"
   networks:

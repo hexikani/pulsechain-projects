@@ -1,8 +1,10 @@
 ---
 name: uP Token
 desc: Deflationary token with uP movement pumped utilizing "USDL Strategy" on Liquid Loans.
-logo: /assets/logo-uptoken-256.png
+logo: /logos/uptoken-256.png
 www: https://uptoken.pro/
+categories:
+  defi:
 socials:
   tg: uPabns
 sacrifice:

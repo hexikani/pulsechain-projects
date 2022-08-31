@@ -1,8 +1,10 @@
 ---
 name: SnowBall Network
 desc: Deflationary, daily ROI platform
-logo: /assets/logo-snowball-256.png
+logo: /logos/snowball-256.png
 www: https://snowball-pulse.netlify.app/
+categories:
+  defi:
 socials:
   tg: SnowballNetwork
 sacrifice:

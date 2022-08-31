@@ -1,2 +1,18 @@
 ---
 name: WAIT
+desc: Token which apreciated time spent by waiting for PulseChain launch
+logo: /logos/wait-256.png
+www: https://0xwait.com/
+categories:
+  meme:
+  claim:
+socials:
+  twitter: 0xCoast
+  tg: Coast0x
+links:
+  - dapp: https://app.0xwait.com/ 
+token:
+  symbol: WAIT
+  chains: ethereum
+  address: "0xb5588c411ba0bb7d38865fdc51d082d004e519f7"
+  nomics: wait2-wait

@@ -3,6 +3,9 @@ name: BEETroot
 desc: Deflationary token with auto-rewards, anonymous cross-chain exchange, EVM bridge, private transactions, buy back & burn and black hole address reducing supply.
 logo: /logos/beetroot-256.png
 www: https://www.beetroot.world/
+categories:
+  privacy:
+  defi:
 socials:
   twitter: BEETroot___
   tg: BEETrootChat
@@ -11,7 +14,7 @@ links:
   - audit: https://www.beetroot.world/_files/ugd/b4e0f9_2757e83d399a4cb2b9488d1e8e8d4ffb.pdf
   - dapp: https://dapp.beetroot.world/
 sacrifice:
-  type: running
+  type: disabled
   desc: sacrifice to prove how strongly you believe in the rights of anonymity and privacy
   start: Tomorrow  # currently in pre-sacrifice stage
   end: PulseChainLaunchDate+7d

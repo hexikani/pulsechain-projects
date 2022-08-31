@@ -1,8 +1,9 @@
 ---
 name: Pulse Trade
 desc: Decentralized exchange on PulseChain
-logo: /assets/logo-pulsetrade-256.png
+logo: /logos/pulsetrade-256.png
 www: https://www.pulse-trade.io/
+categories:
 socials:
   tg: PulseTradeio
 sacrifice:

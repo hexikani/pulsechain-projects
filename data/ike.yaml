@@ -1,8 +1,10 @@
 ---
 name: IKE Finance
 desc: High yield protocol launching on Pulsechain.
-logo: /assets/logo-ike-256.png
+logo: /logos/ike-256.png
 www: https://ike.finance/
+categories:
+  defi:
 socials:
   twitter: IKETOKEN_
   tg: IKETOKEN

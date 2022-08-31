@@ -1,8 +1,10 @@
 ---
 name: FPpool
 desc: A freepulse.io sacrifice pool
-logo: /assets/logo-fppool-256.png
+logo: /logos/fppool-256.png
 www: https://freepulsepool.com/
+categories:
+  sacrifice-pool:
 socials:
   tg: FPpool
 sacrifice:

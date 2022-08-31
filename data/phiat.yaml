@@ -1,8 +1,10 @@
 ---
 name: Phiat
 desc: Borrow. Leverage. Short. A fork of AAVE for PulseChain
-logo: /assets/logo-phiat-256.png
+logo: /logos/phiat-256.png
 www: https://phiat.io/
+categories:
+  defi:
 socials:
   twitter: phiatcrypto
   tg: +_2BI2i6MFtg1N2I9

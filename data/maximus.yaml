@@ -1,8 +1,10 @@
 ---
 name: Maximus
 desc: Earn more HEX yield, save on gas fees, and hold liquid with Maximus stake pools.
-logo: /assets/logo-maximus-256.png
+logo: /logos/maximus-256.png
 www: https://maximus.cash/
+categories:
+  defi:
 socials:
   twitter: maximus_dao
   tg: MaximusDAO

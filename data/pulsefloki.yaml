@@ -1,7 +1,10 @@
 ---
 name: PulseFloki
 desc: Vikings next generation dog meme token
+logo: /logos/pulsefloki-256.png
 www: https://pulsefloki.io
+categories:
+  meme:
 socials:
   twitter: pulse_floki
   tg: pulseflokientry

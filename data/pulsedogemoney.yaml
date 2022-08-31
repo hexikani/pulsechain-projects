@@ -3,6 +3,8 @@ name: PulseDogeMoney
 desc: Hyperdeflationary memecoin on BSC & PulseChain
 logo: /logos/pulsedogemoney-256.png
 www: https://www.moge.dev/
+categories:
+  meme:
 socials:
   twitter: PulseDogeMoney
   tg: PulseDogeMoney

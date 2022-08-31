@@ -1,8 +1,12 @@
 ---
 name: Khaos Verse
-desc: Provides the bridge between PulseChain and ERC-20 with the lowest trading fees and highest APY on PulseChain network
-logo: /assets/logo-khaos-verse-256.png
+desc: Provides the bridge between PulseChain and ERC-20 with the lowest trading fees and high APY.
+logo: /logos/khaos-verse-256.png
 www: https://khaosverse.com/
+categories:
+  defi:
+  bridge:
+  dex:
 socials:
   twitter: KhaosVerse
   tg: KhaosVerse

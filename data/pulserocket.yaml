@@ -1,7 +1,10 @@
 ---
 name: Pulse Rocket
 desc: Unique memecoin project for PulseChain network.
+logo: /logos/pulserocket-256.png
 www: https://pulserocket.io/
+categories:
+  meme:
 socials:
   twitter: pulserocketio
   tg: PulseRocketio

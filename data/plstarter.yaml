@@ -1,8 +1,10 @@
 ---
 name: PulseStarter
 desc: Platform, which gives everyone opportunity to get creative and start their own PulseChain project by making Token Development process easy and available to everyone.
-logo: /assets/logo-plstarter-256.png
+logo: /logos/plstarter-256.png
 www: https://plstarter.com/
+categories:
+  development:
 socials:
   twitter: Plstarter
   tg: plstarter

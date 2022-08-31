@@ -1,8 +1,11 @@
 ---
 name: PulseX
 desc: Most liquid DEX on PulseChain by Richard Heart.
-logo: /assets/logo-pulsex-256.png
+logo: /logos/pulsex-256.png
 www: https://pulsex.com/
+categories:
+  defi:
+  dex:
 socials:
   twitter: pulsexcom
   tg: PulseXcom

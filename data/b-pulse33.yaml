@@ -1,8 +1,10 @@
 ---
 name: Pulse33 (BEP-20)
 desc: A meme coin from author of freepulse.io, launched on BSC to be copied 1:1 on PulseChain
-logo: /assets/logo-pulse33-256.png
+logo: /logos/pulse33-256.png
 www: https://pulse33.com/
+categories:
+  meme:
 socials:
   tg: Pulse33com
 token:

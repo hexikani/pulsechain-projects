@@ -1,8 +1,11 @@
 ---
 name: Ray Dex
 desc: Decentralized Trading and Lending on PulseChain. Earn $PLS Rewards by Staking $RDX.
-logo: /assets/logo-raydex-256.png
+logo: /logos/raydex-256.png
 www: https://www.raydex.org/
+categories:
+  defi:
+  dex:
 socials:
   twitter: raydexcrypto
   tg: raydexchat

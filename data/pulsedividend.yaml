@@ -1,6 +1,9 @@
 ---
 name: Pulse Dividend
 desc: Deflationary token that pays dividends in HEX on Ethereum & PulseChain.
+logo: /logos/pulsedividend-256.png
+categories:
+  defi:
 socials:
   twitter: pulsedividend
   tg: pulsedividendwin

@@ -1,8 +1,11 @@
 ---
 name: PulseHotList
 desc: PulseChain project and token ranking site.
-logo: /assets/logo-pulsehotlist-128.png
+logo: /logos/pulsehotlist-256.png
 www: https://pulsehotlist.com/
+categories:
+  site:
+  ranking:
 socials:
   twitter: PulseHotList
   tg: PulseHotList

@@ -1,7 +1,9 @@
 ---
 name: PHLpool
 desc: PulseHotList sacrifice pool
-logo: /assets/logo-phlpool-256.png
+logo: /logos/phlpool-256.png
+categories:
+  sacrifice-pool:
 socials:
   tg: PHLpool
 sacrifice:

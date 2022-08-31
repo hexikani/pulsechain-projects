@@ -1,7 +1,11 @@
 ---
 name: PulseDogecoin (ERC-20)
-logo: /assets/logo-pulsedogecoin-256.png
+logo: /logos/pulsedogecoin-256.png
 www: https://pulsedogecoin.com/
+categories:
+  meme:
+  nft:
+  claim:
 socials:
   tg: PLSDcoin
 token:

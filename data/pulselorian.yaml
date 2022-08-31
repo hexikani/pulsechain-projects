@@ -1,8 +1,10 @@
 ---
 name: Pulselorian
 desc: A Guild of BSKR HANDS on PulseChain.
-logo: /assets/logo-pulselorian-256-square.png
+logo: /logos/pulselorian-256.png
 www: https://pulselorian.com/
+categories:
+  meme:
 socials:
   twitter: ThePulseLorian
   tg: ThePulselorian

@@ -1,8 +1,10 @@
 ---
 name: Pulse Oxygen
 desc: Buy, sell, hold, invest and exchange real world carbon credits.
-logo: /assets/logo-pulseoxygen-256.png
+logo: /logos/pulseoxygen-256.png
 www: https://pulseoxygen.info/
+categories:
+  meme:
 socials:
   twitter: pulseoxygen
   tg: pulseoxygen

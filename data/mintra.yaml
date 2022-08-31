@@ -1,8 +1,10 @@
 ---
 name: Mintra.io
 desc: The Greenest NFT Marketplace. Earn $PLS Rewards by Staking $MINT
-logo: /assets/logo-mintra-256.png
+logo: /logos/mintra-256.png
 www: https://mintra.io/
+categories:
+  nft-market:
 socials:
   twitter: Mintraio
   tg: MintraOfficial

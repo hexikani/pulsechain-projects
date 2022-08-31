@@ -1,6 +1,10 @@
 ---
 name: PulseApps
 desc: PulseChain AppStore
+logo: /logos/pulseapps-256.png
+www: https://pulseapps.co
+categories:
+  ranking:
 sacrifice:
   address: "0x052f899e4e3fe467FDF76155548ac9ef8A1d5caf"
   networks:

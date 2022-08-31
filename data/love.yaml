@@ -1,8 +1,10 @@
 ---
 name: Love.io
 desc: A peer-to-peer cryptocurrency that monetizes social interactions on social media, eCommerce, and gaming.
-logo: /assets/logo-love-256.png
+logo: /logos/love-256.png
 www: https://love.io
+categories:
+  defi:
 socials:
   twitter: lovedotio
   tg: loveiocommunity

@@ -1,6 +1,7 @@
 ---
 name: Staker.app
 desc: HEX custodian wallet
+logo: /logos/stakerapp-256.png
 www: https://staker.app
 categories:
   app:

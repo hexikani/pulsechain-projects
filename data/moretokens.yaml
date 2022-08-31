@@ -1,7 +1,10 @@
 ---
 name: More Tokens (ERC-20)
-desc:
+desc: Meme token by TrVon
+logo: /logos/moretokens-256.png
 www: https://www.moretokens.com/
+categories:
+  meme:
 socials:
   twitter: buymoretokens
   tg: buymoretokens

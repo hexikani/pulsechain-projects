@@ -1,8 +1,11 @@
 ---
 name: BankX
 desc: A dual token, partially collateralized, partially algorithmic stablecoin.
-logo: /assets/logo-bankx-256.png
+logo: /logos/bankx-256.png
 www: https://bankx.io/
+categories:
+  defi:
+  stable-coin:
 links:
   - docs: https://docs.bankx.io/
 socials:

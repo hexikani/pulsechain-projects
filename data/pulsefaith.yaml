@@ -1,7 +1,10 @@
 ---
 name: Pulse Faith
 desc: Lifting the Common Man by Wealth Distribution on Pulsechain Ecosystem
+logo: /logos/anything-256.png
 www: https://www.pulsefaith.com/
+categories:
+  defi:
 sacrifice:
   type: disabled
   desc: sacrifice to show your belief in the power of wealth distribution

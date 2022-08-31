@@ -1,8 +1,10 @@
 ---
 name: Terrapulse
 desc: Building the future of finance on the PulseChain network
-logo: /assets/logo-terrapulse-256.png
+logo: /logos/terrapulse-256.png
 www: https://www.terrapulse.xyz/
+categories:
+  defi:
 socials:
   twitter: terrapulse_xyz
 sacrifice:

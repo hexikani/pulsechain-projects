@@ -1,8 +1,10 @@
 ---
 name: Meme Coin City
-desc: A zero narrative meme coin collection on PulseChain. Just hold $MEME and receive air drops of every new meme coin in our collection.
-logo: /assets/logo-memecoincity-256.png
+desc: A zero narrative meme coin collection on PulseChain. Just hold $MEME and receive airdrops of every new meme coin in our collection.
+logo: /logos/memecoincity-256.png
 www: https://memecoincity.com/
+categories:
+  meme:
 socials:
   twitter: MemeCoinCity
   tg: memecoincity

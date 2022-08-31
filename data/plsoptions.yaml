@@ -1,8 +1,10 @@
 ---
 name: PLSOptions
 desc: Options trading on PulseChain.
-logo: /assets/logo-anything-256.png
+logo: /logos/anything-256.png
 www: https://plsoptions.com/
+categories:
+  defi:
 socials:
   tg: plsoptions
 sacrifice:

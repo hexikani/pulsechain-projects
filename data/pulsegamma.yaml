@@ -1,8 +1,10 @@
 ---
 name: Gamma
 desc: Decentralized social media platform, built by pulsians
-logo: /assets/logo-pulsegamma-256.png
+logo: /logos/pulsegamma-256.png
 www: https://web.archive.org/web/20220815005323/https://pulsegamma.com/
+categories:
+  social:
 socials:
   twitter: PulseGammaRay
 sacrifice:

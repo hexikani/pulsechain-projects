@@ -1,10 +1,14 @@
 ---
 name: PulseLoki (ERC-20)
 desc: Meme coin using the tax from sells to fund the Pulse Chain liquidity pool.
+logo: /logos/pulseloki-256.png
 www: https://www.pulseloki.com/
+categories:
+  meme:
 socials:
   twitter: PulseLoki
   tg: pulseloki
+  mail: pulselokiofficial@gmail.com
 token:
   type: final
   symbol: PLOKI

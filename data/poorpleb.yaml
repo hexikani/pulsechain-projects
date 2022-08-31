@@ -1,8 +1,10 @@
 ---
 name: PoorPleb Token
 desc: ERC20 memecoin aimed at plebs with a big $PP
-logo: /assets/logo-poorpleb-256.png
+logo: /logos/poorpleb-256.png
 www: https://poorpleb.win/
+categories:
+  meme:
 socials:
   twitter: poorplebwin
   tg: poorplebwin

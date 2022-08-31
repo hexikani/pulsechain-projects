@@ -1,8 +1,10 @@
 ---
 name: Hocus Pocus Token (tPRC-20)
 desc: DeFi protocol which simplifies staking with deflationary reflection token with rewards.
-logo: /assets/logo-hocuspocus-256.png
+logo: /logos/hocuspocus-256.png
 www: https://hocuspocus.finance/
+categories:
+  defi:
 socials:
   tg: HocusPocusFinance
   twitter: HocusPocusFi

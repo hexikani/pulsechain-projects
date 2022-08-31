@@ -1,6 +1,10 @@
 ---
 name: PulseBonk
+desc: Meme token
+logo: /logos/pulsebonk-256.png
 www: https://sites.google.com/view/pulsebonk/home
+categories:
+  meme:
 sacrifice:
   address: "0x315821305f19Bf9259ba4a21C54D694b6c487875"
   networks:

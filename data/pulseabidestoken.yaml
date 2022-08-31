@@ -1,8 +1,10 @@
 ---
 name: Pulse Abides Token
 desc: Token with value appreciation based on revenue from YouTube stream.
-logo: /assets/logo-pulseabidestoken-256.png
+logo: /logos/pulseabidestoken-256.png
 www: https://www.thepulseabides.info/
+categories:
+  meme:
 socials:
   tg: ThePulseAbidesToken
   yt: ThePulseAbides

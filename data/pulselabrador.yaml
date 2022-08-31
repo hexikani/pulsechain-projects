@@ -1,7 +1,10 @@
 ---
 name: PulseLabrador
 desc: Meme token
+logo: /logos/pulselabrador-256.png
 www: https://pulselab.nicepage.io/
+categories:
+  meme:
 socials:
   tg: PulseLab
 sacrifice:

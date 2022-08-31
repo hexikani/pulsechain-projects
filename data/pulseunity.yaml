@@ -1,7 +1,11 @@
 ---
 name: Pulse Unity
-desc:
+desc: Meme token with goal to create unity across the whole DeFi.
+logo: /logos/pulseunity-256.png
 www: https://pulseunity.com/
+categories:
+  meme:
+  social:
 socials:
   twitter: pulseunity69
   tg: pulseunitysacrifice
@@ -9,6 +13,10 @@ socials:
   ig: pulseunity69
 sacrifice:
   address: "0x543cB0157f517c39bDe98D7F2965c37621C1cEf7"
+  desc: sacrifice for total freedom of how you control your money
+  end: "2022-09-12T23:00:00Z"
   networks:
     ethereum:
       tokens: HEX, USDC, DAI, USDT, GUSD, TUSD
+token:
+  symbol: PU
