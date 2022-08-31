@@ -1,0 +1,12 @@
+---
+name: PulseDogeMoney
+desc: Hyperdeflationary memecoin on BSC & PulseChain
+logo: /logos/pulsedogemoney-256.png
+www: https://www.moge.dev/
+socials:
+  twitter: PulseDogeMoney
+  tg: PulseDogeMoney
+token:
+  symbol: MOGE
+  chain: BSC
+  address: "0x6da72bc156332827706bc2b8a8104d756b62f5d0"

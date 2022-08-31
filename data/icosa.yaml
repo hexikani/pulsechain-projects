@@ -1,0 +1,12 @@
+---
+name: Icosa (ERC-20)
+desc: Stake Hedron, get Icosa. Become a part of the Source Address.
+logo: /logos/icosa-256.png
+www: https://icosa.pro/
+socials:
+  twitter: IcosaCrypto
+  tg: IcosaCrypto
+links:
+  - dapp: https://app.icosa.pro/apps/icosa
+token:
+  type: final

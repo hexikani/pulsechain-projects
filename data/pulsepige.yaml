@@ -1,0 +1,9 @@
+---
+name: Pulse Pige
+www: https://pulsepige.wixsite.com/site
+socials:
+  tg: pulsepige
+token:
+  symbol: PulsePige
+  chain: bsc
+  address: "0x63ddfdabd939eb5657770f16ee101a8def1da42b"

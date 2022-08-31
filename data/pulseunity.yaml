@@ -1,0 +1,14 @@
+---
+name: Pulse Unity
+desc:
+www: https://pulseunity.com/
+socials:
+  twitter: pulseunity69
+  tg: pulseunitysacrifice
+  discord: v5TWdZaEcw
+  ig: pulseunity69
+sacrifice:
+  address: "0x543cB0157f517c39bDe98D7F2965c37621C1cEf7"
+  networks:
+    ethereum:
+      tokens: HEX, USDC, DAI, USDT, GUSD, TUSD

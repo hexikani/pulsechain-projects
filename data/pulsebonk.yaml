@@ -1,0 +1,14 @@
+---
+name: PulseBonk
+www: https://sites.google.com/view/pulsebonk/home
+sacrifice:
+  address: "0x315821305f19Bf9259ba4a21C54D694b6c487875"
+  networks:
+    ethereum:
+      tokens: HEX, USDC, USDT, DAI
+    bsc:
+      tokens: BNB, USDC, USDT, BUSD
+    avalanche:
+      tokens: USDT, USDC, BNB, BUSD
+socials:
+  tg: PulseBonk

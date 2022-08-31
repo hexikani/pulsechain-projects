@@ -1,0 +1,7 @@
+---
+name: SoundX Token
+desc: Cryptocurrency dedicated to the business of sound using the new PulseChain network.
+token:
+  symbol: SNDX
+  chain: pulsechain-testnet
+  address: "0x0cd3364b6b6db5ea5ac1cf8d3076885cd4254f85"

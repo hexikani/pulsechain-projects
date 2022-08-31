@@ -1,0 +1,13 @@
+---
+name: More Tokens (ERC-20)
+desc:
+www: https://www.moretokens.com/
+socials:
+  twitter: buymoretokens
+  tg: buymoretokens
+  discord: fYcZaxZkwM
+token:
+  type: final
+  symbol: MORE
+  chain: ethereum
+  address: 0xbEEf3bB9dA340EbdF0f5bae2E85368140d7D85D0

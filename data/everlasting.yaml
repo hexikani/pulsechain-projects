@@ -1,0 +1,21 @@
+---
+name: Everlasting
+desc: P2E, cross chain, PVP first person shooter game on the blockchain.
+www: https://www.pulselasting.com/
+logo: /logos/everlasting-256.png
+sacrifice:
+  address: "0x8b64a5e9b0CE1481a02908804800c07f5D03Fd28"
+  networks:
+    ethereum:
+      tokens: DAI, USDC, USDT, BUSDT
+    bsc:
+      tokens: DAI, USDC, USDT, BUSDT
+    polygon:
+      tokens: DAI, USDC, USDT, BUSDT
+    etc:
+    solana:
+      address: "EGDzFzXGmTGuK1gtut3tiWEQQ4DuCCMG8enH5RW3YTDE"
+socials:
+  twitter: sol_everlasting
+  tg: +wpOdiME4SL9mOTUx
+  discord: everlasting

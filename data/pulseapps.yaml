@@ -1,0 +1,12 @@
+---
+name: PulseApps
+desc: PulseChain AppStore
+sacrifice:
+  address: "0x052f899e4e3fe467FDF76155548ac9ef8A1d5caf"
+  networks:
+    ethereum:
+      tokens: USDT, USDC
+    bsc:
+      tokens: USDT
+token:
+  symbol: PLSA

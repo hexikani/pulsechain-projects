@@ -1,0 +1,11 @@
+---
+name: PulseFloki
+desc: Vikings next generation dog meme token
+www: https://pulsefloki.io
+socials:
+  twitter: pulse_floki
+  tg: pulseflokientry
+token:
+  symbol: PLSF
+  chain: ethereum
+  address: "0x90f36d7bfba633f17eccc62ec31c58a9a3c04c2a"

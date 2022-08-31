@@ -1,0 +1,18 @@
+---
+name: Pulse Faith
+desc: Lifting the Common Man by Wealth Distribution on Pulsechain Ecosystem
+www: https://www.pulsefaith.com/
+sacrifice:
+  type: disabled
+  desc: sacrifice to show your belief in the power of wealth distribution
+  start: "2022-09-05T00:00:00Z"
+  end: PulseChainLaunchDate
+  address: "0x166bE5632D53C82ef1a12dddf7825c915e617a27"
+  networks:
+    ethereum:
+      tokens: USDC, DAI, USDT, HEX, MAXI, CULT, PLSD, HDRN
+    bsc:
+      tokens: BUSD, USDT, CAKE
+socials:
+  twitter: Pulse_Faith
+  tg: pulse_faith

@@ -1,0 +1,33 @@
+---
+name: BEETroot
+desc: Deflationary token with auto-rewards, anonymous cross-chain exchange, EVM bridge, private transactions, buy back & burn and black hole address reducing supply.
+logo: /logos/beetroot-256.png
+www: https://www.beetroot.world/
+socials:
+  twitter: BEETroot___
+  tg: BEETrootChat
+  email: support@beetroot.world
+links:
+  - audit: https://www.beetroot.world/_files/ugd/b4e0f9_2757e83d399a4cb2b9488d1e8e8d4ffb.pdf
+  - dapp: https://dapp.beetroot.world/
+sacrifice:
+  type: running
+  desc: sacrifice to prove how strongly you believe in the rights of anonymity and privacy
+  start: Tomorrow  # currently in pre-sacrifice stage
+  end: PulseChainLaunchDate+7d
+  address: "0xfb2167cdD74FC8379D3ba83De9A3893772a5136D"
+  networks:
+    ethereum:
+      tokens: USDC, USDT, BUSD, DAI
+    bsc:
+      tokens: USDC, BUSD-T, BUSD, DAI
+  final: https://docs.google.com/spreadsheets/d/1yolbo_DpN8Hzz0SfquUpxZEfybqvIT9RA4umIE2-lMk/edit?usp=sharing
+ranking:
+  founder: orange
+  team: orange
+  plan: orange
+  implementation: green
+  audit: green
+  note: Our ranking has not been verified with the project team yet. BEETroot token on PulseChain testnet was audited by InterFi.
+token:
+  symbol: BEET

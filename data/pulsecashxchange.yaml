@@ -1,0 +1,11 @@
+---
+name: Pulse Cash Xchange
+desc: Fiat on ramp for PulseChain
+www: http://pulsecashxchange.com
+categories:
+  fiat-onramp:
+socials:
+  twitter: PulseCashX
+  tg: PulseCashXchange
+token:
+  symbol: PCT
