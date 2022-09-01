@@ -11,6 +11,8 @@ socials:
   twitter: DTX_crypto
   tg: DTX_crypto
   email: hello@decentralizex.com
+links:
+  - dapp: https://decentralizex.io
 sacrifice:
   type: disabled
   desc: sacrifice to prove how strongly you believe that blockchains are speech and speech is a protected human right
