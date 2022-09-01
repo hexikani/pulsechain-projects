@@ -1,0 +1,12 @@
+---
+name: PulseFire
+desc: PulseChain deflationary coin. Buyback & burn is what brings real value.
+status: rugged
+socials:
+  tg: PulseFireCoin
+categories:
+  meme:
+token:
+  symbol: FIRE
+  chain: bsc
+  address: "0x4ec6b0e894d09450ba530d7d599db2361ea19529"
