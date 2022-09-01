@@ -1,0 +1,16 @@
+---
+name: PulseVerse
+status: active
+desc: Create, trade, collect, earn and more on PulseVerse. A decentralised NFT ecosystem on PulseChain.
+logo: /logos/pulseverse-256.png
+www: https://pulseverse.io/
+categories:
+  nft-market:
+socials:
+  twitter: PulseVerseio
+  tg: PulseVerse
+  discord: veUkyeVqPB
+sacrifice:
+  www: https://mysacrifice.io/
+token:
+  symbol: PLSV

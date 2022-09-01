@@ -1,0 +1,17 @@
+---
+name: NFTonPulse
+status: active
+desc: List your existing NFTs. Design an NFT with built-in tool. Stake to Pool. Earn royalties. Tip creators in $INNO.
+logo: /logos/nftonpulse.svg
+www: https://nftonpulse.io/
+categories:
+  nft-market:
+  airdrop:
+socials:
+  twitter: nftonpulse
+  tg: nftonpulse
+  yt: c/HowToPulse
+sacrifice:
+  note: Sacrifice coming after pulsechain mainnet
+token:
+  symbol: INNO
