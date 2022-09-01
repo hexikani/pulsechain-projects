@@ -1,0 +1,11 @@
+---
+name: Pulselink
+status: abandoned
+desc: PulseChain Oracle. Native to PulseChain. Built for PulseChain.
+logo: /logos/pulselink-256.png
+categories:
+  defi:
+socials:
+  twitter: PulseLinkOracle
+token:
+  symbol: PLINK
