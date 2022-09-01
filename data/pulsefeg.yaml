@@ -1,5 +1,6 @@
 ---
 name: PulseFEG
+status: usable
 desc: NEW and improved version of the famous FEG.
 logo: /logos/pulsefeg-256.png
 www: https://pulsefeg.finance/
@@ -12,4 +13,3 @@ links:
 token:
   chain: bsc
   address: "0x1e5dd94a6d7190ab77f834e2ccdf9072597ae4e3"
-

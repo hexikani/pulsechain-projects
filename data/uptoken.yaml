@@ -1,5 +1,6 @@
 ---
 name: uP Token
+status: active
 desc: Deflationary token with uP movement pumped utilizing "USDL Strategy" on Liquid Loans.
 logo: /logos/uptoken-256.png
 www: https://uptoken.pro/

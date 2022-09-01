@@ -1,5 +1,6 @@
 ---
 name: FPpool
+status: active
 desc: A freepulse.io sacrifice pool
 logo: /logos/fppool-256.png
 www: https://freepulsepool.com/

@@ -1,5 +1,6 @@
 ---
 name: BankX
+status: active
 desc: A dual token, partially collateralized, partially algorithmic stablecoin.
 logo: /logos/bankx-256.png
 www: https://bankx.io/

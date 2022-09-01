@@ -1,5 +1,6 @@
 ---
 name: Pulse Cash Xchange
+status: abandoned
 desc: Fiat on ramp for PulseChain
 logo: /logos/pulsecashxchange-256.png
 www: http://pulsecashxchange.com

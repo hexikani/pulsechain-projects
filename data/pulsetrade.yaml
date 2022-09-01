@@ -1,5 +1,6 @@
 ---
 name: Pulse Trade
+status: promise
 desc: Decentralized exchange on PulseChain
 logo: /logos/pulsetrade-256.png
 www: https://www.pulse-trade.io/

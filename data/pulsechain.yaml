@@ -1,5 +1,6 @@
 ---
 name: PulseChain
+status: active
 desc: Full state fork of Ethereum creating L1 blockchain with faster block time, higher throughput and cheap transaction costs.
 logo: /logos/pulsechain-256.png
 www: https://www.pulsechain.com/

@@ -1,5 +1,6 @@
 ---
 name: Internet Money (BEP-20)
+status: active
 desc: A form of peer to peer "digital cash" - the main currency of IM wallet. Launched on BSC to copied 1:1 to PulseChain.
 logo: /logos/im-256.png
 www: https://imcrypto.net/im

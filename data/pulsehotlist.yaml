@@ -1,5 +1,6 @@
 ---
 name: PulseHotList
+status: usable
 desc: PulseChain project and token ranking site.
 logo: /logos/pulsehotlist-256.png
 www: https://pulsehotlist.com/

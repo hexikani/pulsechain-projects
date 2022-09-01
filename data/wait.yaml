@@ -1,5 +1,6 @@
 ---
 name: WAIT
+status: usable
 desc: Token which apreciated time spent by waiting for PulseChain launch
 logo: /logos/wait-256.png
 www: https://0xwait.com/
@@ -10,7 +11,7 @@ socials:
   twitter: 0xCoast
   tg: Coast0x
 links:
-  - dapp: https://app.0xwait.com/ 
+  - dapp: https://app.0xwait.com/
 token:
   symbol: WAIT
   chains: ethereum

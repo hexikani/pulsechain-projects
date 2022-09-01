@@ -1,5 +1,6 @@
 ---
 name: Khaos Verse
+status: active
 desc: Provides the bridge between PulseChain and ERC-20 with the lowest trading fees and high APY.
 logo: /logos/khaos-verse-256.png
 www: https://khaosverse.com/

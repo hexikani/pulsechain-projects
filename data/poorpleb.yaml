@@ -1,5 +1,6 @@
 ---
 name: PoorPleb Token
+status: promise
 desc: ERC20 memecoin aimed at plebs with a big $PP
 logo: /logos/poorpleb-256.png
 www: https://poorpleb.win/
