@@ -1,0 +1,17 @@
+---
+name: PulseDogElon
+status: usable
+desc: Meme token inspired by Elon
+logo: /logos/pulsedogelon-256.png
+www: https://pulsedogelon.com/
+socials:
+  twitter: PulseDogElon
+  ig: pulsedogelon
+sacrifice:
+  final: https://pulsedogelon.com/sacrifice-balance/
+  desc: sacrifice to prove your believe that believe speech is a protected human right and blockchains are speech
+  pointsPerUSD: 100
+token:
+  symbol: PELON
+  chain: bsc
+  address: "0x78ebc9e48133e442dde8e3f42bb2b4cd2e3ae007"
