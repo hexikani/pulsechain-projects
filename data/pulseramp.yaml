@@ -1,0 +1,11 @@
+---
+name: PulseRamp - PulseChain Bridge
+status: completed
+desc: Community bridge between Ethereum network and PulseChain
+logo: /logos/pulsechain-256.png
+www: https://pulseramp.com
+categories:
+  bridge:
+socials:
+  twitter: PulseChainCom
+  tg: PulseChainCom
