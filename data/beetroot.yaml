@@ -15,7 +15,7 @@ links:
   - audit: https://www.beetroot.world/_files/ugd/b4e0f9_2757e83d399a4cb2b9488d1e8e8d4ffb.pdf
   - dapp: https://dapp.beetroot.world/
 sacrifice:
-  type: disabled
+  type: running
   desc: sacrifice to prove how strongly you believe in the rights of anonymity and privacy
   start: Tomorrow  # currently in pre-sacrifice stage
   end: PulseChainLaunchDate+7d
@@ -32,6 +32,6 @@ ranking:
   plan: orange
   implementation: green
   audit: green
-  note: Our ranking has not been verified with the project team yet. BEETroot token on PulseChain testnet was audited by InterFi.
+  note: BEETroot token on PulseChain testnet was audited by InterFi.
 token:
   symbol: BEET
