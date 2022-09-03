@@ -1,0 +1,13 @@
+---
+name: NoSignal NFT
+status: promise
+desc: NFT project launching on PulseChain
+logo: /logos/nosignalnft-256.png
+www: https://nosignal-nft.xyz
+categories:
+  nft:
+socials:
+  twitter: nosignal_plsnft
+  tg: nosignal_plsnft
+token:
+  symbol: NOSI
