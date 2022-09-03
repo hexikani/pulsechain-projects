@@ -1,0 +1,22 @@
+---
+name: Stupid Doge Coin
+status: usable
+desc: The dumbest most stupid doge coin of them all.
+logo: /logos/stupiddogecoin-256.png
+www: https://hexbear.lol/
+categories:
+  meme:
+links:
+  dapp: https://hexbear.lol/drops/
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: green
+  audit: red
+  note: There is no audit, but this is simple token with trivial code to burn HXB and mint SUC.
+token:
+  type: final
+  symbol: SUC
+  chain: ethereum
+  address: "0xf855fb30ee010d3db677185c7099f2481562755c"

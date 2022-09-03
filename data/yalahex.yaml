@@ -1,0 +1,15 @@
+---
+name: YalaHEX
+status: active
+desc: Smart contract for trustlessly pooling 15 HEX stakes laddered yearly
+logo: /logos/yalahex-256.png
+www: https://yalahex.com/
+categories:
+  defi:
+socials:
+  twitter: yalahex
+  tg: yalahex
+links:
+  audit: https://www.docdroid.net/HTZDExV/yalahex-auditreport-interfi-pdf
+token:
+  symbol: HEXY
