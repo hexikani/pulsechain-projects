@@ -12,5 +12,7 @@ socials:
 links:
   - dapp: https://hedron.pro/#/dapp
 token:
-  type: final
   desc: Value minted from HEX T-Shares
+  symbol: HDRN
+  chain: ethereum
+  address: "0x3819f64f282bf135d62168c1e513280daf905e06"

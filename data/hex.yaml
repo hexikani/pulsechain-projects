@@ -9,5 +9,8 @@ categories:
 socials:
   tg: HEXcrypto
 token:
-  type: final
   desc: The first high-yield blockchain Certificate of Deposit
+  symbol: HEX
+  chain: ethereum
+  address: "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+

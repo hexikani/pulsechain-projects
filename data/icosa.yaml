@@ -12,4 +12,6 @@ socials:
 links:
   - dapp: https://app.icosa.pro/apps/icosa
 token:
-  type: final
+  symbol: ICSA
+  chain: ethereum
+  address: "0xfc4913214444af5c715cc9f7b52655e788a569ed"

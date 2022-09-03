@@ -12,7 +12,6 @@ socials:
   tg: PLSDcoin
   github: pulsedogecoin
 token:
-  type: final
   desc: Token claimable by HEX stakers
   symbol: PLSD
   chain: ethereum

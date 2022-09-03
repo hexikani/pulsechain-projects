@@ -16,7 +16,6 @@ ranking:
   audit: red
   note: There is no audit, but this is simple token with trivial code to burn HXB and mint SUC.
 token:
-  type: final
   symbol: SUC
   chain: ethereum
   address: "0xf855fb30ee010d3db677185c7099f2481562755c"

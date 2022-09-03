@@ -11,7 +11,6 @@ socials:
   tg: pulseloki
   mail: pulselokiofficial@gmail.com
 token:
-  type: final
   symbol: PLOKI
   chain: ethereum
   address: "0xCEfD917456Fa37AAA0510dd624F530941e37F566"
