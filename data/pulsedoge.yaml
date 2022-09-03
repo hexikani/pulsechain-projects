@@ -16,5 +16,7 @@ socials:
   discord: Rce33xGjdH
   medium: pulsedoge
 token:
-  type: testnet
+  symbol: Pulsedoge
   desc: First meme coin on PulseChain
+  chain: pulsechain-testnet
+  address: "0xF0C2EfE8b8aE05fF65445b5B38c331790407f8D9"

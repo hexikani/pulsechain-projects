@@ -10,5 +10,7 @@ socials:
   tg: HocusPocusFinance
   twitter: HocusPocusFi
 token:
-  type: testnet
+  symbol: HOC
   desc: Simplifies staking and farming, HODL it and receive rewards
+  chain: pulsechain-testnet
+  address: "0x308bc1FEb4ecd7866D4344d6212b0a469Dc2D41e"

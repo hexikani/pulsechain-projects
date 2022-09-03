@@ -9,5 +9,8 @@ categories:
 socials:
   tg: Pulse33com
 token:
+  symbol: P33
   type: foreign-chain
   desc: Best meme coin on PulseChain
+  chain: bsc
+  address: "0x420690007b947017b3b9c837d271b3583330a2a5"
