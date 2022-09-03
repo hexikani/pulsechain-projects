@@ -10,7 +10,7 @@ socials:
   twitter: Hpx369
   tg: hpx369
 sacrifice:
-  type: disabled
+  type: running
   desc: ???
   start: "2022-08-09T00:00:00Z"
 token:

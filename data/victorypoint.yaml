@@ -15,6 +15,6 @@ socials:
 links:
   - docs: https://docs.winwin.finance/
 sacrifice:
-  type: disabled
+  type: delayed
   desc: sacrifice to prove how strongly you believe in the freedom of gaming and the right of gamers to own their in-game assets
   start: "2022-06-01T00:00:00.000Z"

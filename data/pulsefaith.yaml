@@ -6,7 +6,7 @@ www: https://www.pulsefaith.com/
 categories:
   defi:
 sacrifice:
-  type: disabled
+  type: running
   desc: sacrifice to show your belief in the power of wealth distribution
   start: "2022-09-05T00:00:00Z"
   end: PulseChainLaunchDate

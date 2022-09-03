@@ -10,6 +10,6 @@ socials:
   tg: CryptoHoursNetwork
   yt: c/CryptoHours
 sacrifice:
-  type: disabled
+  type: running
   desc: sacrifice for believe freedom of speech is a protected human right
   start: "2022-06-07T00:00:00.000Z"

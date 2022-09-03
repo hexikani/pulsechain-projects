@@ -11,6 +11,6 @@ socials:
   tg: PulseValley
   ig: pulsevalley
 sacrifice:
-  type: disabled
+  type: running
   desc: sacrifice to prove that you believe extorsion is a crime even when done by governments, and that you also believe blockchains are speech and speech is a protected human right
   start: "2022-07-29T00:00:00Z"

@@ -10,6 +10,6 @@ socials:
   twitter: MemeCoinCity
   tg: memecoincity
 sacrifice:
-  type: disabled
+  type: running
   desc: sacrifice to prove that you believe extorsion is a crime even when done by governments, and that you also believe blockchains are speech and speech is a protected human right
   start: "2022-07-24T19:00:00Z"
