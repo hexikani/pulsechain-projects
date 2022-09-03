@@ -1,5 +1,9 @@
 This repository is published under [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) licence.
 
+**Exception to this license applies to logo images in the `/logos` directory. These can be subject to other licenses.**  
+Logos of projects, products, and tokens were included in this repository to promote these projects, while not directly creating any profit.
+Owners of the related copyrights can anytime raise a [Issue](https://github.com/hexikani/pulsechain-projects/issues/new) if they feel their rights are infringed.
+
 Origin repository is [github.com/hexikani/pulsechain-projects](https://github.com/hexikani/pulsechain-projects).
 
 You are free to:
