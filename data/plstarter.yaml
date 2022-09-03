@@ -9,6 +9,8 @@ categories:
 socials:
   twitter: Plstarter
   tg: plstarter
+links:
+  audit: https://github.com/TechRate/Smart-Contract-Audits/blob/main/August_2022/PLSTARTER.pdf
 sacrifice:
   type: running
   desc: sacrifice to show how strongly you believe in freedom of business activity and entrepreneurship
@@ -26,8 +28,8 @@ ranking:
   founder: green
   team: orange
   plan: orange
-  implementation: red
-  audit: red
-  note: Our ranking has not been verified with the project team yet.
+  implementation: orange
+  audit: green
+  note: Audit covers only PLST token which is just a part of the project
 token:
   symbol: PLST
