@@ -21,7 +21,9 @@ sacrifice:
   pointsPerUSD: 100
   networks:
     ethereum:
-      tokens: HEX, USDC, DAI, USDT, GUSD, TUSD
+      tokens: HEX, USDC, DAI, USDT, GUSD, TUSD, BUSD
+    bsc:
+      tokens: BUSD
 ranking:
   founder: green
   team: orange
