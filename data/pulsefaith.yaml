@@ -15,7 +15,14 @@ sacrifice:
     ethereum:
       tokens: USDC, DAI, USDT, HEX, MAXI, CULT, PLSD, HDRN
     bsc:
-      tokens: BUSD, USDT, CAKE
+      tokens: BUSD, BUSD-T, CAKE
+ranking:
+  founder: red
+  team: red
+  plan: red
+  implementation: red
+  audit: red
+  note: Our ranking has not been verified with the project team yet.
 socials:
   twitter: Pulse_Faith
   tg: pulse_faith
