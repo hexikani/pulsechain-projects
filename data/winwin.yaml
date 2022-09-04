@@ -15,7 +15,7 @@ sacrifice:
   desc: sacrifice to show how strongly you believe in freedom of business activity and entrepreneurship
   start: "2022-09-15T00:00:00Z"
   end: PulseChainLaunchDate
-  address: "0x0000000000000000000000000000000000000001"
+  address: "0x1230000000000000000000000000000000000123"
   networks:
     ethereum:
       tokens: DAI, HEX, HDRN, LUSD, MAXI, TUSD, USDC, USDT, WBTC
