@@ -8,13 +8,16 @@ categories:
   game:
 sacrifice:
   address: "0x8b64a5e9b0CE1481a02908804800c07f5D03Fd28"
+  start: "2022-08-23T00:00:00Z" # assumed
+  end: "2022-10-23T00:00:00Z"
+  pointsPerUSD: 1000
   networks:
     ethereum:
-      tokens: DAI, USDC, USDT, BUSDT
+      tokens: DAI, USDC, USDT
     bsc:
-      tokens: DAI, USDC, USDT, BUSDT
+      tokens: DAI, USDC, BUSD-T
     polygon:
-      tokens: DAI, USDC, USDT, BUSDT
+      tokens: DAI, USDC, USDT
     etc:
     solana:
       address: "EGDzFzXGmTGuK1gtut3tiWEQQ4DuCCMG8enH5RW3YTDE"
