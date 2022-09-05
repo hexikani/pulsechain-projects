@@ -13,3 +13,11 @@ fundraiser:
   name: Maximus Grand Exhibition at PulseCon 2022
   type: past
   desc: Maximus team is seeking donations to fund booth at PulseCon 2022 conference in Vegas this September 2022
+token:
+  symbol: MAXI
+  chain: ethereum
+  address: "0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b"
+  nomics:
+    id: maxi5-maximus
+    name: Maximus
+    base: MAXI5

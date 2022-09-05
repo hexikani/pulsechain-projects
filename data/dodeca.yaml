@@ -14,3 +14,11 @@ sacrifice:
   type: past
   desc: sacrifice to prove you belief that cryptocurrency was invented to remove middlemen and third-parties
   start: "2022-08-14T00:00:00Z"
+token:
+  symbol: DODECA
+  chain: ethereum
+  address: "0xadb0739822374a05653f513683ddbeba3cc81f2e"
+  nomics:
+    id: dodeca-dodeca
+    name: Dodeca
+    base: DODECA
