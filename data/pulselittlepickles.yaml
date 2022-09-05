@@ -1,0 +1,15 @@
+---
+name: Pulse Little Pickles
+status: usable
+desc: Meme token inspired by a pickle.
+logo: /logos/pulselittlepickles-256.png
+www: https://www.littlepickle.win
+categories:
+  meme:
+socials:
+  twitter: PulseLittlePick
+  tg: PulseLittlePickles
+token:
+  symbol: PLP
+  chain: ethereum
+  address: "0x94747CFF65817cD5b505E7af21f8A93161589D60"
