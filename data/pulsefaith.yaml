@@ -8,7 +8,7 @@ categories:
 sacrifice:
   type: running
   desc: sacrifice to show your belief in the power of wealth distribution
-  start: "2022-09-05T00:00:00Z"
+  start: "2022-09-05T22:00:00Z"
   end: PulseChainLaunchDate
   address: "0x166bE5632D53C82ef1a12dddf7825c915e617a27"
   networks:
