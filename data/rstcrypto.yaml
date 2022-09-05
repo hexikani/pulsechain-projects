@@ -1,0 +1,26 @@
+---
+name: Rett Syndrome Token
+status: usable
+desc: Token for raising awareness for Rett Syndrome 
+logo: /logos/rstcrypto-256.png
+www: https://rstcrypto.com
+categories:
+  meme:
+socials:
+  twitter: RSTToken6
+  tg: RettSyndromeAwareness
+fundraiser:
+  name: Life changing equipment funding and creating awareness for Rett Syndrome 
+  type: running
+  desc: Rett Syndrome Token are seeking donations to support providing life changing equipment funding trials and creating awareness for Rett Syndrome.
+ranking:
+  founder: green
+  team: green
+  plan: orange
+  implementation: green
+  audit: red
+  note: Our ranking has not been verified with the project team yet.
+token:
+  symbol: RST
+  chain: bsc
+  address: "0x2eF672293E90B55037c6358857A9Ab80b837083B"
