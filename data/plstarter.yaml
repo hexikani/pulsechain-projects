@@ -28,7 +28,7 @@ ranking:
   founder: green
   team: orange
   plan: orange
-  implementation: orange
+  implementation: green
   audit: green
   note: Audit covers only PLST token which is just a part of the project
 token:
