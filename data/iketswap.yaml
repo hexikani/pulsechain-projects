@@ -24,11 +24,10 @@ sacrifice:
     bsc:
       tokens: USDC, BUSD  # FIXME
 ranking:
-  founder: red
+  founder: green
   team: red
   plan: red
   implementation: red
   audit: red
-  note: Our ranking has not been verified with the project team yet.
 token:
   symbol: IKET
