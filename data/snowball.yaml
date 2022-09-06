@@ -1,6 +1,6 @@
 ---
 name: SnowBall Network
-status: promise
+status: rugged
 desc: Deflationary, daily ROI platform
 logo: /logos/snowball-256.png
 www: https://snowball-pulse.netlify.app/
@@ -9,7 +9,7 @@ categories:
 socials:
   tg: SnowballNetwork
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice for the right to a free market
   start: "2022-06-03T12:00:00.000Z"
 token:
