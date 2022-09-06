@@ -6,6 +6,12 @@ logo: /logos/snowball-256.png
 www: https://snowball-pulse.netlify.app/
 categories:
   defi:
+ranking:
+  founder: red
+  team: orange
+  plan: orange
+  implementation: orange
+  audit: orange
 socials:
   tg: SnowballNetwork
 sacrifice:
