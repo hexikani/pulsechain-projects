@@ -13,7 +13,8 @@ Allowed root keys:
     - `active` - project is in active development with publicly available artifacts (application previews, progress reports, community discussion and polls, etc.).
     - `completed` - project was fully completed and waits for its final deployment.
     - `usable` - project turned into product and can be used of bought on market.
-    - `abandoned` - project community is silent, there are no updates from project team.
+    - `dormant` - project community is quite silent, there are no real updates from the project team.
+    - `abandoned` - project community is completely silent, project team does not respond in a timely manner.
     - `rugged` - there are clear signs that project was rug pulled (social media channel closed, liquidity suddenly removed, etc.).
   - `description` - long description of the project.
   - `www` - fully qualified URL to main page of the project.
