@@ -1,0 +1,33 @@
+---
+name: Pulsefinity
+status: promise
+desc: Launchpad on pulsechain only for Verified Projects (a safe place for investors)
+logo: /logos/pulsefinity-256.png
+www: https://www.pulsefinity.net/
+categories:
+  defi:
+  development:
+socials:
+  twitter: Pulsefinity
+  tg: Pulsefinity
+  mail: info@pulsefinity.com
+  medium: PulseFinity
+sacrifice:
+  type: running
+  address: "0x399b581FE98332283068c7498882aAedCe23953c"
+  end: "2023-01-01T00:00:00"
+  pointsPerUSD: 100
+  networks:
+    ethereum:
+      tokens: HEX, USDC, USDT, BUSD
+    bsc:
+      tokens: BUSD
+ranking:
+  founder: red
+  team: red
+  plan: red
+  implementation: red
+  audit: orange
+  note: Our ranking has not been verified with the project team yet.
+token:
+  symbol: Finity
