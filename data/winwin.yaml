@@ -24,10 +24,12 @@ sacrifice:
     bsc:
       tokens: BUSD, USDC, BUSD-T
   hideRateGraphs: true
+links:
+  docs: https://docs.winwin.finance/
 ranking:
-  founder: red
-  team: red
-  plan: orange
+  founder: orange
+  team: green
+  plan: green
   implementation: red
   audit: orange
   note: Our ranking has not been verified with the project team yet.
