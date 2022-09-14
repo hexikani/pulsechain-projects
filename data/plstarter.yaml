@@ -21,7 +21,7 @@ sacrifice:
     ethereum:
       tokens: HEX, HDRN, MAXI, USDC, USDT, DAI, UNI, LINK, WBTC, SHIB, CRO, PLSD, BUSD
     bsc:
-      tokens: BUSD-T
+      tokens: BUSD-T, BUSD
     polygon:
   hideRateGraphs: true
 ranking:
