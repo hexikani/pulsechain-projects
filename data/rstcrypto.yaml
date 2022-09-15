@@ -7,7 +7,7 @@ www: https://rstcrypto.com
 categories:
   meme:
 socials:
-  twitter: RSTToken6
+  twitter: RSTTokenV2
   tg: RettSyndromeAwareness
 fundraiser:
   name: Life changing equipment funding and creating awareness for Rett Syndrome 
@@ -21,6 +21,6 @@ ranking:
   audit: red
   note: Our ranking has not been verified with the project team yet.
 token:
-  symbol: RST
+  symbol: RSTv2
   chain: bsc
-  address: "0x2eF672293E90B55037c6358857A9Ab80b837083B"
+  address: "0x6e7a4977Afe0421D4FF50F9A094262eE42d1A101"
