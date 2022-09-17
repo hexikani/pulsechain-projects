@@ -3,9 +3,33 @@ name: PulseKittens
 status: promise
 desc: Cyber wave yield bearing NFTs on PulseChain
 logo: /logos/pulsekittens-256.png
-www: https://pulsekittens.io/sacrifice
+www: https://pulsekittens.io
 categories:
   nft:
+  claim:
+socials:
+  twitter: PulseKittens
+  tg: pulsekittens
 sacrifice:
   www: https://pulsekittens.io/sacrifice
-
+  desc: sacrifice to support the right to hold cute yield-bearing Pulse Kittens
+  type: running
+  address: "0xf875d378194d75Eb574B7988D7f9612805337CB5"
+  start: "2022-09-10T00:00:00"
+  end: "2022-11-14T00:00:00"
+  pointsPerUSD: 10000
+  networks:
+    ethereum:
+      tokens: USDC, USDT, DAI, APE, CEL, HDRN, HEX, ICSA, MAXI, PLSD, SHIB, PLSF, WAIT, WBTC
+      nft: WAATSA
+    bsc:
+      tokens: BUSD, BUSD-T, CAKE
+ranking:
+  founder: red
+  team: red
+  plan: red
+  implementation: red
+  audit: orange
+  note: Our ranking has not been verified with the project team yet.
+token:
+  symbol: PKTTN
