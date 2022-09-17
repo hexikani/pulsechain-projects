@@ -8,8 +8,16 @@ categories:
   meme:
 socials:
   twitter: MemeCoinCity
-  tg: memecoincity
+  tg: meme_coin_mafia
+  youtube: gpMp_mwRq-Q
+  ig: memecoincity
+links:
+  www: https://www.memecoinmafia.xyz/
 sacrifice:
   type: running
   desc: sacrifice to prove that you believe extorsion is a crime even when done by governments, and that you also believe blockchains are speech and speech is a protected human right
   start: "2022-07-24T19:00:00Z"
+token:
+  symbol: M3M3
+  chain: ethereum
+  address: "0xC6c9C41530769d80b8129C4278848010FE59515b"
