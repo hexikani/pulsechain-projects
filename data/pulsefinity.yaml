@@ -1,5 +1,5 @@
 ---
-name: Pulsefinity
+name: PulseFinity
 status: promise
 desc: Launchpad on pulsechain only for Verified Projects (a safe place for investors)
 logo: /logos/pulsefinity-256.png
@@ -15,8 +15,10 @@ socials:
 sacrifice:
   type: running
   address: "0x399b581FE98332283068c7498882aAedCe23953c"
+  start: "2022-09-10T00:00:00"
   end: "2023-01-01T00:00:00"
   pointsPerUSD: 100
+  minimumUSD: 50
   networks:
     ethereum:
       tokens: HEX, USDC, USDT, BUSD
@@ -30,4 +32,4 @@ ranking:
   audit: orange
   note: Our ranking has not been verified with the project team yet.
 token:
-  symbol: Finity
+  symbol: PLF
