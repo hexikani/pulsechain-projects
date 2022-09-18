@@ -16,7 +16,7 @@ sacrifice:
   type: running
   address: "0x399b581FE98332283068c7498882aAedCe23953c"
   start: "2022-09-10T00:00:00"
-  end: "2023-01-01T00:00:00"
+  end: "2023-01-01T00:00:00" # or PulseChainLaunchDate
   pointsPerUSD: 100
   minimumUSD: 50
   networks:
