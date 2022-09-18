@@ -13,7 +13,7 @@ socials:
 sacrifice:
   type: disabled
   desc: sacrifice to show how strongly you believe in freedom of business activity and entrepreneurship
-  start: "2022-09-15T00:00:00Z"
+  start: "2022-09-28T00:00:00Z"
   end: PulseChainLaunchDate
   address: "0x1230000000000000000000000000000000000123"
   networks:
@@ -30,7 +30,7 @@ ranking:
   founder: orange
   team: green
   plan: green
-  implementation: red
+  implementation: orange
   audit: orange
   note: Our ranking has not been verified with the project team yet.
 token:
