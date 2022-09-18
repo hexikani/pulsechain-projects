@@ -1,0 +1,31 @@
+---
+name: HEXpostcards
+status: active
+desc: Send a HEX postcard to every mailbox!
+logo: /logos/hexpostcards-256.jpg
+www: https://hexpostcards.com
+socials:
+  twitter: HEXpostcards
+  tg: HEXpostcards
+sacrifice:
+  status: running
+  desc: sacrifice to support the freedom of promotion
+  start: "2022-08-29T00:00:00Z"
+  end: "2022-12-02T00:00:00Z"
+  www: https://HEXpostcards.com/sacrifice
+  networks:
+    ethereum:
+      - address: "0x716b1E629b0d3aBd14bD1E9E6557cdfaee839668"
+        gas: false
+        tokens: USDT, USDC
+      - address: "0x25D4CCeba035AabB7aC79C4F2fEaD5bC74E6B9d8"
+        tokens: USDT, USDC
+ranking:
+  founder: red
+  team: orange
+  plan: green
+  implementation: green
+  audit: gray
+  note: Our ranking has not been verified with the project team yet.
+token:
+  symbol: USD # no token expected
