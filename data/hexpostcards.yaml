@@ -8,7 +8,7 @@ socials:
   twitter: HEXpostcards
   tg: HEXpostcards
 sacrifice:
-  status: running
+  type: running
   desc: sacrifice to support the freedom of promotion
   start: "2022-08-29T00:00:00Z"
   end: "2022-12-02T00:00:00Z"
@@ -19,9 +19,9 @@ sacrifice:
         gas: false
         tokens: USDT, USDC
       - address: "0x25D4CCeba035AabB7aC79C4F2fEaD5bC74E6B9d8"
-        tokens: USDT, USDC
+        tokens: USDT, USDC, HEX
 ranking:
-  founder: red
+  founder: orange
   team: orange
   plan: green
   implementation: green
