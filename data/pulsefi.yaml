@@ -1,0 +1,22 @@
+---
+name: PulseFi
+status: active
+desc: Multi-utility token on PulseChain
+logo: /logos/pulsefi-256.png
+socials:
+  twitter: pulsefinance_
+  tg: PulseFi
+links:
+  dapp: https://app.pulsefi.net/
+  audit: https://github.com/ContractChecker/audits/blob/main/Pulsefi_0x564C3e90fF5c4347AFfd550B1Ad3D8984f27747c_Smart_Contract_Security_Audit_By_ContractChecker.pdf
+ranking:
+  founder: red
+  team: red
+  plan: red
+  implementation: red
+  audit: orange
+  note: Our ranking has not been verified with the project team yet. Audit from Contract Checker what seems to be a single person company.
+token:
+  symbol: PLSFI
+  chain: bsc
+  address: "0x564c3e90ff5c4347affd550b1ad3d8984f27747c"
