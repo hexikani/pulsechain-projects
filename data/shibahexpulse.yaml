@@ -1,0 +1,13 @@
+---
+name: Shiba Hex Pulse
+status: abandoned
+desc: SHIBA INU reflection token with some special features
+logo: /logos/shibahexpulse-256.png
+www: https://shibahexpulse.com/
+socials:
+  twitter: shibahexpulse
+  tg: ShibaHexPulse
+token:
+  symbol: SEXPLS
+  chain: bsc
+  address: "0x62b6437349c0238d05acefeb0c4a14e9c8ea0f8d"
