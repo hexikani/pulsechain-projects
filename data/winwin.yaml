@@ -11,7 +11,7 @@ socials:
   twitter: winwindefi
   tg: winwindefi
 sacrifice:
-  type: disabled
+  type: running
   desc: sacrifice to show how strongly you believe in freedom of business activity and entrepreneurship
   start: "2022-09-28T00:00:00Z"
   end: PulseChainLaunchDate
