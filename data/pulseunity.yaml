@@ -12,6 +12,9 @@ socials:
   tg: pulseunitysacrifice
   discord: v5TWdZaEcw
   ig: pulseunity69
+links:
+  - docs: https://pulseunity.gitbook.io/
+  - www: http://social.pulseunity.com/
 sacrifice:
   type: running
   address: "0x543cB0157f517c39bDe98D7F2965c37621C1cEf7"
