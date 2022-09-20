@@ -11,8 +11,8 @@ socials:
   twitter: liquidloansio
   tg: liquidloans
 links:
-  dapp: https://testnet.liquidloans.io/
-  docs: https://docs.liquidloans.io/
+  - dapp: https://testnet.liquidloans.io/
+  - docs: https://docs.liquidloans.io/
 sacrifice:
   type: past
   desc: sacrifice for disapproval and rejection of corporate-owned, censorable, centralized stablecoins

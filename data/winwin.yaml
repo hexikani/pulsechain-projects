@@ -25,7 +25,7 @@ sacrifice:
       tokens: BUSD, USDC, BUSD-T
   hideRateGraphs: true
 links:
-  docs: https://docs.winwin.finance/
+  - docs: https://docs.winwin.finance/
 ranking:
   founder: orange
   team: green

@@ -7,7 +7,7 @@ www: https://hexbear.lol/
 categories:
   meme:
 links:
-  dapp: https://hexbear.lol/drops/
+  - dapp: https://hexbear.lol/drops/
 ranking:
   founder: green
   team: green

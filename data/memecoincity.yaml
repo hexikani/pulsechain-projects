@@ -12,7 +12,7 @@ socials:
   youtube: gpMp_mwRq-Q
   ig: memecoincity
 links:
-  www: https://www.memecoinmafia.xyz/
+  - www: https://www.memecoinmafia.xyz/
 sacrifice:
   type: running
   desc: sacrifice to prove that you believe extorsion is a crime even when done by governments, and that you also believe blockchains are speech and speech is a protected human right

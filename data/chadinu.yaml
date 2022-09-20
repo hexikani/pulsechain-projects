@@ -11,5 +11,5 @@ socials:
   tg: chadinu_io
   email: team@chadinu.io
 links:
-  dapp: https://www.chadinu.vip/
-  dapp: https://www.chadinu.vip/referral/dashboard
+  - dapp: https://www.chadinu.vip/
+  - dapp: https://www.chadinu.vip/referral/dashboard
