@@ -12,7 +12,7 @@ socials:
   tg: winwindefi
 sacrifice:
   type: running
-  desc: sacrifice to show how strongly you believe in freedom of business activity and entrepreneurship
+  desc: sacrifice to help raise awareness of how gambling harms individuals, families, and communities all around the world
   start: "2022-09-28T00:00:00Z"
   end: PulseChainLaunchDate
   address: "0x1230000000000000000000000000000000000123"
