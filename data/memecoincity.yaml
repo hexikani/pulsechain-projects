@@ -1,9 +1,9 @@
 ---
-name: Meme Coin City
-status: promise
-desc: A zero narrative meme coin collection on PulseChain. Just hold $MEME and receive airdrops of every new meme coin in our collection.
+name: Meme Coin Mafia
+status: usable
+desc: A collection of meme coins on PulseChain, airdropped to anyone that holds $M3M3.
 logo: /logos/memecoincity-256.png
-www: https://memecoincity.com/
+www: https://memecoinmafia.xyz/
 categories:
   meme:
 socials:
@@ -12,10 +12,11 @@ socials:
   youtube: gpMp_mwRq-Q
   ig: memecoincity
 links:
-  - www: https://www.memecoinmafia.xyz/
+  - www: https://www.memecoincity.com/
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice to prove that you believe extorsion is a crime even when done by governments, and that you also believe blockchains are speech and speech is a protected human right
+  www: https://www.memecoinmafia.xyz/sacrifice
   start: "2022-07-24T19:00:00Z"
 token:
   symbol: M3M3
