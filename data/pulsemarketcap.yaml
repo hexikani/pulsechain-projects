@@ -1,0 +1,33 @@
+---
+name: PulseMarketCap
+status: active
+desc: Cyber wave yield bearing NFTs on PulseChain
+logo: /logos/pulsemarketcap-256.png
+www: https://pulsemarketcap.info
+categories:
+  information:
+socials:
+  tw: PulseMarketCap
+  tg: OfficialPulsemarketcap
+  ig: pulsemarketcap
+sacrifice:
+  www: https://pulsemarketcap-info.gitbook.io/pulsemarketcap.info-1/v/pmc-sacrifice-phase/
+  type: running
+  address: "0xDE00F81A3f762E7972B381a84671a736D312cC09"
+  start: "2022-09-21T00:00:00"
+  end: PulseChainLaunchDate
+  pointsPerUSD: 1000
+  networks:
+    ethereum:
+      tokens: WETH, USDC, DAI, USDT, WBTC, HEX, SHIB, CULT,  PLSD, WAIT
+    bsc:
+      tokens: WBNB, BUSD, BUSD-T, VAI, CAKE, PULSEDOGE, DRIP
+ranking:
+  founder: red
+  team: red
+  plan: red
+  implementation: red
+  audit: red
+  note: Our ranking has not been verified with the project team yet.
+token:
+  symbol: PMC
