@@ -1,7 +1,7 @@
 ---
 name: BEETroot
 status: active
-desc: Deflationary token with auto-rewards, anonymous cross-chain exchange, EVM bridge, private transactions, buy back & burn and black hole address reducing supply.
+desc: A suite of privacy tools featuring a mixer, private EVM bridge, anonymous cross-chain exchange and a deflationary utility token with auto-rewards, buy back & burn and a black hole address reducing supply.
 logo: /logos/beetroot-256.png
 www: https://www.beetroot.world/
 categories:
