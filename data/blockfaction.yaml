@@ -1,0 +1,18 @@
+---
+name: BlockFaction
+status: usable
+desc: Independent PulseChain, EthereumFair and EthereumPOW enteprise-grade RPC node provider for developers and dApps.
+logo: /logos/blockfaction-256.png
+www: https://blockfaction.io/
+categories:
+  development:
+socials:
+  tg: BlockFaction
+  twitter: BlockFaction
+  yt: channel/UCOsV43oS438K6Ei4HLr8KxA
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: green
+  audit: gray
