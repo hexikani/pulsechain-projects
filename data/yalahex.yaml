@@ -10,6 +10,6 @@ socials:
   twitter: yalahex
   tg: yalahex
 links:
-  audit: https://www.docdroid.net/HTZDExV/yalahex-auditreport-interfi-pdf
+  - audit: https://www.docdroid.net/HTZDExV/yalahex-auditreport-interfi-pdf
 token:
   symbol: HEXY
