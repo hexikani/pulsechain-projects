@@ -1,0 +1,23 @@
+---
+name: Maximus Team
+status: usable
+desc: Team staking token from the creators for Maximus DAO
+logo: /logos/maximus-team-256.png
+www: https://team.maximus.cash/
+categories:
+  defi:
+socials:
+  twitter: maximus_dao
+  tg: MaximusDAO
+links:
+  - audit: https://solidity.finance/audits/MaximusTeam/
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: green
+  audit: green
+token:
+  symbol: TEAM
+  chain: ethereum
+  address: "0xB7c9E99Da8A857cE576A830A9c19312114d9dE02"

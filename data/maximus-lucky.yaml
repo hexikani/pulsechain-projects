@@ -1,0 +1,21 @@
+---
+name: Maximus Lucky
+status: usable
+desc: Perpertual group stake with 7 year period from the creators for Maximus DAO
+logo: /logos/maximus-lucky-256.png
+www: https://perpetuals.maximus.cash/#base
+categories:
+  defi:
+socials:
+  twitter: maximus_dao
+  tg: MaximusDAO
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: green
+  audit: orange
+token:
+  symbol: LUCKY
+  chain: ethereum
+  address: "0x6B0956258fF7bd7645aa35369B55B61b8e6d6140"

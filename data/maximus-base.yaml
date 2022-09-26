@@ -1,0 +1,21 @@
+---
+name: Maximus Base
+status: usable
+desc: Perpertual group stake with 1 year period from the creators for Maximus DAO
+logo: /logos/maximus-base-256.png
+www: https://perpetuals.maximus.cash/#base
+categories:
+  defi:
+socials:
+  twitter: maximus_dao
+  tg: MaximusDAO
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: green
+  audit: orange
+token:
+  symbol: BASE
+  chain: ethereum
+  address: "0xe9f84d418B008888A992Ff8c6D22389C2C3504e0"

@@ -1,7 +1,7 @@
 ---
 name: Maximus
-status: completed
-desc: Earn more HEX yield, save on gas fees, and hold liquid with Maximus stake pools.
+status: usable
+desc: 5555 days group HEX stake - earn more HEX yield, save on gas fees, and hold liquid with Maximus stake pools.
 logo: /logos/maximus-256.png
 www: https://maximus.cash/
 categories:
@@ -13,6 +13,15 @@ fundraiser:
   name: Maximus Grand Exhibition at PulseCon 2022
   type: past
   desc: Maximus team is seeking donations to fund booth at PulseCon 2022 conference in Vegas this September 2022
+links:
+  - audit: https://solidity.finance/audits/MaximusStaking/
+  - audit: https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/Maximus_0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b.pdf
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: green
+  audit: green
 token:
   symbol: MAXI
   chain: ethereum

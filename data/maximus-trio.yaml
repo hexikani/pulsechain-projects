@@ -1,0 +1,21 @@
+---
+name: Maximus Trio
+status: usable
+desc: Perpertual group stake with 3 year period from the creators for Maximus DAO
+logo: /logos/maximus-trio-256.png
+www: https://perpetuals.maximus.cash/#trio
+categories:
+  defi:
+socials:
+  twitter: maximus_dao
+  tg: MaximusDAO
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: green
+  audit: green
+token:
+  symbol: TRIO
+  chain: ethereum
+  address: "0xf55cd1e399e1cc3d95303048897a680be3313308"
