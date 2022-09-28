@@ -15,7 +15,7 @@ sacrifice:
   desc: sacrifice to help raise awareness of how gambling harms individuals, families, and communities all around the world
   start: "2022-09-28T00:00:00Z"
   end: PulseChainLaunchDate
-  address: "0x1230000000000000000000000000000000000123"
+  address: "0xcfb1e0c5645Fe132aF153CD37213F017eAaDD96B"
   networks:
     ethereum:
       tokens: DAI, HEX, HDRN, LUSD, MAXI, TUSD, USDC, USDT, WBTC
@@ -32,6 +32,5 @@ ranking:
   plan: green
   implementation: orange
   audit: orange
-  note: Our ranking has not been verified with the project team yet.
 token:
   symbol: WIN
