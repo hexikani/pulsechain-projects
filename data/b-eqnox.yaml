@@ -14,3 +14,7 @@ socials:
 token:
   type: disabled
   desc: Certificate of deposit token aligned with the seasons
+token:
+  symbol: EQNOX
+  chain: bsc
+  address: "0x05486aDfD491130FCD38233c1Cb125FCb2bFb803"
