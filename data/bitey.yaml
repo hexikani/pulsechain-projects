@@ -1,0 +1,24 @@
+---
+name: Bitey Token
+status: usable
+desc: A meme token inspired by cat Bruno Bitey, a social experiment - expect nothing other than fun.
+logo: /logos/bitey-256.png
+www: https://biteycoin.xyz/
+categories:
+  meme:
+socials:
+  tg: +-_z1Xr-t_iM5NzQy
+  twitter: BrunoBitey
+sacrifice:
+  address: "0xEC448629822eeE36573F882D58255Cae6cdb6Ed4"
+  networks:
+    ethereum:
+      tokens: USDT
+    bsc:
+    avax:
+    polygon:
+    fantom:
+token:
+  symbol: BITEY
+  chain: ethereum
+  address: "0xc033fC8f779d9742e174536f85fbCc1E3403fAeb"
