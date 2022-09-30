@@ -1,0 +1,13 @@
+---
+name: EstateFi
+status: rugged
+desc: DeFi protocol that leverages on-chain crowdfunding for stable off-chain investments in real estate, returning earnings back to holders!
+logo: /logos/estatefi-256.png
+www: https://web.archive.org/web/20220602142853/https://estatefi.io/
+socials:
+  twitter: estate_fi
+  tg: EstateFi
+token:
+  symbol: ESFI
+  chain: bsc
+  address: "0x34C305593660CBbd0b6b2147d3068C05e1f02851"
