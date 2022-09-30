@@ -12,6 +12,8 @@ socials:
   tg: Pulsefinity
   mail: info@pulsefinity.com
   medium: PulseFinity
+links:
+  kyc: https://assuredefi.com/projects/pulsefinity/
 sacrifice:
   type: running
   address: "0x399b581FE98332283068c7498882aAedCe23953c"
