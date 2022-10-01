@@ -28,7 +28,7 @@ sacrifice:
       tokens: BUSD
 ranking:
   founder: red
-  team: red
+  team: green
   plan: red
   implementation: red
   audit: orange
