@@ -13,7 +13,7 @@ socials:
   mail: info@pulsefinity.com
   medium: PulseFinity
 links:
-  kyc: https://assuredefi.com/projects/pulsefinity/
+  - kyc: https://assuredefi.com/projects/pulsefinity/
 sacrifice:
   type: running
   address: "0x399b581FE98332283068c7498882aAedCe23953c"
@@ -27,8 +27,8 @@ sacrifice:
     bsc:
       tokens: BUSD
 ranking:
-  founder: red
-  team: green
+  founder: orange
+  team: red
   plan: red
   implementation: red
   audit: orange
