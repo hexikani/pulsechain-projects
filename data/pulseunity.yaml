@@ -30,9 +30,11 @@ sacrifice:
 ranking:
   founder: green
   team: orange
-  plan: orange
-  implementation: red
-  audit: red
+  plan: green
+  implementation: green
+  audit: orange
   note: Our ranking has not been verified with the project team yet.
 token:
   symbol: PU
+  chain: ethereum
+  address: "0x909171Ab06909FF74Cc183039567dDc071754aCd"
