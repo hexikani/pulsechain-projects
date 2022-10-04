@@ -1,0 +1,22 @@
+---
+name: FreePulse.io
+status: usable
+desc: PLS faucet and lottery game created to onboard new PulseChain users.
+logo: /logos/freepulse-256.png
+www: https://www.freepulse.io
+categories:
+  game:
+socials:
+  twitter: FreePulseio
+  tg: FreePulse
+sacrifice:
+  desc: Sacrifice "dedication" will start after PulseChain launch. There are 2 dedication pools.
+ranking:
+  founder: orange
+  team: green
+  plan: green
+  implementation: green
+  audit: orange
+  note: FreePulse.io is doing only standard deposit and withdrawal transactions. The deposit action requires the user to sign the transaction. Therefore we rank the Audit aspect as orange.
+token:
+  symbol: FP
