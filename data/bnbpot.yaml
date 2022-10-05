@@ -1,0 +1,19 @@
+---
+name: BNBPot
+status: usable
+desc: Worlds first fully decentralized casino on chain - fork of PulsePot for BNB chain.
+description: |
+  BNBP is a utility token and a shareholder token.
+  BNBP is is both extremely limited in supply and deflationary.
+  When you play on BNBPot, holders of BNBP gets a reduced winners fee based on the total amount tokens the winning wallet is holding at the time the win.
+logo: /logos/bnbpot-256.png
+www: https://bnbpot.io/
+categories:
+  game:
+socials:
+  twitter: JPulsepot
+  tg: pulsepot
+token:
+  symbol: BNBP
+  chain: bsc
+  address: "0x4D9927a8Dc4432B93445dA94E4084D292438931F"
