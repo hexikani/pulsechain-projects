@@ -13,6 +13,12 @@ categories:
 socials:
   twitter: JPulsepot
   tg: pulsepot
+ranking:
+  founder: orange
+  team: orange
+  plan: green
+  implementation: green
+  audit: orange
 token:
   symbol: BNBP
   chain: bsc

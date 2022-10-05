@@ -18,5 +18,11 @@ sacrifice:
   desc: sacrifice to prove how strong you believe that blockchain are speech and speech is a protected human right
   start: "2022-05-15T00:00:00.000Z"
   final: https://docs.google.com/spreadsheets/d/1FZL-jXV4wAPYslMYANL1BMAF2DK5AkJ_wTmoeJT0g4U/edit?usp=sharing
+ranking:
+  founder: orange
+  team: orange
+  plan: green
+  implementation: green
+  audit: orange
 token:
   symbol: PLSP
