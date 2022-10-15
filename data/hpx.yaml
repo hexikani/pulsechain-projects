@@ -11,7 +11,14 @@ socials:
   tg: hpx369
 sacrifice:
   type: running
-  desc: ???
+  desc: to prove believe that freedom of movement and assembly are protected human rights
   start: "2022-08-09T00:00:00Z"
+ranking:
+  founder: green
+  team: orange
+  plan: orange
+  implementation: red
+  audit: red
+  note: Our ranking has not been verified with the project team yet.
 token:
   symbol: HPX
