@@ -16,7 +16,7 @@ links:
   - docs: https://pulseunity.gitbook.io/
   - www: http://social.pulseunity.com/
 sacrifice:
-  type: running
+  type: past
   address: "0x543cB0157f517c39bDe98D7F2965c37621C1cEf7"
   desc: sacrifice for total freedom of how you control your money
   start: "2022-08-28T19:00:00Z"
