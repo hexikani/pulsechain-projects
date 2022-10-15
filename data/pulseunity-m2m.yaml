@@ -1,0 +1,36 @@
+---
+name: Pulse Unity - Mission to Mars
+status: promise
+desc: Pulse Unity related M2M staking token and NFT
+logo: /logos/pulseunity-m2m-256.png
+www: https://spacecampmars.com/
+categories:
+  defi:
+  nft:
+socials:
+  twitter: pulseunity69
+  tg: pulseunity1
+  discord: v5TWdZaEcw
+  ig: pulseunity69
+sacrifice:
+  type: running
+  www: https://spacecampmars.com/mission-sacrifice
+  address: "0x18BE942604DE4a717fcE9F519c23eAcbBc1bd078"
+  desc: sacrifice for total freedom of how you control your money
+  start: "2022-10-08T00:00:00Z"
+  end: "2023-01-01T00:00:00Z"
+  pointsPerUSD: 10000
+  networks:
+    ethereum:
+      tokens: HEX, USDC, DAI, USDT, GUSD, TUSD, PLSD, SHIB, PLSU # , PLSBTC
+    bsc:
+      tokens: BUSD, DOGE
+ranking:
+  founder: green
+  team: orange
+  plan: orange
+  implementation: red
+  audit: red
+  note: Our ranking has not been verified with the project team yet.
+token:
+  symbol: M2M
