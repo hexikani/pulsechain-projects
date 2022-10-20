@@ -29,7 +29,7 @@ ranking:
   founder: green
   team: orange
   plan: orange
-  implementation: red
+  implementation: orange
   audit: red
   note: Our ranking has not been verified with the project team yet.
 token:
