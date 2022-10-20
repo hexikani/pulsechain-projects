@@ -1,0 +1,22 @@
+---
+name: FairHEX
+status: active
+desc: FairHEX is a reflection token that rewards its holders with HEX
+logo: /logos/fairhex-256.png
+web: https://fairhex.eth.limo/
+socials:
+  twitter: fair_hex
+  tg: fairhexcrypto
+categories:
+  defi:
+  claim:
+ranking:
+  founder: red
+  team: orange
+  plan: orange
+  implementation: green
+  audit: red
+token:
+  symbol: FairHEX
+  chain: pulsechain-testnet
+  address: "0x08539ED2d7ae9079107164c138C442625558B983"
