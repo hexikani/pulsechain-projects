@@ -1,9 +1,13 @@
 ---
 name: PulseBitcoin
-status: promise
+status: usable
 desc: Bitcoin inspired meme token from the creator of PulseDogeCoin.
 logo: /logos/pulsebitcoin-256.png
 www: https://pulsebitcoin.com/
 socials:
   twitter: Pulse_Bitcoin
   tg: PulseBitcoin
+token:
+  symbol: PLSB
+  chain: ethereum
+  address: "0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06"
