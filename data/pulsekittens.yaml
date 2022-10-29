@@ -1,6 +1,6 @@
 ---
 name: PulseKittens
-status: promise
+status: active
 desc: Cyber wave yield bearing NFTs on PulseChain
 logo: /logos/pulsekittens-256.png
 www: https://pulsekittens.io
@@ -27,9 +27,11 @@ sacrifice:
 ranking:
   founder: red
   team: red
-  plan: red
-  implementation: red
+  plan: orange
+  implementation: green
   audit: orange
   note: Our ranking has not been verified with the project team yet.
 token:
   symbol: PKTTN
+  chain: pulsechain-testnet
+  address: "0x378b04A0E24DbF08dcA65F3c87aD9dafc1d0dd9d"
