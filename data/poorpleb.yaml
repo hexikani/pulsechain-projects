@@ -1,6 +1,6 @@
 ---
 name: PoorPleb Token
-status: promise
+status: active
 desc: ERC20 memecoin aimed at plebs with a big $PP
 logo: /logos/poorpleb-256.png
 www: https://poorpleb.win/
@@ -9,7 +9,15 @@ categories:
 socials:
   twitter: poorplebwin
   tg: poorplebwin
+links:
+  audit: https://poorpleb.win/wp-content/uploads/2022/10/2022-10-PoorPleb-Audit.final_.pdf
 sacrifice:
   type: past
   desc: sacrifices for freedom of plebs
   start: "2022-07-17T00:00:00.000Z"
+ranking:
+  founder: green
+  team: red
+  plan: green
+  implementation: orange
+  audit: orange
