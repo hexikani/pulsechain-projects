@@ -14,6 +14,7 @@ socials:
   medium: PulseFinity
 links:
   - kyc: https://assuredefi.com/projects/pulsefinity/
+  - docs: https://pulsefinity.gitbook.io/pulsefinity/
 sacrifice:
   type: running
   address: "0x399b581FE98332283068c7498882aAedCe23953c"
@@ -28,10 +29,9 @@ sacrifice:
       tokens: BUSD
 ranking:
   founder: orange
-  team: red
-  plan: red
-  implementation: red
+  team: orange
+  plan: green
+  implementation: orange
   audit: orange
-  note: Our ranking has not been verified with the project team yet.
 token:
   symbol: PLF
