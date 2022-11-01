@@ -1,6 +1,6 @@
 ---
 name: PulseStarter
-status: active
+status: rugged
 desc: Platform, which gives everyone opportunity to get creative and start their own PulseChain project by making Token Development process easy and available to everyone.
 logo: /logos/plstarter-256.png
 www: https://plstarter.com/
@@ -12,10 +12,11 @@ socials:
 links:
   audit: https://github.com/TechRate/Smart-Contract-Audits/blob/main/August_2022/PLSTARTER.pdf
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice to show how strongly you believe in freedom of business activity and entrepreneurship
   start: "2022-09-06T00:00:00Z"
-  end: PulseChainLaunchDate
+  end: "2022-11-01T00:00:00Z" # Just the date when this was determined as a rug.
+  # end: PulseChainLaunchDate
   address: "0xAd1b3Cc191A4F33a3191d2fcA2e32cB6778Ed044"
   networks:
     ethereum:
