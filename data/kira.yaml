@@ -15,6 +15,6 @@ socials:
 token:
   symbol: KIRA
   desc: Token airdropped to PulseChain sacrificers
-  chain: pulsechain-testnet
-  address: "0x2fde1cbc4be8d260b4f990d28ef9f9f2c03246dc"
+  chain: ethereum
+  address: "0xf98AB0874b13a7Fdc39D7295DEdd49850A5D426B"
 
