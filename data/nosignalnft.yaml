@@ -12,7 +12,7 @@ socials:
   tg: nosignal_plsnft
 sacrifice:
   address: "0x67df170fff814039b0acb96ff678D3c770B82034"
-  start: "2022-10-04T00:00:00"
+  start: "2022-10-04T00:00:00Z"
   end: PulseChainLaunchDate
   pointsPerUSD: 0.2
   networks:

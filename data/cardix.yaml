@@ -13,8 +13,8 @@ socials:
 sacrifice:
   desc: Sacrifice to prove how strong you believe that blockchains are speech and speech is a protected human right
   www: https://cardix.tech/sacrifice
-  start: "2022-10-07T00:00:00"
-  end: "2023-01-01T00:00:00"
+  start: "2022-10-07T00:00:00Z"
+  end: "2023-01-01T00:00:00Z"
   address: "0x5a8D1205320ED09B2EC5cB267835eD9C4242963B"
   minimumUSD: 50
   networks:
