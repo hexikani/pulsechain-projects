@@ -3,6 +3,12 @@ name: SoundX Token
 status: completed
 desc: Cryptocurrency dedicated to the business of sound using the new PulseChain network.
 logo: /logos/soundxtoken-256.png
+www: https://soundxtoken.com/
+socials:
+  twitter: soundxtoken
+  tg: soundxtoken
+  ig: soundxtoken
+  yt: channel/UCqmk6LGKp6DatfHXUzDQ1Tg
 categories:
   meme:
 token:
