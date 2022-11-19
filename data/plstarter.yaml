@@ -12,7 +12,7 @@ socials:
 links:
   audit: https://github.com/TechRate/Smart-Contract-Audits/blob/main/August_2022/PLSTARTER.pdf
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice to show how strongly you believe in freedom of business activity and entrepreneurship
   start: "2022-09-06T00:00:00Z"
   end: PulseChainLaunchDate
