@@ -1,8 +1,8 @@
 ---
-name: Internet Money Future Wallet Dividend
+name: Internet Money Wallet
 status: active
 desc: Earn passive income (dividend) from Internet Money Wallet - Multi-chain deployment of the PulseChain IM Wallet
-logo: /logos/im-fwd-171.png
+logo: /logos/im-wallet-256.png
 www: https://internetmoney.io/
 categories:
   defi:
@@ -16,9 +16,10 @@ links:
   - whitepaper: https://internetmoney.io/blackpaper
 sacrifice:
   type: running
+  name: Internet Money Wallet Sacrifice
   desc: sacrifice for the freedom of time
   start: "2022-11-30T00:00:00.000Z"
-  end: "2023-01-01T00:00:00.000Z"
+  end: "2022-12-30T00:00:00.000Z"
   hideRateGraphs: true
   address: "0x5555000000000000000000000000000000005555"
   networks:
@@ -35,3 +36,5 @@ ranking:
   plan: orange
   implementation: green
   audit: orange
+token:
+  symbol: WD
