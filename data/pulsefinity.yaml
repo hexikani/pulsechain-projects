@@ -19,14 +19,15 @@ sacrifice:
   type: running
   address: "0x399b581FE98332283068c7498882aAedCe23953c"
   start: "2022-09-10T00:00:00Z"
-  end: "2023-01-01T00:00:00Z" # or PulseChainLaunchDate
-  pointsPerUSD: 100
+  end: PulseChainLaunchDate+30d
   minimumUSD: 50
   networks:
     ethereum:
       tokens: HEX, USDC, USDT, BUSD
+    polygon:
+      tokens: USDC, USDT
     bsc:
-      tokens: BUSD
+      tokens: BUSD, USDC, BUSD-T, ETH
 ranking:
   founder: orange
   team: orange
