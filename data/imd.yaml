@@ -16,3 +16,11 @@ sacrifice:
   desc: sacrifice for freedom of time
   start: "2022-03-14T00:00:00.000Z"
   hideRateGraphs: true
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: green
+  audit: orange
+token:
+  symbol: WD

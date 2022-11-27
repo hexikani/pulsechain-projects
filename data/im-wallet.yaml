@@ -33,7 +33,7 @@ sacrifice:
 ranking:
   founder: green
   team: green
-  plan: orange
+  plan: green
   implementation: green
   audit: orange
 token:
