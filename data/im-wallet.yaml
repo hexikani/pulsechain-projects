@@ -21,7 +21,7 @@ sacrifice:
   start: "2022-11-30T00:00:00.000Z"
   end: "2022-12-30T00:00:00.000Z"
   hideRateGraphs: true
-  address: "0x5555000000000000000000000000000000005555"
+  address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
   networks:
     ethereum:
       tokens: WETH, HEX, USDC, USDT, DAI, LINK, WBTC
