@@ -22,6 +22,7 @@ sacrifice:
   end: "2022-12-30T00:00:00.000Z"
   hideRateGraphs: true
   address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
+  pointsPerUSD: 100
   networks:
     ethereum:
       tokens: WETH, HEX, USDC, USDT, DAI, LINK, WBTC
