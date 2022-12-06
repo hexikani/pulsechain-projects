@@ -18,3 +18,10 @@ sacrifice:
   start: "2022-04-29T14:00:00.000Z"
   hideRateGraphs: true
   final: https://phiat.io/claim
+ranking:
+  founder: orange
+  team: orange
+  plan: orange
+  implementation: green
+  audit: orange
+

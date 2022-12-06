@@ -4,7 +4,41 @@ status: active
 logo: /logos/phamous-256.png
 www: https://phamous.io/
 socials:
+  twitter: phamouscrypto
   tg: phamousX
 links:
   - docs: https://ph-defi.gitbook.io/
-
+sacrifice:
+  type: running
+  name: Phamous Sacrifice
+  desc: sacrifice for the freedom of time
+  start: "2022-12-09T20:00:00.000Z"
+  #end: "2022-12-30T00:00:00.000Z"
+  hideRateGraphs: true
+  address: "0xceBA0659AeB8527B47E9B176237361dDEe352001" # FAKE ADDRESS
+  pointsPerUSD: 100
+  networks:
+    ethereum:
+      tokens: WETH, HEX, USDC, USDT, DAI, LINK, WBTC
+    bsc:
+      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
+      tokens: WBNB, USDC, BUSD-T, BUSD
+    avax:
+      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
+    polygon:
+      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
+    fantom:
+      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
+    arbitrium:
+      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
+    optimism:
+      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
+  www: https://ph-defi.gitbook.io/home/phamous-protocol-tokenomics
+ranking:
+  founder: orange
+  team: orange
+  plan: orange
+  implementation: orange
+  audit: orange
+token:
+  symbol: PHAME
