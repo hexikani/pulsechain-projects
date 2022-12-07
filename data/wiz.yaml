@@ -1,0 +1,23 @@
+---
+name: WIZ Protocol
+status: usable
+desc: The PulseChain onboarding protocol on the Ethereum Network. Hodl WIZ and receive rewards on ETH and PLS.
+logo: /logos/wiz-256.png
+www: https://wiz-protocol.com/
+categories:
+  defi:
+socials:
+  twitter: wiz_protocol
+  tg: wiz_protocol
+links:
+  - whitepaper: https://documentation.wiz-protocol.com/purplepaper.pdf
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: green
+  audit: orange
+token:
+  symbol: WIZ
+  chain: ethereum
+  address: "0x603778e5e07e180E300bD10df7fA626313a206B2"
