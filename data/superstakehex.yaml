@@ -1,0 +1,29 @@
+---
+name: Super Stake Hex
+status: promise
+desc: Super Stake pays a liquid HEX dividend funded on every buy and sell of Super Stake. Super Stake also pay a monthly dividend funded by 30 day HEX stakes
+logo: /logos/superstakehex-256.png
+socials:
+  twitter: superstakehex
+  tg: SuperStakeHex
+  reddit: SuperStakeHex
+categories:
+  defi:
+sacrifice:
+  desc: sacrifice to support the right to hold cute yield-bearing Pulse Kittens
+  type: past
+  address: "0x0000000000000000000000000000000000005555"
+  start: "2022-09-08T00:00:00Z"
+  # end: 
+  networks:
+    ethereum:
+      tokens: HEX # just assumption
+ranking:
+  founder: red
+  team: orange
+  plan: red
+  implementation: red
+  audit: orange
+token:
+  symbol: SSH
+
