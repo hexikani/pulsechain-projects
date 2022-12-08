@@ -18,5 +18,5 @@ ranking:
   audit: red
 token:
   symbol: FairHEX
-  chain: pulsechain-testnet
-  address: "0x08539ED2d7ae9079107164c138C442625558B983"
+  chain: ethereum
+  address: "0xAF629DaE5e482378771cCB4225118B01d597321D"
