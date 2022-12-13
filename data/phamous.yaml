@@ -8,37 +8,43 @@ socials:
   tg: phamousX
 links:
   - docs: https://ph-defi.gitbook.io/
+  - dapp: https://testnet.phamous.io/
 sacrifice:
   type: running
-  name: Phamous Sacrifice
-  desc: sacrifice for the freedom of time
+  name: "Phamous “Early Bird PHAME” Sacrifice"
+  desc: "sacrifice for the freedom to “let HEX haters wreck themselves betting against the Richard Heart community”"
   start: "2022-12-09T20:00:00.000Z"
-  #end: "2022-12-30T00:00:00.000Z"
+  end: Tomorrow+2d
   hideRateGraphs: true
-  address: "0xceBA0659AeB8527B47E9B176237361dDEe352001" # FAKE ADDRESS
+  address: "0xB8bC81524338C84d9BBe6b07B50F4702a7Bb7230"
   pointsPerUSD: 100
   networks:
     ethereum:
-      tokens: WETH, HEX, USDC, USDT, DAI, LINK, WBTC
+      #tokens: HEX, WBTC, LINK, AAVE, GMX, DXDY, HDRN, POLY, MAXI, BASE, LUCKY, REX, ICSA, PLSD
+      tokens:  HEX, WBTC, LINK,                  HDRN, POLY, MAXI, BASE, LUCKY,      ICSA, PLSD, WETH, USDC, USDT, DAI, LUSD, TUSD, BUSD, GUSD, TRIO, DECI, TEAM, CULT, MATIC, FTM
     bsc:
-      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
+      address: "0xa5bD947Bc9Bb9215c3290FF43f11F708b1d5B263"
       tokens: WBNB, USDC, BUSD-T, BUSD
     avax:
-      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
+      address: "0xa5bD947Bc9Bb9215c3290FF43f11F708b1d5B263"
+      tokens: DAI.e, USDC.e, USDT.e
     polygon:
-      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
+      address: "0xa5bD947Bc9Bb9215c3290FF43f11F708b1d5B263"
+      tokens: DAI, USDC, USDT
     fantom:
-      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
-    arbitrium:
-      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
-    optimism:
-      address: "0xceBA0659AeB8527B47E9B176237361dDEe352001"
+      address: "0xa5bD947Bc9Bb9215c3290FF43f11F708b1d5B263"
+    # arbitrum:
+    #  address: "0xa5bD947Bc9Bb9215c3290FF43f11F708b1d5B263"
+    # optimism:
+    #  address: "0xa5bD947Bc9Bb9215c3290FF43f11F708b1d5B263"
+    # btc:
+    #  address: "bc1qjdc4fecc0qnseujktd42mq07zz0gezw6tp06kn"
   www: https://ph-defi.gitbook.io/home/phamous-protocol-tokenomics
 ranking:
   founder: orange
   team: orange
   plan: orange
-  implementation: orange
+  implementation: green
   audit: orange
 token:
   symbol: PHAME
