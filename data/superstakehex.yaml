@@ -1,8 +1,8 @@
 ---
-name: Super Stake Hex
+name: Super Stake
 status: promise
 desc: Super Stake pays a liquid HEX dividend funded on every buy and sell of Super Stake. Super Stake also pay a monthly dividend funded by 30 day HEX stakes
-logo: /logos/superstakehex-256.png
+logo: /logos/superstake-256.png
 www: https://superstake.win/
 socials:
   twitter: superstakehex
