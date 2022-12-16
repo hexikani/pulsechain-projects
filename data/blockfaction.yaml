@@ -1,6 +1,6 @@
 ---
 name: BlockFaction
-status: anandoned
+status: abandoned
 desc: Independent PulseChain, EthereumFair and EthereumPOW enteprise-grade RPC node provider for developers and dApps.
 logo: /logos/blockfaction-256.png
 www: https://blockfaction.io/
