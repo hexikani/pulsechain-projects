@@ -1,14 +1,17 @@
 ---
-name: HPX NFT Marketplace
+name: PoolSea (former HPX.sx)
 status: promise
-desc: Decentralized NFT marketplace on PulseChain
-logo: /logos/hpx.sx-256.png
-www: https://hpx.sx/
+desc: DEX, NFT market place, stable coin & Staking pool in one place
+logo: /logos/poolsea-256.png
+www: https://poolsea.com
 categories:
+  dex:
   nft-market:
+  stable-coin:
+  defi:
 socials:
-  twitter: Hpx369
-  tg: hpx369
+  twitter: PoolSeaCrypto
+  tg: poolsea
 sacrifice:
   type: running
   desc: to prove believe that freedom of movement and assembly are protected human rights
