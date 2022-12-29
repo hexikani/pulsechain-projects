@@ -1,9 +1,9 @@
 ---
 name: SnowBall Network
-status: rugged
+status: abandoned
 desc: Deflationary, daily ROI platform
 logo: /logos/snowball-256.png
-www: https://snowball-pulse.netlify.app/
+www: https://pulse-snowball.vercel.app
 categories:
   defi:
 ranking:
@@ -13,7 +13,7 @@ ranking:
   implementation: orange
   audit: orange
 socials:
-  tg: SnowballNetwork
+  tg: +fYfieQE7-FUxNTdh
 sacrifice:
   type: past
   desc: sacrifice for the right to a free market
