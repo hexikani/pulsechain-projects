@@ -15,7 +15,7 @@ socials:
 links:
   - whitepaper: https://internetmoney.io/blackpaper
 sacrifice:
-  type: running
+  type: past
   name: Internet Money Wallet Sacrifice
   desc: sacrifice for the freedom of time
   start: "2022-11-30T00:00:00.000Z"
