@@ -18,7 +18,7 @@ sacrifice:
   address: "0x18BE942604DE4a717fcE9F519c23eAcbBc1bd078"
   desc: sacrifice for total freedom of how you control your money
   start: "2022-10-08T00:00:00Z"
-  end: "2023-01-01T00:00:00Z"
+  end: "2023-01-31T00:00:00Z"
   pointsPerUSD: 10000
   networks:
     ethereum:
