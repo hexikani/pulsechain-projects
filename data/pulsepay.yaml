@@ -1,0 +1,12 @@
+name: PulsePay
+status: promise
+desc: Online crypto bank where the community earns all fees generated from the platform by staking PulsePay Token
+logo: /logos/pulsepay-256.png
+www: https://pulsepay.pro/
+categories:
+  defi:
+  on-ramp:
+socials:
+  tg: PulsePayOfficial
+  twitter: PulsePay
+
