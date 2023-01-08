@@ -16,3 +16,5 @@ sacrifice:
   type: running
   desc: sacrifice for right to free enterprise
   start: "2022-03-07T00:00:00.000Z"
+token:
+  symbol: WATT

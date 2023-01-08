@@ -24,4 +24,6 @@ ranking:
   plan: orange
   implementation: green
   audit: orange
+token:
+  symbol: PHIAT
 

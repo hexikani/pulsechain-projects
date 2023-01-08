@@ -16,3 +16,5 @@ sacrifice:
   type: past
   desc: all human beings are born free and equal in dignity and rights, they are endowed with reason and conscience and should act towards one another in a spirit of brotherhood
   start: "2022-06-10T00:00:00.000Z"
+token:
+  symbol: RFX

@@ -23,3 +23,5 @@ ranking:
   plan: green
   implementation: green
   audit: orange
+token:
+  symbol: LOAN

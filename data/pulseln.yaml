@@ -13,3 +13,5 @@ sacrifice:
   type: running
   desc: sacrifice for freedom of swap
   start: "2022-01-23T00:00:00.000Z"
+token:
+  symbol: PLN

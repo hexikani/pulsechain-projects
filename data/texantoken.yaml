@@ -14,3 +14,5 @@ sacrifice:
   type: past
   desc: donate to the Texas nationalist movement
   start: "2022-07-18T00:00:00.000Z"
+token:
+  symbol: TEXAN

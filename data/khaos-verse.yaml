@@ -15,3 +15,5 @@ sacrifice:
   type: running
   desc: sacrifice to get Khaos Verse tokens
   start: "2021-11-01T00:00:00.000Z"
+token:
+  symbol: KHAOS

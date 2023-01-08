@@ -22,3 +22,5 @@ ranking:
   plan: green
   implementation: orange
   audit: orange
+token:
+  symbol: PP

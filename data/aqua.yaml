@@ -22,3 +22,5 @@ ranking:
   plan: red
   implementation: red
   audit: orange
+token:
+  symbol: WATER

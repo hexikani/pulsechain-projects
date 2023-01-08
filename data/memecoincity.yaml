@@ -19,6 +19,7 @@ sacrifice:
   desc: sacrifice to prove that you believe extorsion is a crime even when done by governments, and that you also believe blockchains are speech and speech is a protected human right
   www: https://www.memecoinmafia.xyz/sacrifice
   start: "2022-07-24T19:00:00Z"
+  symbol: MEME
 token:
   symbol: M3M3
   chain: ethereum

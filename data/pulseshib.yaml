@@ -12,3 +12,5 @@ sacrifice:
   type: past
   desc: sacrifice for PulseShib tokens
   start: "2021-11-10T00:00:00.000Z"
+token:
+  symbol: PulseShib

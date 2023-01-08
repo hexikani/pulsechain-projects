@@ -16,3 +16,5 @@ sacrifice:
   type: past
   desc: sacrifice to prove how strongly you believe fitness and healthy lifestyle as a way to earn cryptocurrencies
   start: "2022-07-07T00:00:00.000Z"
+token:
+  symbol: STEP

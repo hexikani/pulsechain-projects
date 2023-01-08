@@ -13,3 +13,5 @@ sacrifice:
   type: past
   desc: sacrifice for BSKR airdrop
   start: "2022-04-06T00:00:00.000Z"
+token:
+  symbol: BSKR
