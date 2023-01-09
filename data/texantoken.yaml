@@ -15,4 +15,6 @@ sacrifice:
   desc: donate to the Texas nationalist movement
   start: "2022-07-18T00:00:00.000Z"
 token:
+  chain: ethereum
+  address: "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7"
   symbol: TEXAN
