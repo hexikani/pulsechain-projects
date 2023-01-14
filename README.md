@@ -16,6 +16,7 @@ Allowed root keys:
     - `dormant` - project community is quite silent, there are no real updates from the project team.
     - `abandoned` - project community is completely silent, project team does not respond in a timely manner.
     - `rugged` - there are clear signs that project was rug pulled (social media channel closed, liquidity suddenly removed, etc.).
+    - `scam` - there are clear signs that project was a scam.
   - `description` - long description of the project.
   - `www` - fully qualified URL to main page of the project.
   - `categories` - describes detailed metadata about projects' "sacrifice" TBD.
