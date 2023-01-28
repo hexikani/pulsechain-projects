@@ -10,6 +10,23 @@ categories:
 socials:
   tg: HOCport
   twitter: HocusPocusFi
+sacrifice:
+  type: running
+  start: "2022-12-02T00:00:00Z"
+  end: PulseChainLaunchDate
+  name: Hocus Pocus Magical Free Sacrifice
+  desc: sacrifice for the freedom to believe in the magic of blockchain
+  address: "0x5457069F4E87d43fCBd9106c8bdE12BDf224B885" # none
+  hideRateGraphs: true
+  networks:
+    ethereum:
+      tokens: WETH
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: green
+  audit: orange
 token:
   symbol: HOC
   desc: Simplifies staking and farming, HODL it and receive rewards
