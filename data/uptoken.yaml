@@ -14,3 +14,5 @@ sacrifice:
   start: "2022-08-13T01:00:00Z"
 token:
   symbol: uP
+  chain: ethereum
+  address: "0x131bF51e864024DF1982F2cd7B1C786e1A005152"
