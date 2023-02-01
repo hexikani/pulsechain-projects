@@ -1,0 +1,35 @@
+---
+name: PulseGames
+status: active
+desc: Experience the power of PulseChain Gaming with PulseGames
+logo: /logos/pulsegames-256.png
+www: https://pulsegames.net
+categories:
+  game:
+socials:
+  twitter: PulseGamesNet
+  tg: pulsegamesarcade
+ranking:
+  founder: green
+  team: orange
+  plan: orange
+  implementation: orange
+  audit: red
+  note: Our ranking has not been verified with the project team yet.
+sacrifice:
+  address: "0x8c2924a93D4BB2881081616C362f039049e5465E"
+  www: https://www.pulsegames.info/
+  start: "2023-02-01T00:00:00.000Z"
+  end: "2023-08-01T00:00:00.000Z"
+  networks:
+    ethereum:
+      tokens: USDT, USDC, BUSD, WBTC, HEX
+    bsc:
+      tokens: BUSD, BUSD-T
+    polygon:
+      tokens: USDT
+    avax:
+      tokens: USDT.e, USDC.e
+    etc:
+token:
+  symbol: GAME
