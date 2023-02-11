@@ -1,0 +1,16 @@
+---
+name: TrustSwap
+status: promise
+desc: TrustSwap provides DeFi tools for token holders & businesses to buy, trade, create, and secure crypto assets with confidence.
+logo: /logos/trustswap-256.png
+www: https://www.trustswap.com/
+categories:
+  defi:
+  development:
+socials:
+  twitter: TrustSwap
+  tg: TrustSwap
+  discord: VN2e4Qz
+  medium: trustswap
+token:
+  symbol: pSWAP
