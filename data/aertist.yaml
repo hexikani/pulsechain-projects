@@ -1,0 +1,31 @@
+---
+name: Aertist
+status: promise
+desc: Stream your music and earn crypto
+logo: /logos/aertist-256.png
+www: https://aertist.com/
+socials:
+  twitter: AertistOfficial
+  tg: aertistcrypto
+categories:
+  defi:
+  media:
+sacrifice:
+  type: running
+  desc: "sacrifice for the freedom of expression"
+  start: "2023-02-13T00:00:00.000Z"
+  end: PulseChainLaunchDate
+  address: "0xb9822c48897BeFB553Fa4593712F4C50622D1bEe"
+  networks:
+    ethereum:
+      tokens:  HEX, HDRN, ICSA, DAI, USDC, USDT, ASIC, PLSB, PLSD
+ranking:
+  founder: red
+  team: red
+  plan: orange
+  implementation: orange
+  audit: red
+token:
+  symbol: AER
+  chain: pulsechain-testnet
+  address: "0xd18D54627d445bB4C340fd3171a6BbEBB4039c1e"
