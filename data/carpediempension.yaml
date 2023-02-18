@@ -1,0 +1,30 @@
+---
+name: Carpe Diem Pension
+status: promise
+desc: Pension fund on the PulseChain
+logo: /logos/carpediempension-256.png
+www: https://carpediempension.com/
+socials:
+  twitter: CarpeDiemSaving
+  tg: CarpeDiemXCD
+  discord: carpediem
+categories:
+  defi:
+sacrifice:
+  type: running
+  desc: "sacrifice for a guaranteed pension"
+  www: https://pensionsacrifice.com/
+  start: "2023-02-20T00:00:00.000Z"
+  end: "2023-05-21T00:00:00.000Z"
+  address: "0x0000000000000000011110000000000000000000"
+  networks:
+    ethereum:
+      tokens: HEX, USDC, USDT
+ranking:
+  founder: red
+  team: red
+  plan: red
+  implementation: red
+  audit: red
+token:
+  symbol: XCD
