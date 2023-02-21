@@ -16,7 +16,7 @@ sacrifice:
   www: https://pensionsacrifice.com/
   start: "2023-02-20T00:00:00.000Z"
   end: "2023-05-21T00:00:00.000Z"
-  address: "0x0000000000000000011110000000000000000000"
+  address: "0x0dEED0EfaFA3Ec083CFa5AB16492896f7543E426"
   networks:
     ethereum:
       tokens: HEX, USDC, USDT
