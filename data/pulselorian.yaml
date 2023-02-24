@@ -15,3 +15,5 @@ sacrifice:
   start: "2022-04-06T00:00:00.000Z"
 token:
   symbol: BSKR
+  chain: ethereum
+  address: "0x765af00f9278Ab696E815ffA2d0529CdeBD4E10A"
