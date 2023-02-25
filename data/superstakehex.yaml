@@ -22,9 +22,9 @@ sacrifice:
     ethereum:
       tokens: WETH, USDC, WBNB
 ranking:
-  founder: red
-  team: orange
-  plan: red
+  founder: green
+  team: green
+  plan: orange
   implementation: red
   audit: orange
 token:
