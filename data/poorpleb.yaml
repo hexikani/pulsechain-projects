@@ -1,6 +1,6 @@
 ---
 name: PoorPleb Token
-status: active
+status: usable
 desc: ERC20 memecoin aimed at plebs with a big $PP
 logo: /logos/poorpleb-256.png
 www: https://poorpleb.win/
@@ -24,3 +24,5 @@ ranking:
   audit: orange
 token:
   symbol: PP
+  chain: ethereum
+  address: "0x9565c2036963697786705120Fc59310F747bCfD0"
