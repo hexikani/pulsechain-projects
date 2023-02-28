@@ -1,0 +1,18 @@
+---
+name: Proof of No Work Token
+status: promise
+desc: A new hyper-deflationary economic model, where the less you do, the more you make.
+logo: /logos/ponw-256.png
+www: https://ponw.win/
+categories:
+  defi:
+  meme:
+links:
+  - whitepaper: https://proofofnowork.gitbook.io/proof-of-no-work-whitepaper/
+socials:
+  twitter: PoNWDev
+  tg: ProofofNoWork
+  yt: ProofofNoWork
+  github : ProofOfNoWork
+token:
+  symbol: PoNW
