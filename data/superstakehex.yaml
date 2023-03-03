@@ -12,15 +12,16 @@ categories:
   defi:
 sacrifice:
   desc: sacrifice for freedom of interaction
-  type: running
+  type: past
   address: "0xFD2557120063Ae066655e9821a167f75C33dCa2C"
   start: "2022-12-08T00:00:00Z"
   end: Tomorrow+1d
+  pointsPerUSD: 100
   symbol: points
   # end: 
   networks:
     ethereum:
-      tokens: WETH, USDC, WBNB
+      tokens: HEX, WETH, USDC, USDT, DAI
 ranking:
   founder: green
   team: green
