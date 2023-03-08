@@ -10,7 +10,7 @@ links:
   - docs: https://ph-defi.gitbook.io/
   - dapp: https://testnet.phamous.io/
 sacrifice:
-  type: running
+  type: past
   name: "Phamous “Early Bird PHAME” Sacrifice"
   desc: "sacrifice for the freedom to “let HEX haters wreck themselves betting against the Richard Heart community”"
   start: "2022-12-09T20:00:00.000Z"
@@ -21,7 +21,7 @@ sacrifice:
   networks:
     ethereum:
       #tokens: HEX, WBTC, LINK, AAVE, GMX, DXDY, HDRN, POLY, MAXI, BASE, LUCKY, REX, ICSA, PLSD
-      tokens:  HEX, WBTC, LINK,                  HDRN, POLY, MAXI, BASE, LUCKY,      ICSA, PLSD, WETH, USDC, USDT, DAI, LUSD, TUSD, BUSD, GUSD, TRIO, DECI, TEAM, CULT, MATIC, FTM
+      tokens:  HEX, WBTC, LINK,                  HDRN, POLY, MAXI, BASE, LUCKY,      ICSA, PLSD, WETH, USDC, USDT, DAI, LUSD, TUSD, BUSD, GUSD, TRIO, DECI, TEAM, CULT, MATIC, FTM, PP, PLSB, ASIC, TEXAN, SHIB
     bsc:
       address: "0xa5bD947Bc9Bb9215c3290FF43f11F708b1d5B263"
       tokens: WBNB, USDC, BUSD-T, BUSD
