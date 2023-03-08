@@ -1,0 +1,11 @@
+---
+name: PHUX
+status: active
+desc: The PH Universe Xchange, liquidity pools, indices and stable swaps for PulseChain.
+logo: /logos/phux-256.png
+www: https://phux.io/
+categories:
+  defi:
+  dex:
+socials:
+  tg: phuxcrypto
