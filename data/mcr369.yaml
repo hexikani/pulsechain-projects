@@ -1,0 +1,39 @@
+---
+name: MCR369
+status: promise
+desc: A collection of smart contracts that live on the Ethereum and PulseChain blockchains - stake the MCR369 token in the pool to earn a share of rewards generated from suite of products under Magic Carpet Ride.
+logo: /logos/mcr369-256.png
+www: https://mcr369.io/
+socials:
+  twitter: MagicCarpet369
+  tg: MagicCarpetRide369
+  yt: MagicCarpetRide369
+categories:
+  defi:
+  ecosystem:
+    - stakehouse
+    - bistro
+sacrifice:
+  type: running
+  desc: sacrifice for the idea that all humans are entitled to choose what they eat
+  start: "2023-03-17T00:00:00.000Z"
+  end: Tomorrow+2d
+  address: "0x3690000000000000000000000000000000000369"
+  pointsPerUSD: 100
+  networks:
+    ethereum:
+      tokens: WETH, USDC, DAI, USDT, LUSD, TUSD, BUSD, HEX, TEAM, MAXI, DECI, LUCKY, TRIO, BASE, HDRN, ICSA, PLSD, PLSB, ASIC, SHIB
+    bsc:
+      tokens: WBNB, BUSD, BUSD-T, USDC, CAKE, DAI
+    avax:
+      tokens: WAVAX, USDC.e, USDT.e, DAI.e, USDC, USDT, DAI
+    fantom:
+      tokens: WFTM, USDC, DAI
+ranking:
+  founder: green
+  team: green
+  plan: orange
+  implementation: red
+  audit: red
+token:
+  symbol: MCR369
