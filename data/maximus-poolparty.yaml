@@ -1,0 +1,17 @@
+---
+name: Maximus Pool Party
+status: active
+desc: A community owned platform empowering people and communities to launch their own trustless HEX stake pools.
+logo: /logos/maximus-poolparty-256.png
+www: https://hexpool.party/
+categories:
+  defi:
+socials:
+  twitter: maximus_dao
+  tg: MaximusDAO
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: red
+  audit: orange
