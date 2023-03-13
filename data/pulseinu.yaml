@@ -6,8 +6,6 @@ logo: /logos/pulseinu-256.png
 categories:
   meme:
   nft:
-socials:
-  tg: pulseinuofficial
 token:
   chain: bsc
   address: "0xb75eb269180823a2096938162bbfaf0cc8f848a3"
