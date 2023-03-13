@@ -1,0 +1,15 @@
+---
+name: Bistro
+status: promise
+desc: An over-the-counter Marketplace (OTC) dApp to exchange ERC20 and PRC20 tokens, where you place your position at a fixed price.
+logo: /logos/bistro-256.png
+www: https://0xbistro.io/
+socials:
+  twitter: 0xBISTROio
+  tg: MagicCarpetRide369
+  yt: MagicCarpetRide369
+categories:
+  defi:
+  dex:
+links:
+  - docs: https://magic-carpet-ride-369.gitbook.io/magic-carpet-ride/bistro
