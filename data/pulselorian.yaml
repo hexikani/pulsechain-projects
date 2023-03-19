@@ -14,9 +14,12 @@ logo: /logos/pulselorian-256.png
 www: https://pulselorian.com/
 categories:
   meme:
+  nft:
 socials:
   twitter: ThePulseLorian
   tg: ThePulselorian
+links:
+  - audit: https://solidity.finance/audits/Pulselorian/
 sacrifice:
   type: past
   desc: sacrifice for BSKR airdrop
