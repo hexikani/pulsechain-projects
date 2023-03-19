@@ -1,7 +1,15 @@
 ---
 name: Pulselorian
 status: usable
-desc: A Guild of BSKR HANDS on PulseChain.
+desc: A guild of loyal investors and an ever evolving ecosystem on PulseChain, Also launched on Ethereum to onboard new members to PulseChain.
+description: |
+  Pulselorian is a guild of loyal investors and an ever evolving ecosystem on PulseChain currently consisting of two hyper deflationary tokens with burn, staking, NFTs, and more. Also launched on Ethereum to onboard new members to PulseChain.
+
+  BSKR is Pulselorian's native currency. A hyper-deflationary token with fixed supply, auto-staking, auto-liquidity, burn, growth, sacrificer's payday, net-buyers payday, ownership renounced, anti-whale, and fair distribution features. Pulselorian contracts have been audited by Solidity Finance and liquidity is locked for 55 years.
+
+  The Pulselorian ecosystem also encompasses secondary token LBSKR (Light BSKR), which is a utility token to help reduce BSKR circulating supply while offering +40-200% APY and NFT Staking.
+
+  As a community-led ecosystem, Pulselorian is ever evolving with additional products and features in development.
 logo: /logos/pulselorian-256.png
 www: https://pulselorian.com/
 categories:
