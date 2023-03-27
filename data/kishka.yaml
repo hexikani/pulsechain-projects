@@ -1,0 +1,17 @@
+---
+name: Kishka
+status: usable
+desc: A community-driven meme token inspired by a name of cat tweeted by Richard Heart
+logo: /logos/kishka-256.png
+www: https://kishka.io
+categories:
+  meme:
+socials:
+  twitter: kishkatoken
+  tg: kishkaportal
+links:
+  - whitepaper: https://kishka.gitbook.io/kishka-whitepaper/
+token:
+  symbol: Kishka
+  chain: ethereum
+  address: "0x4C3a1D723C4aFAfE14bEc3Ef93116FCFF6c3081a"
