@@ -17,6 +17,7 @@ links:
   - docs: https://pulsefinity.gitbook.io/pulsefinity/
 sacrifice:
   type: running
+  desc: sacrifice for the support of freedom to innovate on blockchain
   address: "0x399b581FE98332283068c7498882aAedCe23953c"
   start: "2022-09-10T00:00:00Z"
   end: PulseChainLaunchDate+30d
