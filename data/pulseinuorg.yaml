@@ -7,3 +7,7 @@ categories:
   meme:
 socials:
   tg: pulseinuofficial
+token:
+  symbol: PINU
+  address: "0xaB3414484DAFe5D9e6A5a491f5220C7E78A0A66F"
+  chain: pulsechain-testnet

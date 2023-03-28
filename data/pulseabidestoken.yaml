@@ -17,3 +17,5 @@ sacrifice:
   final: https://docs.google.com/spreadsheets/d/e/2PACX-1vSqHKBjVOJSr0lq0TrSfm8M6DNntB7EUHf8EftllZPmb-91xcgtHZLKaQDyc6_Gh_xSavEF2drysbYb/pubhtml?gid=459783827&single=true
 token:
   symbol: TPA
+  address: "0x2F55202Cb2C038749D0C028dED539d79318FfE1B"
+  chain: pulsechain-testnet
