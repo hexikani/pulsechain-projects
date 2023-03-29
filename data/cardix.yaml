@@ -5,7 +5,7 @@ status: promise
 logo: /logos/cardix-256.png
 www: https://cardix.tech
 categories:
-  fiat-onramp:
+  on-ramp:
   stable-coin:
 socials:
   twitter: CardixUSC

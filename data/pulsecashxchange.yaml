@@ -5,7 +5,7 @@ desc: Fiat on ramp for PulseChain
 logo: /logos/pulsecashxchange-256.png
 www: http://pulsecashxchange.com
 categories:
-  fiat-onramp:
+  on-ramp:
   stable-coin:
 socials:
   twitter: PulseCashX
