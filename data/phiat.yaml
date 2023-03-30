@@ -27,4 +27,6 @@ ranking:
   audit: orange
 token:
   symbol: PHIAT
+  chain: pulsechain-testnet
+  address: "0x8FA196fA7549112DE289Cf61ff35e636B5f66248"
 

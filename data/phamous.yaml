@@ -48,3 +48,5 @@ ranking:
   audit: orange
 token:
   symbol: PHAME
+  chain: pulsechain-testnet
+  address: "0x72a9f1437de9995B5bcf576420ac3F60C887E1Dd"
