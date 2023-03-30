@@ -19,8 +19,8 @@ sacrifice:
   type: running
   desc: sacrifice for the idea that all humans are entitled to choose what they eat
   start: "2023-03-17T00:00:00.000Z"
-  end: Tomorrow+2d
-  address: "0x3690000000000000000000000000000000000369"
+  end: PulseChainLaunchDate
+  address: "0x5DdC9Be86371a0F7c391e22B040DdE900E307305"
   pointsPerUSD: 100
   networks:
     ethereum:
