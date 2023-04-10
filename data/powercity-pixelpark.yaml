@@ -1,0 +1,21 @@
+---
+name: POWERCITY PixelPark NFT Marketplace
+status: active
+desc: NFT marketplace that is designed to incentivize collectors, creators and community members.
+description: |
+  PixelPark is a new and exciting NFT marketplace that is designed to incentivize collectors, creators and community members. PixelPark will be bringing innovation and leading technology to the NFT space. The intuitive user interface and large range of functionalities and services provided on PixelPark will make for a truly unique user experience.
+
+  - Explore NFTs and NFT collections through powerful search and filtering tools.
+  - Swap NFTs through fixed price listings and auctions with instant settlement.
+  - Make offers on NFTs and across entire Collections. Cancel multiple offers in one transaction.
+  - Supports creator’s royalty rights and provides powerful tools for creators to promote their NFTs and collections.
+logo: /logos/powercity-pixelpark-256.png
+www: https://www.powercity.io/
+categories:
+  nft-market:
+socials:
+  tg: POWERCITYio
+  twitter: PixelParkNFT
+  yt: channel/UCKoFHpAen2bjhqp4Vzq6ZRQ
+links:
+  - docs: https://docs.powercity.io/ecosystem/pixelpark-nft-marketplace

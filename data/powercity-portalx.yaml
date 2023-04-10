@@ -1,0 +1,23 @@
+---
+name: POWERCITY PortalX Swap
+status: usable
+desc: Cryptocurrency bridge and decentralized exchange aggregator that enables seamless trades between blockchains.
+description: |
+  PortalX streamlines the token swapping process across various blockchain networks.
+  By leveraging the Rubic Cross-Chain Aggregator SDK, it connects many bridges and decentralized exchanges.
+  PortalX automatically determines the best route to take across these aggregated services when swapping tokens.
+  This intricate routing system is encapsulated within a simple user interface, eliminating the need to use
+  multiple services with differing interfaces and complicated bridging and swapping processes. With PortalX,
+  you can easily swap tokens across blockchains and decentralized exchanges in one transaction. 
+logo: /logos/powercity-portalx-256.png
+www: https://portalxswap.io/
+categories:
+  defi:
+  bridge:
+  dex:
+socials:
+  tg: POWERCITYio
+  twitter: POWERCITYio
+  yt: channel/UCKoFHpAen2bjhqp4Vzq6ZRQ
+links:
+  - docs: https://docs.powercity.io/portalx/

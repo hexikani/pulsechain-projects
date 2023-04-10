@@ -1,0 +1,27 @@
+---
+name: POWERCITY EARN Protocol
+status: active
+desc: Decentralized borrowing protocol that allows you to draw interest-free loans against $PLSX used as collateralEcosystem of projects designed to improve PulseChain for both the community and developers alike.
+description: |
+  EARN is a decentralized borrowing protocol that allows you to draw interest-free loans against PLSX used as collateral.
+  Loans are paid out in PXDC (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%.
+  
+  In addition to the collateral, the loans are secured by a Stability Pool containing PXDC and by fellow borrowers collectively
+  acting as guarantors of last resort. Learn more about these mechanisms under Liquidation.
+  
+  EARN as a protocol is non-custodial, immutable, and governance-free.
+logo: /logos/powercity-earn-256.png
+www: https://www.powercity.io/
+categories:
+  defi:
+  stable-coin:
+socials:
+  tg: POWERCITYio
+  twitter: POWERCITYio
+  yt: channel/UCKoFHpAen2bjhqp4Vzq6ZRQ
+links:
+  - docs: https://docs.powercity.io/earn-protocol/
+token:
+  symbol: EARN
+tokens:
+  - symbol: PXDC

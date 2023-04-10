@@ -1,0 +1,23 @@
+---
+name: POWERCITY Amplifier
+status: active
+desc: Automated Front-End to EARN, Liquid Loans and Liquity Lending Protocols.
+description: |
+  Amplifier is an automated front-end to the Liquity lending protocol that will support multiple implementations
+  on Ethereum and PulseChain (Liquity on Ethereum, EARN Protocol and Liquid Loans on PulseChain).
+  Liquity is trustless and immutable, allowing anyone to create a custom front-end to the lending protocol.
+  Amplifier simplifies the operation of Liquity’s many functions while also automating several leveraged trading
+  strategies so you don’t need to continually track market prices to time the strategies properly.
+
+  Amplifier supports the following protocols built off the Liquity code: EARN Protocol, Liquid Loans, Liquity.
+logo: /logos/powercity-256.png
+www: https://www.powercity.io/
+categories:
+  defi:
+  stable-coin:
+socials:
+  tg: POWERCITYio
+  twitter: POWERCITYio
+  yt: channel/UCKoFHpAen2bjhqp4Vzq6ZRQ
+links:
+  - docs: https://docs.powercity.io/earn-protocol/
