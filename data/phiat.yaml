@@ -13,6 +13,7 @@ socials:
 links:
   - docs: https://ph-defi.gitbook.io/
   - audit: https://www.certik.com/projects/phiat-io#audit
+  - audit: https://solidity.finance/audits/PhiatProtocol/
 sacrifice:
   type: past
   desc: for the right to do cool stuff with your RH coins
