@@ -1,0 +1,21 @@
+---
+name: PulseCrypt
+status: active
+desc: Liquidity locking solution and launchpad
+logo: /logos/pulsecrypt-256.png
+www: https://pulsecrypt.com/
+categories:
+  defi:
+socials:
+  twitter: pulsecrypt
+  tg: PulseCrypt
+  email: press@pulsecrypt.com
+links:
+  - whitepaper: https://pulsemoon.gitbook.io/whitepaper/about-us/what-is-pulsemoon
+  - docs: https://docs.pulsecrypt.com/guide/liquidity-locker
+  - dapp: https://app.pulsecrypt.com/services/lock-liquidity/
+  - dapp: https://app.pulsecrypt.com/services/launchpad/
+token:
+  symbol: PLCX
+  chain: ethereum
+  address: "0x6cD079F296c10EB84A64239b893D4EdfA2E1d779"
