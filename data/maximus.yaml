@@ -6,6 +6,14 @@ logo: /logos/maximus-256.png
 www: https://maximus.cash/
 categories:
   defi:
+  ecosystem:
+    - maximus-base
+    - maximus-trio
+    - maximus-lucky
+    - maximus-deci
+    - maximus-team
+    - maximus-poly
+    - maximus-poolparty
 socials:
   twitter: maximus_dao
   tg: MaximusDAO
