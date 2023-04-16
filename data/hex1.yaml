@@ -1,0 +1,17 @@
+---
+name: Hex One
+status: active
+desc: Yield-bearing stable coin backed by HEX T-Shares
+logo: /logos/hex1-256.png
+www: https://hex1.club
+categories:
+  defi:
+  stable-coin:
+socials:
+  twitter: Hex1crypto
+  tg: HEX1protocol
+links:
+  - docs: https://hex-one.gitbook.io/hex-one-protocol
+  - dapp: https://dapp.hex1.club/
+token:
+  symbol: HEX1
