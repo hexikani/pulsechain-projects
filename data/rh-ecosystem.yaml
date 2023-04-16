@@ -6,6 +6,10 @@ logo: /logos/rh-ecosystem-256.png
 www: https://richardheart.com/
 categories:
   person:
+  ecosystem:
+    - hex
+    - pulsechain
+    - pulsex
 socials:
   twitter: RichardHeartWin
   tg: RichardHeart
