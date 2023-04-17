@@ -30,11 +30,10 @@ sacrifice:
     polygon:
       tokens: WMATIC, HEX
 ranking:
-  founder: orange
+  founder: green
   team: green
   plan: orange
-  implementation: green
-  audit: red
-  note: Our ranking has not been verified with the project team yet.
+  implementation: orange
+  audit: orange
 token:
   symbol: OPLS
