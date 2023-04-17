@@ -1,4 +1,4 @@
-name: StarLabs OnPulse
+name: Starter Labs OnPulse
 desc: Incubating projects and connecting reputable founders with sacrificers to help launch useful tools for PulseChain and IDOs on PulseX - by .
 status: active
 logo: /logos/onpulse-256.png
@@ -13,7 +13,7 @@ links:
   - whitepaper: https://starterlabs.medium.com/onpulse-an-incubator-and-onchain-sacrificer-launchpad-for-pulsechain-4cd4ff1dc72a
 sacrifice:
   type: past
-  name: StarterLabs OnPulse Sacrifice
+  name: Starter Labs OnPulse Sacrifice
   desc: sacrifice for bringing strong and vetted US-based projects with real utility to PulseChain
   www: https://starterlabs.xyz/sacrifice/
   start: "2023-05-12T20:00:00.000Z"
