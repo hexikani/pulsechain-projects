@@ -1,0 +1,15 @@
+---
+name: PulseMoon
+status: promise
+desc: Meme token on PulseChain offering PLS rewards by simply holding PLSM
+logo: /logos/pulsemooncrypto-256.png
+www: https://pulsemoon.gitbook.io/
+categories:
+  meme:
+socials:
+  twitter: PulseMoonCrypto
+  tg: PulseMoonCommunity
+links:
+  - whitepaper: https://pulsemoon.gitbook.io/whitepaper/about-us/what-is-pulsemoon
+token:
+  symbol: PLSM
