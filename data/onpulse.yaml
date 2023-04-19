@@ -3,6 +3,9 @@ desc: Incubating projects and connecting reputable founders with sacrificers to 
 status: active
 logo: /logos/onpulse-256.png
 www: https://starterlabs.xyz/
+categories:
+  defi:
+  development:
 socials:
   twitter: StarterLabsHQ
   tg: StarterLabsHQ
@@ -12,11 +15,11 @@ socials:
 links:
   - whitepaper: https://starterlabs.medium.com/onpulse-an-incubator-and-onchain-sacrificer-launchpad-for-pulsechain-4cd4ff1dc72a
 sacrifice:
-  type: past
+  type: running
   name: Starter Labs OnPulse Sacrifice
   desc: sacrifice for bringing strong and vetted US-based projects with real utility to PulseChain
   www: https://starterlabs.xyz/sacrifice/
-  start: "2023-05-12T20:00:00.000Z"
+  start: "2023-04-12T00:00:00.000Z"
   end: Tomorrow+7d
   address: "0xACbAd6A1500aF68FBF41A7913b02975d731C7f1B"
   #pointsPerUSD: 100
