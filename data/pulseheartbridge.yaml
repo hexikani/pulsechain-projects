@@ -1,0 +1,16 @@
+---
+name: Heart Bridge
+status: active
+desc: Cross-chain bridge to the Pulse Chain.
+logo: /logos/pulseheartbridge-256.png
+www: https://pulseheartbridge.com/
+categories:
+  bridge:
+socials:
+  twitter: HeartBridgeERC
+  tg: HeartBridgeCoin
+  email: team@pulseheartbridge.com
+token:
+  symbol: HEART
+  chain: ethereum
+  address: "0xA12ca1B75AD1C73cA610D9788D4D7dcb5CAeE012"
