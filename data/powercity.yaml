@@ -31,5 +31,11 @@ sacrifice:
   type: running
   desc: sacrifice for right to free enterprise
   start: "2022-03-07T00:00:00.000Z"
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: green
+  audit: orange
 token:
   symbol: WATT
