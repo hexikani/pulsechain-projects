@@ -13,3 +13,9 @@ token:
   symbol: PLSIOU
   address: "0xa4C5CF93CBc87b82fBa152E0EDe4BbC5264C24ef"
   chain: ethereum
+ranking:
+  founder: orange
+  team: green
+  plan: green
+  implementation: green
+  audit: red
