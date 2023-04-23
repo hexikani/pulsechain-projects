@@ -1,0 +1,15 @@
+---
+name: PulseChain IOU
+status: usable
+desc: IOU token which you can swap 1:1 for PLS on PulseChain mainnet.
+www: https://pulsechain-iou.com/
+logo: /logos/plsiou-170.png
+categories:
+  onramp:
+socials:
+  twitter: pulsechainiou
+  tg: pulsechain_iou
+token:
+  symbol: PLSIOU
+  address: "0xa4C5CF93CBc87b82fBa152E0EDe4BbC5264C24ef"
+  chain: ethereum
