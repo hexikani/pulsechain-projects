@@ -11,8 +11,11 @@ socials:
   tg: PulseValley
   ig: pulsevalley
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice to prove that you believe extorsion is a crime even when done by governments, and that you also believe blockchains are speech and speech is a protected human right
   start: "2022-07-29T00:00:00Z"
+  end: "2023-03-10T00:00:00Z"
 token:
-  symbol: PV
+  symbol: PVT
+  chain: ethereum
+  address: "0xA69579f901680c1659A08c357e02e149B2aeBED5"
