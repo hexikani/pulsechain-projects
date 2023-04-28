@@ -1,0 +1,16 @@
+---
+name: 9inch
+status: promise
+desc: Staking and yield-farming for PulseChain & Ethereum.
+logo: /logos/9inch-256.png
+www: https://www.9inch.io/
+categories:
+  defi:
+  dex:
+socials:
+  twitter: 9inch_io
+  tg: DEX9inch
+links:
+  - docs: http://9inch.gitbook.io/
+token:
+  symbol: 9INCH
