@@ -11,6 +11,8 @@ socials:
   tg: internetmoneyio
   twitter: internetmoneyio
   yt: c/brotherkdg
+links:
+  - audit: https://internetmoney.io/audits/
 sacrifice:
   type: past
   desc: sacrifice for freedom of time
