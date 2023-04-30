@@ -7,3 +7,7 @@ www: https://https://www.tetra.win/
 categories:
   defi:
   airdrop: Sacrificers for ReflHEXion will get Tetra airdrop.
+token:
+  symbol: TETRA
+  address: "0x4D029b3157eA05B6c696A08101f5755b83716165"
+  chain: ethereum
