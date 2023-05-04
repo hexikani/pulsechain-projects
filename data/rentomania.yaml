@@ -9,3 +9,7 @@ socials:
   yt: channel/UCHJ7TQEYTWwBXDQtdhI3yQA
 categories:
   game:
+token:
+  symbol: RNT
+  address: "0xCe6E96c533CD352f2006Ce86D8D43AE8eCB6003A"
+  chain: pulsechain-testnet
