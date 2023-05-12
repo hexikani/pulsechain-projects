@@ -12,7 +12,36 @@ links:
 socials:
   twitter: PoNWDev
   tg: ProofofNoWork
-  yt: ProofofNoWork
-  github : ProofOfNoWork
+  yt: "@proofofnowork"
+  github: ProofOfNoWork
+sacrifice:
+  type: running
+  desc: support the idea that utilizing blockchain software is equivalent to speech and that the freedom of speech/movement is a protected human right
+  www: https://ponw.win/sacrifice.html
+  start: "2023-05-05T00:00:00"
+  end: PulseChainLaunchDate+30d
+  address: "0x281A6D3faAED4939D5c430c1fa125eBDd4209a78"
+  networks:
+    ethereum:
+      tokens: WETH, HEX, HDRN, ICSA, SHIB, UNI, LINK, XEN, WBTC, MANA, BAT, DENT, OMI, RNDR, PEPE
+    pulsechain:
+      tokens: HEX, PLSX, WPLS, HDRN, ICSA
+    bsc:
+      tokens: WBNB, bXEN
+    polygon:
+      tokens: WMATIC, mXEN
+    # Cardano addr1q9jfueczld88nmhjtlul8up6zddl27gh8xfw5lsvykcjz7rynens976w08h0yhle70cr5y6m74u3wwvjaflqcfd3y9uqdkn2xq
+    # Dogecoin D97KwQNBbfAVg2Hu9yHwtzN6wxy9tr5YxJ
+    # XRP D97KwQNBbfAVg2Hu9yHwtzN6wxy9tr5YxJ
+    # Polkadot 12W646oFFcwB97VnSKcXXEcB3vCpqVkBw5ykshGGC4tAwDn6
+    # Bitcoin bc1q7fa0r7v0gr0zfkv6rsnsn6yuat67l9g2cxyf4n
+    # Bitcoin Cash qpaj0y0qgqympdufv257sm5rhxepmewaxuz242g6f4
+    # Litecoin LSGxMpo2bQhuyVvFMTrpnrPxvbHnpA8mcE
+ranking:
+  founder: red
+  team: red
+  plan: orange
+  implementation: orange
+  audit: red
 token:
   symbol: PoNW
