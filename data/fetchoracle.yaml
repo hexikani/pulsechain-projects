@@ -1,0 +1,13 @@
+---
+name: Fetch Oracle
+status: promise
+desc: A fully decentralized, transparent and permissionless oracle system. Powered by Tellor technology. Built natively for PulseChain.
+logo: /logos/fetchoracle-256.png
+www: https://fetchoracle.com/
+categories:
+  defi:
+  oracle:
+socials:
+  twitter: https://twitter.com/fetchoracle
+links:
+  - whitepaper: https://fetchoracle.com/whitepaper

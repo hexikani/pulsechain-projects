@@ -5,6 +5,7 @@ desc: PulseChain Oracle. Native to PulseChain. Built for PulseChain.
 logo: /logos/pulselink-256.png
 categories:
   defi:
+  oracle:
 socials:
   twitter: PulseLinkOracle
 token:
