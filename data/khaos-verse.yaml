@@ -12,7 +12,7 @@ socials:
   twitter: KhaosVerse
   tg: KhaosVerse
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice to get Khaos Verse tokens
   start: "2021-11-01T00:00:00.000Z"
   end: "2023-06-12T00:00:00.000Z"
