@@ -1,0 +1,21 @@
+---
+name: PUMLx (ERC-20)
+status: usable
+desc: PUMLx is the Move to Earn utility token of the PUML Better Health Platform. Download app to Earn coins for walking, workouts, meditation and more.
+logo: /logos/pumlx-256.png
+www: https://puml.io/
+categories:
+  defi:
+socials:
+  twitter: pumlhealthio
+  tg: pumlofficial
+  ig: pumlhealthio
+  discord: puml
+  email: hello@puml.io
+links:
+  - dapp: https://get.puml.io
+token:
+  desc: Move to Earn Token
+  symbol: PUMLx
+  chain: ethereum
+  address: "0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73"
