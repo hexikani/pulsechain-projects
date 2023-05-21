@@ -14,7 +14,7 @@ sacrifice:
   type: running
   desc: sacrifice to help raise awareness of how gambling harms individuals, families, and communities all around the world
   start: "2022-09-28T00:00:00Z"
-  end: PulseChainLaunchDate
+  end: OpenEnded
   address: "0xcfb1e0c5645Fe132aF153CD37213F017eAaDD96B"
   networks:
     ethereum:
