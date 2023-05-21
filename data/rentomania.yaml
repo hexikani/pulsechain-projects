@@ -11,5 +11,5 @@ categories:
   game:
 token:
   symbol: RNT
-  address: "0xCe6E96c533CD352f2006Ce86D8D43AE8eCB6003A"
-  chain: pulsechain-testnet
+  address: "0x8dcf280e9D3f8B988Bba0000428a02C860E50bFf"
+  chain: pulsechain
