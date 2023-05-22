@@ -13,6 +13,7 @@ sacrifice:
   type: running
   desc: sacrifice for freedom of speech and no censorship
   start: "2022-04-15T16:00:00.000Z"
+  start: "2023-06-04T22:00:00.000Z"
   www: https://plspeak.com/sacrifice/
 token:
   symbol: SPEAK
