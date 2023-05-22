@@ -1,6 +1,6 @@
 ---
 name: PulseShib
-status: dormant
+status: usable
 desc: Shiba inspired meme coin on PulseChain.
 logo: /logos/pulseshib-256.png
 www: https://pulseshib.com/
@@ -15,3 +15,5 @@ sacrifice:
   start: "2021-11-10T00:00:00.000Z"
 token:
   symbol: PulseShib
+  chain: pulsechain
+  address: "0xCFDAeCeeF1Da66eC26Cfb5BE1ef3a5b70BD6e37C"
