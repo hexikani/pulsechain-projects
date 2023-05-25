@@ -1,6 +1,6 @@
 ---
 name: 9inch
-status: promise
+status: active
 desc: Staking and yield-farming for PulseChain & Ethereum.
 logo: /logos/9inch-256.png
 www: https://www.9inch.io/
@@ -13,5 +13,25 @@ socials:
 links:
   - docs: http://9inch.gitbook.io/
   - dapp: http://app.9inch.io/
+sacrifice:
+  type: running
+  desc: sacrifice for 9inch
+  start: "2023-05-24T00:00:00Z"
+  end: "2023-06-24T22:00:00Z"
+  address: "0xB05B5cEC58cc03da0473fFcD4E94DA131f16F651"
+  www: https://www.9inch.io/s
+  networks:
+    ethereum:
+      tokens: USDT, USDC, DAI, HEX, PP, PLD, HDRN
+    bsc:
+      tokens: USDC, BUSD-T, BUSD, DAI
+    #pulsechain:
+    #  tokens: PLSX, HEX, INC, HDRN, PP, PLD, eDAI, eUSDC, eUSDT
+ranking:
+  founder: orange
+  team: green
+  plan: green
+  implementation: green
+  audit: orange
 token:
   symbol: 9INCH
