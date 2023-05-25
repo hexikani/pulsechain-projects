@@ -1,6 +1,6 @@
 ---
 name: Bistro
-status: promise
+status: active
 desc: An over-the-counter Marketplace (OTC) dApp to exchange ERC20 and PRC20 tokens, where you place your position at a fixed price.
 logo: /logos/bistro-256.png
 www: https://0xbistro.io/
