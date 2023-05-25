@@ -18,7 +18,7 @@ sacrifice:
   type: running
   desc: sacrifice to prove how strongly you believe in the rights of anonymity and privacy
   start: "2022-09-06T23:00:00Z"
-  end: PulseChainLaunchDate+7d
+  end: "2023-05-30T22:00:00Z"
   address: "0xfb2167cdD74FC8379D3ba83De9A3893772a5136D"
   networks:
     ethereum:
