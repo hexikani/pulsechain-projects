@@ -16,7 +16,7 @@ socials:
   github: ProofOfNoWork
 sacrifice:
   type: running
-  desc: support the idea that utilizing blockchain software is equivalent to speech and that the freedom of speech/movement is a protected human right
+  desc: sacrifice to show support for freedom of movement, freedom of speech & freedom to transact on the blockchain
   www: https://ponw.win/sacrifice.html
   start: "2023-05-05T00:00:00"
   end: PulseChainLaunchDate+30d
