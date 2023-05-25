@@ -1,6 +1,6 @@
 ---
 name: Free Carpet Ride Pool
-status: active
+status: terminated
 desc: A freepulse.io sacrifice pool
 logo: /logos/freecarpetride-256.png
 categories:
@@ -8,7 +8,7 @@ categories:
 socials:
   tg: FreeCarpetRide
 sacrifice:
-  type: pool
+  type: past-pool
   desc: contribute to the FreePulse.io pool
   start: "2022-03-18T07:00:00.000Z"
   hideRateGraphs: true

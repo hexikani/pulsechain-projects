@@ -15,6 +15,7 @@ Allowed root keys:
     - `usable` - project turned into product and can be used of bought on market.
     - `dormant` - project community is quite silent, there are no real updates from the project team.
     - `abandoned` - project community is completely silent, project team does not respond in a timely manner.
+    - `terminated` - project was terminated, without usable artifiacts.
     - `rugged` - there are clear signs that project was rug pulled (social media channel closed, liquidity suddenly removed, etc.).
     - `scam` - there are clear signs that project was a scam.
   - `description` - long description of the project.
