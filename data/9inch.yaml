@@ -16,8 +16,8 @@ links:
 sacrifice:
   type: running
   desc: sacrifice for 9inch
-  start: "2023-05-24T00:00:00Z"
-  end: "2023-06-24T22:00:00Z"
+  start: "2023-05-25T23:30:00Z"
+  end: "2023-06-25T23:30:00Z"
   address: "0xB05B5cEC58cc03da0473fFcD4E94DA131f16F651"
   www: https://www.9inch.io/s
   networks:
@@ -25,8 +25,8 @@ sacrifice:
       tokens: USDT, USDC, DAI, HEX, PP, PLD, HDRN
     bsc:
       tokens: USDC, BUSD-T, BUSD, DAI
-    #pulsechain:
-    #  tokens: PLSX, HEX, INC, HDRN, PP, PLD, eDAI, eUSDC, eUSDT
+    pulsechain:
+      tokens: PLSX, HEX, eHEX, INC, HDRN, PP, PLD, eDAI, eUSDC, eUSDT
 ranking:
   founder: orange
   team: green

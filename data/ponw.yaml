@@ -25,7 +25,7 @@ sacrifice:
     ethereum:
       tokens: WETH, HEX, HDRN, ICSA, SHIB, UNI, LINK, XEN, WBTC, MANA, BAT, DENT, OMI, RNDR, PEPE
     pulsechain:
-      tokens: HEX, PLSX, WPLS, HDRN, ICSA
+      tokens: HEX, eHEX, PLSX, WPLS, HDRN, ICSA
     bsc:
       tokens: WBNB, bXEN
     polygon:

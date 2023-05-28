@@ -15,5 +15,18 @@ sacrifice:
   start: "2022-04-15T16:00:00.000Z"
   end: "2023-06-04T22:00:00.000Z"
   www: https://plspeak.com/sacrifice/
+  address: "0x89E261160b5564e82B1a97470BB787e2F7b8F246"
+  pointsPerUSD: 10000
+  networks:
+    ethereum:
+      tokens: WBTC, USDT, WETH, USDC, DAI, HEX, GUSD
+    bsc:
+      tokens: WBNB, USDC, BUSD-T, BUSD
+    avax:
+      tokens: WAVAX, USDC.e, USDT.e, DAI.e, USDC, USDT, DAI
+    polygon:
+      tokens: WMATIC, HEX, USDC
+    pulsechain:
+      tokens: PLSX, eHEX, HEX, eDAI, eUSDC, eUSDT
 token:
   symbol: SPEAK

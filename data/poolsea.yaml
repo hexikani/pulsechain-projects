@@ -16,6 +16,20 @@ sacrifice:
   type: running
   desc: to prove believe that freedom of movement and assembly are protected human rights
   start: "2022-08-09T00:00:00Z"
+  end: OpenEnded
+  pointsPerUSD: 10000
+  address: "0x11Fd618748569cc6FDc9e641Fe306D20F988150a"
+  networks:
+    ethereum:
+      tokens: 1INCH, AAVE, AMPL, AXS, BADGER, BAT, BNT, BOND, BUSD, CEL, COMP, CRO, CRV, DAI, FEI, FOX, FRAX, GRT, GUSD, HEX, LINK, LUNA, MATIC, MKR, PAXG, renBTC, SHIB, SNX, sUSD, SUSHI, TRIBE, TUSD, UNI, USDC, USDP, USDT, UST, WBTC, WETH, WISE, YFI, ZRX
+    bsc:
+      tokens: BUSD-T, BUSD, CAKE, DAI, ETH, USDC, UST
+    polygon:
+      tokens: AAVE, CELSIUS, DAI, HEX, LINK, MATIC, miMATIC, QUICK, USDC, USDT, WBTC, WETH, WMATIC
+    avax:
+      tokens: DAI.e, USDC.e, USDT.e
+    pulsechain:
+      tokens: WPLS, PLSX, INC, HEX, eDAI, eUSDT, eUSDC, eWBTC, eWETH, eHEX
 ranking:
   founder: green
   team: orange

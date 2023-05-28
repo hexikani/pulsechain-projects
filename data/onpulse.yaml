@@ -31,7 +31,9 @@ sacrifice:
     avax:
       tokens: WAVAX, USDC.e, USDT.e, DAI.e, USDC, USDT, DAI
     polygon:
-      tokens: WMATIC, HEX
+      tokens: WMATIC, HEX, USDC, USDT
+    pulsechain:
+      tokens: PLSX, HEX, INC, eUSDC, eDAI, eUSDT
 ranking:
   founder: green
   team: green
