@@ -31,6 +31,8 @@ sacrifice:
       tokens: WAVAX, USDC.e, USDT.e, DAI.e, USDC, USDT, DAI
     fantom:
       tokens: WFTM, USDC, DAI
+    pulsechain:
+      tokens: WPLS, PLSX, HEX, eHEX, INC, HDRN, ICSA, PP, eUSDC, eUSDT, eDAI
 ranking:
   founder: green
   team: green
