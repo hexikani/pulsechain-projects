@@ -1,0 +1,11 @@
+name: HowToPulse
+status: usable
+desc: Crypto news website dedicated to providing the latest updates, details, videos, announcements and tools about PulseChain, PulseX and HEX.
+logo: /logos/howtopulse-256.png
+www: https://www.howtopulse.com/
+categories:
+  site:
+socials:
+  twitter: HowtoPulse
+  tg: howtopulse
+  yt: "@HowToPulse"
