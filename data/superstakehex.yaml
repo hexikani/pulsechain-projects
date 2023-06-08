@@ -26,8 +26,10 @@ ranking:
   founder: green
   team: green
   plan: orange
-  implementation: red
+  implementation: green
   audit: orange
 token:
   symbol: SSH
+  address: "0x873A2B0bDC19C6E4Df7bc3dBB875a46D6940Fa46"
+  chain: pulsechain-testnet
 
