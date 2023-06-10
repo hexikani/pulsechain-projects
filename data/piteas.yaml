@@ -1,0 +1,22 @@
+---
+name: Piteas
+status: active
+desc: First Optimal & Productive Dex Aggregator on Pulsechain.
+logo: /logos/piteas-256.png
+www: https://www.piteas.io/
+categories:
+  defi:
+  dex:
+socials:
+  twitter: piteasio
+  tg: piteasio
+  github: piteasio
+links:
+  - docs: https://docs.piteas.io/
+  - dapp: https://app.piteas.io/
+ranking:
+  founder: orange
+  team: orange
+  plan: green
+  implementation: green
+  audit: orange
