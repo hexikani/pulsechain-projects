@@ -10,6 +10,10 @@ socials:
   twitter: lovedotio
   tg: loveiocommunity
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice to prove believe in love as a universal language
   start: "2021-11-20T00:00:00.000Z"
+token:
+  symbol: LOVE
+  address: "0xb55EE890426341FE45EE6dc788D2D93d25B59063"
+  chain: pulsechain
