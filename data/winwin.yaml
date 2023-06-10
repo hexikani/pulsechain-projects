@@ -19,8 +19,8 @@ sacrifice:
   networks:
     ethereum:
       tokens: DAI, HEX, HDRN, LUSD, MAXI, TUSD, USDC, USDT, WBTC
-    # pulsechain:
-    #   tokens: HEX, HDRN, LOAN, MAXI, MINT, PLS, PLSX, USDL, WATT
+    pulsechain:
+      tokens: HEX, PLSX, eUSDC, eUSDT, eDAI
     bsc:
       tokens: BUSD, USDC, BUSD-T
   hideRateGraphs: true
