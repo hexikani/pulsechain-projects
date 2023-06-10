@@ -4,6 +4,8 @@ status: usable
 desc: Meme token inspired by Elon
 logo: /logos/pulsedogelon-256.png
 www: https://pulsedogelon.com/
+categories:
+  meme:
 socials:
   twitter: PulseDogElon
   ig: pulsedogelon

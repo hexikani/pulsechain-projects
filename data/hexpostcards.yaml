@@ -4,6 +4,8 @@ status: active
 desc: Send a HEX postcard to every mailbox!
 logo: /logos/hexpostcards-256.png
 www: https://hexpostcards.com/
+categories:
+  site:
 socials:
   twitter: HEXpostcards
   tg: HEXpostcards

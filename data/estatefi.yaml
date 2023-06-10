@@ -4,6 +4,8 @@ status: rugged
 desc: DeFi protocol that leverages on-chain crowdfunding for stable off-chain investments in real estate, returning earnings back to holders!
 logo: /logos/estatefi-256.png
 www: https://web.archive.org/web/20220602142853/https://estatefi.io/
+categories:
+  investment:
 socials:
   twitter: estate_fi
   tg: EstateFi

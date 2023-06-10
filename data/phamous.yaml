@@ -3,6 +3,8 @@ desc: Leveraged trading for PulseChain, brought to you by Phiat.io
 status: active
 logo: /logos/phamous-256.png
 www: https://phamous.io/
+categories:
+  cex:
 socials:
   twitter: phamouscrypto
   tg: phamousX

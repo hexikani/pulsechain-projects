@@ -5,6 +5,7 @@ desc: Decentralized exchange on PulseChain
 logo: /logos/pulsetrade-256.png
 www: https://www.pulse-trade.io/
 categories:
+  dex:
 socials:
   tg: PulseTradeio
 sacrifice:

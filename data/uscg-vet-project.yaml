@@ -2,5 +2,7 @@ name: USCG Vet Project
 status: dormant
 desc: Project rewarding PLSD free-claimers who still have their PLSD.
 logo: /logos/uscg-vet-project-256.png
+categories:
+  claim:
 socials:
   tg: USCG_Vet_Project

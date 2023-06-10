@@ -6,9 +6,11 @@ logo: /logos/pulsefi-256.png
 socials:
   twitter: pulsefinance_
   tg: PulseFi
+categories:
+  meme:
 links:
-  dapp: https://app.pulsefi.net/
-  audit: https://github.com/ContractChecker/audits/blob/main/Pulsefi_0x564C3e90fF5c4347AFfd550B1Ad3D8984f27747c_Smart_Contract_Security_Audit_By_ContractChecker.pdf
+  - dapp: https://app.pulsefi.net/
+  - audit: https://github.com/ContractChecker/audits/blob/main/Pulsefi_0x564C3e90fF5c4347AFfd550B1Ad3D8984f27747c_Smart_Contract_Security_Audit_By_ContractChecker.pdf
 ranking:
   founder: red
   team: red

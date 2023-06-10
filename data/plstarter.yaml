@@ -10,7 +10,7 @@ socials:
   twitter: Plstarter
   tg: plstarter
 links:
-  audit: https://github.com/TechRate/Smart-Contract-Audits/blob/main/August_2022/PLSTARTER.pdf
+  - audit: https://github.com/TechRate/Smart-Contract-Audits/blob/main/August_2022/PLSTARTER.pdf
 sacrifice:
   type: past
   desc: sacrifice to show how strongly you believe in freedom of business activity and entrepreneurship

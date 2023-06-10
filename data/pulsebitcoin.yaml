@@ -4,6 +4,9 @@ status: usable
 desc: Bitcoin inspired meme token from the creator of PulseDogeCoin.
 logo: /logos/pulsebitcoin-256.png
 www: https://pulsebitcoin.com/
+categories:
+  defi:
+  claim:
 socials:
   twitter: Pulse_Bitcoin
   tg: PulseBitcoin

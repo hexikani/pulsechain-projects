@@ -4,6 +4,9 @@ status: active
 desc: A community building crypto asset that connects like minded people together. XEN starts with zero supply and will only be minted by the participating community.
 logo: /logos/xencrypto-256.png
 www: https://faircrypto.org/xen
+categories:
+  defi:
+  claim:
 socials:
   tg: XENCryptoTalk
   github: FairCrypto/XEN-crypto

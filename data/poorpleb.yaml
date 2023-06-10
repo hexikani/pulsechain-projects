@@ -11,7 +11,7 @@ socials:
   twitter: poorplebwin
   tg: poorplebwin
 links:
-  audit: https://poorpleb.win/wp-content/uploads/2022/10/2022-10-PoorPleb-Audit.final_.pdf
+  - audit: https://poorpleb.win/wp-content/uploads/2022/10/2022-10-PoorPleb-Audit.final_.pdf
 sacrifice:
   type: past
   desc: sacrifices for freedom of plebs
