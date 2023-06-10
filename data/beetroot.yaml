@@ -15,7 +15,7 @@ links:
   - audit: https://www.beetroot.world/_files/ugd/b4e0f9_2757e83d399a4cb2b9488d1e8e8d4ffb.pdf
   - dapp: https://dapp.beetroot.world/
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice to prove how strongly you believe in the rights of anonymity and privacy
   start: "2022-09-06T23:00:00Z"
   end: "2023-05-30T22:00:00Z"
@@ -35,3 +35,6 @@ ranking:
   note: BEETroot token on PulseChain testnet was audited by InterFi.
 token:
   symbol: BEET
+  address: "0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32"
+  chain: "pulsechain"
+  
