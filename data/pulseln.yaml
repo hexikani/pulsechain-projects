@@ -15,3 +15,5 @@ sacrifice:
   start: "2022-01-23T00:00:00.000Z"
 token:
   symbol: PLN
+  chain: pulsechain
+  address: "0xa685C45fd071DF23278069Db9137e124564897D0"
