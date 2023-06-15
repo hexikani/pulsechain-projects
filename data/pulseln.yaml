@@ -1,6 +1,6 @@
 ---
 name: PulseLN
-status: completed
+status: usable
 desc: PulseChain's fastest & simplest fiat onramp, allowing to swap PLS, BTC (Lightning Network Enabled), HEX, & BNB in less than ~10 seconds for low fees.
 logo: /logos/pulseln-256.png
 www: https://pulseln.com/
