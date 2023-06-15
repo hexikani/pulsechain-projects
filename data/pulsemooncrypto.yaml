@@ -13,3 +13,6 @@ links:
   - whitepaper: https://pulsemoon.gitbook.io/whitepaper/about-us/what-is-pulsemoon
 token:
   symbol: PLSM
+  chain: pulsechain
+  address: "0x1fd5dFD5983cc69bD4e92956c739AC9E95493268"
+
