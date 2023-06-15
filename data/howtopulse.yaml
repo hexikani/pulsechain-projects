@@ -12,7 +12,7 @@ socials:
 sacrifice:
   type: running
   desc: sacrifice for the freedom of education being available to everyone
-  start: "2023-08-06T00:00:00Z"
+  start: "2023-06-08T00:00:00Z"
   end: OpenEnded
   address: "0xA5C24e95aD2bcFCFb6Ef638EF1BB02778490BdAb"
   pointsPerUSD: 10000
