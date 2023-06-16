@@ -1,0 +1,29 @@
+name: SideKick Finance - JumpStart
+status: active
+desc: JumpStart is a Web3 crowdfunding platform, that raises funds through
+  utility NFTs.
+description: >-
+  JumpStart, a Web3 crowdfunding platform that raises funds through utility
+  NFTs, is SideKick’s no-code answer to launching NFT crowdfunding campaigns.
+  Its easy self-service setup and automatic contract-creating wizard allow
+  anyone to set up a campaign within minutes.
+
+
+  It's chain-agnostic, meaning that campaign managers can choose which chain they would like to raise on. This includes Pulse Chain.
+logo: /logos/sidekick-finance-256.png
+www: https://sidekick.finance/JumpStart
+categories:
+  service: JumpStart is an easy self-service crowdfunding platform.
+  investment: JumpStart is a crowdfunding platform.
+  defi: JumpStart is a decentralized crowdfunding platform.
+  nft-market: You can buy/sell NFTs on JumpStart to crowdfund.
+socials:
+  twitter: SideKickFinance
+  github: sidekickfinance
+  tg: sidekickfinance
+  discord: "773731141684297728"
+  medium: sidekick finance
+  yt: sidekickfinance
+  ig: sidekick.finance
+  email: team@sidekick.finance
+creationDate: 2023-06-16T13:41:47.592Z
