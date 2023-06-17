@@ -16,8 +16,8 @@ links:
 sacrifice:
   type: running
   desc: sacrifice for 9inch
-  start: "2023-05-25T23:30:00Z"
-  end: "2023-06-25T23:30:00Z"
+  start: "2023-05-24T20:02:29Z"
+  end: "2023-06-24T20:02:29Z"
   address: "0xB05B5cEC58cc03da0473fFcD4E94DA131f16F651"
   www: https://www.9inch.io/s
   networks:
