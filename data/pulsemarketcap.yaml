@@ -1,6 +1,6 @@
 ---
 name: PulseMarketCap
-status: active
+status: scam
 desc: Cyber wave yield bearing NFTs on PulseChain
 logo: /logos/pulsemarketcap-256.png
 www: https://pulsemarketcap.info
@@ -12,7 +12,7 @@ socials:
   ig: pulsemarketcap
 sacrifice:
   www: https://pulsemarketcap-info.gitbook.io/pulsemarketcap.info-1/v/pmc-sacrifice-phase/
-  type: running
+  type: past
   address: "0xDE00F81A3f762E7972B381a84671a736D312cC09"
   start: "2022-09-21T00:00:00Z"
   end: PulseChainLaunchDate

@@ -1,6 +1,6 @@
 ---
 name: IKE Finance
-status: completed
+status: abandoned
 desc: High yield protocol launching on Pulsechain.
 logo: /logos/ike-256.png
 www: https://ike.finance/
@@ -11,7 +11,7 @@ socials:
   tg: IKETOKEN
   yt: channel/UCOHkEiQYcC5YS4JkJj2DehQ
 sacrifice:
-  type: running
+  type: abandoned
   desc: sacrifice to prove how strong you believe that blockchains are speech and speech is a protected human right
   start: "2022-06-12T00:00:00.000Z"
 ranking:

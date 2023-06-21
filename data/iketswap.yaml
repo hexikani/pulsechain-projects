@@ -1,6 +1,6 @@
 ---
 name: IketSwap
-status: promise
+status: scam
 desc: Decentralized exchange protocol allowing swap process on other networks.
 logo: /logos/iketswap-256.png
 www: https://www.iketoken.co.uk/
@@ -12,7 +12,7 @@ socials:
   tg: IKETOKEN
   yt: channel/UCOHkEiQYcC5YS4JkJj2DehQ
 sacrifice:
-  type: running
+  type: past
   desc: ???
   start: "2022-08-23T00:00:00Z"
   end: "2022-11-05T00:00:00Z"
