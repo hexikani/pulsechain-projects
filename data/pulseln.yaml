@@ -10,9 +10,10 @@ socials:
   twitter: PulseLN
   tg: PulseLNcom
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice for freedom of swap
   start: "2022-01-23T00:00:00.000Z"
+  end: "2023-05-23T13:49:05.000Z"
 token:
   symbol: PLN
   chain: pulsechain
