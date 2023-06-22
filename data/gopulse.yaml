@@ -1,0 +1,24 @@
+name: GoPulse.com (former plsburn.com)
+status: usable
+desc: The PulseChain Suite.
+description: >-
+  GoPulse.com is your all-in-one Suite for PulseChain. No matter if you want to
+  track prices, PulseChain Validators or see latest blocks being mined -
+  GoPulse.com got you covered!
+
+
+  You can also buy PLS with dozens of other cryptocurrencies on GoPulse.com/buy - fast, easy, anonymous, worldwide & with maximum possible security!
+logo: /logos/gopulse-256.png
+www: https://GoPulse.com
+categories:
+  site: GoPulse.com is your all-in-one Suite of PulseChain related tools - 100%
+    free to use!
+  privacy: GoPulse.com/buy enabled everyone to break the on-chain link of their
+    PLS. Users can also buy/sell PLS for Monero (XMR)!
+  defi: GoPulse.com/buy enabled everybody to buy PLS directly with Bitcoin,
+    Ethereum, USD Coin, Tether, DAI, BNB, MATIC...
+socials:
+  twitter: GoPulsecom
+  tg: GoPulse
+links: []
+creationDate: 2023-06-21T22:18:39.081Z
