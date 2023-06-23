@@ -1,0 +1,20 @@
+name: "Daytona Finance "
+status: active
+desc: Single sided / LP farming on PulseChain.
+description: Single sided staking on PulseChain, routed through PulseX.
+logo: /logos/daytona-finance-256.png
+www: https://www.daytona.finance/
+categories:
+  dex: ""
+  defi: Single sided staking
+socials:
+  twitter: "DaytonaFinance "
+  github: Daytona-Finance/Contracts/
+  tg: Daytona_finance
+links: []
+tokens:
+  - symbol: TONI
+    chain: pulsechain
+    address: "0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772"
+    desc: "Yield token "
+creationDate: 2023-06-22T19:59:56.073Z
