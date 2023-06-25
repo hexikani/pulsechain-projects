@@ -14,7 +14,7 @@ links:
   - docs: http://9inch.gitbook.io/
   - dapp: http://app.9inch.io/
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice for 9inch
   start: "2023-05-24T20:02:29Z"
   end: "2023-06-24T20:02:29Z"
