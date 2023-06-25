@@ -30,6 +30,8 @@ sacrifice:
       tokens: DAI.e, USDC.e, USDT.e
     pulsechain:
       tokens: WPLS, PLSX, INC, HEX, eDAI, eUSDT, eUSDC, eWBTC, eWETH, eHEX
+    arbitrum:
+      tokens: WETH, USDT, USDC, USDC.e, LINK, DAI
 ranking:
   founder: green
   team: orange
