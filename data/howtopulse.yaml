@@ -26,6 +26,6 @@ ranking:
   team: green
   plan: orange
   implementation: red
-  audit: red
+  audit: orange
 token:
   symbol: HTP
