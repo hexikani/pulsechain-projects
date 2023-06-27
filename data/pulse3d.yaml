@@ -1,0 +1,29 @@
+name: Pulse3D
+status: usable
+desc: Pulse3D is decentralized hourglass smart contract dapp protocol to launch
+  solely on PulseChain. Tokens are minted upon buys and burned upon sells.
+description: "Earn passive pulse in 3 Dimensions when someone buys, sells, and
+  with referrals. 10% buy and 10% sell fee. Fully decentralized secure in a
+  smart contract. Holding P3D allows users to earn Pulse from every buy and sell
+  into the smart contract. There is no liquidity held on an exchange it's all
+  held in the smart contract dapp. Trading is also done in the smart contract.
+  Tokens are minted upon buys and burned upon sells. Holding P3D automatically
+  stakes your tokens in the smart contract protocol. You need 10,000 P3D tokens
+  to unlock your masternode to earn referral commissions. "
+logo: /logos/pulse3d-256.png
+www: https://pulse3d.app
+categories:
+  other: Hourglass smart contract
+  defi: Earn pulse everytime someone buys or sells. 10% buy and sell fee. Tokens
+    are minted upon buys and burned upon sells.
+socials:
+  discord: 5r8WGKYSMV
+  tg: Pulse3D
+  twitter: Pulse3Dapp
+links: []
+tokens:
+  - symbol: P3D
+    chain: pulsechain
+    address: "0xA73fab6E612aAF9125bF83A683aaDCdD6511D3f0"
+    desc: Hourglass token
+creationDate: 2023-06-26T08:05:29.877Z
