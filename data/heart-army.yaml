@@ -1,0 +1,36 @@
+name: Heart Army
+status: completed
+desc: An army of 5555 warrior kids living in Pulse Chain. The funds will be used
+  to provide infrastructure for future projects.
+description: >-
+  Ethra is a planet where winter has taken over most of the calendar. The
+  intelligent beings that inhabit Ethra, have learned to adapt in this harsh
+  conditions. Hold strong through the winter, and thrive during the very short
+  time of summer. They all live in Crater City. Where the heating core is having
+  troubles maintaining it's flame alive during winter, as the gas consumption is
+  too high. A new, stronger, more efficient core, is set in place by the city's
+  Wonka Tinker. But they need to gather star fragments to put it to work. Thus,
+  the Heart Army was created. A body of engineers, magical warriors, explorers,
+  radio technicians and ordinary men and women. Their mission is to gather the
+  fragments and bring them back to the city, so the core is finished before the
+  next winter, and thus, ensure the survival of all races.
+
+
+  Currently in Pulse Chain, there is no "well placed infrastructure" for NFTs (blockchain-whide NFT metrics, rarity tools, truly decentralized NFT marketplaces , curated art markets, etc) We are building that, one project at a time. Heart Army is the initial monetary push for this plan. Also, in the long term, we are deploying validator nodes. The yield from the nodes will be shared to the project holders through buybacks of our currency token (Heartstone).
+logo: /logos/heart-army-256.png
+www: https://heartarmy.xyz/
+categories:
+  nft: null
+socials:
+  twitter: Heartarmy_xyz
+  github: heart-labs
+  tg: heartarmy_xyz
+  medium: "@heartarmy.xyz"
+  email: heartarmy.xyz@gmail.com
+links: []
+tokens:
+  - symbol: HA
+    chain: pulsechain
+    address: "0x5C6fA4E480ce6A183C68780B5c2fAEB8CC4716Ef"
+    desc: Heart Army NFT Contract
+creationDate: 2023-06-30T17:35:15.029Z
