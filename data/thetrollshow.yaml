@@ -1,0 +1,34 @@
+name: The Troll Show
+status: active
+desc: No Taxes, No Founder Allocation, No Admin Keys, 93.1% of tokens sent to
+  the liquidity pool, LP tokens burnt, and contract is renounced. The  6.9% of
+  the supply  for exchages, bridges and liquidity pools.
+description: >-
+  
+  We're here to laugh in the face of the crypto space and turn up the heat on Pepe in a pot of hot water!  Utilizing quality content, cutting edge memes, and a superior product, The Troll Show is a much needed dose of levity, mocking the competition in our chronicles told through media.
+
+  ​
+
+  Join T-Roll on his hilarious adventures through the crypto wilderness, leaving a trail of laughter and tears in his wake.  Come witness hysterical and witty content that is guaranteed to make you laugh out loud.
+
+  ​
+
+  In no time, you'll find there's a troll waited to be expressed inside all of us.  So don't be shy - embrace your inner troll and join the The Troll Show family.  Let the show begin!
+logo: /logos/thetrollshow-256.png
+www: https://TheTrollShow.com
+categories:
+  meme: "Trolling "
+socials:
+  twitter: TheTrolltvShow
+  tg: TheTrollShow.com
+  discord: https://discord.com/invite/KXtx7ssy
+  fb: https://www.facebook.com/groups/261948406438367
+  email: 1thetrollshow@gmail.com
+links:
+  - audit: https://cointool.app/audit/report/0x7e0ed657FB933835c9224adFf98AAe5dCB4FDA36-369?id=632b643663363765666415116a60606b6066306a616167323715356a6b121236663710116715171260652f60656a
+tokens:
+  - symbol: TSHOW
+    chain: pulsechain
+    address: "0x7e0ed657FB933835c9224adFf98AAe5dCB4FDA36"
+    desc: Meme coin
+creationDate: 2023-06-29T21:29:44.782Z
