@@ -1,36 +1,59 @@
----
 name: PulseKittens
 status: active
-desc: Cyber wave yield bearing NFTs on PulseChain
+desc: Cyber wave yield bearing NFTs on PulseChain.
+description: >-
+  😽 PulseKittens NFT Ecosystem 😻 Live on PulseChain.
+
+
+  The PKTTN token can be used to mint rare financial Pulse Kitten NTFs (PKNFTs) that offer increased yield to PKTTN herders.
+
+
+  Each PKNFT contains a random yield bonus. They are extremely rare and get harder to mint as more are minted.
+
+
+  The mint cost drops every 30 minutes until one is minted.
 logo: /logos/pulsekittens-256.png
 www: https://pulsekittens.io
 categories:
-  nft:
-  claim:
+  airdrop: PKTTN was airdrop available to over 500K addresses.
+  defi: PKTTN can be herded for yield. PKNFTs provide additional yield.
+  nft: PKNFTs get harder to mint with time and are very rare.
+  meme: PKTTN is MemeFi.
 socials:
   twitter: PulseKittens
   tg: pulsekittens
+links: []
 sacrifice:
-  www: https://pulsekittens.io/sacrifice
-  desc: sacrifice to support the right to hold cute yield-bearing Pulse Kittens
-  type: past
   address: "0xf875d378194d75Eb574B7988D7f9612805337CB5"
-  start: "2022-09-10T00:00:00Z"
-  end: "2022-11-14T00:00:00Z"
+  www: https://pulsekittens.io/sacrifice
+  start: 2022-09-10T00:00:00Z
   pointsPerUSD: 10000
+  end: 2022-11-14T00:00:00Z
+  type: past
   networks:
     ethereum:
-      tokens: USDC, USDT, DAI, APE, CEL, HDRN, HEX, ICSA, MAXI, PLSD, SHIB, PLSF, WAIT, WBTC
+      tokens: USDC, USDT, DAI, APE, CEL, HDRN, HEX, ICSA, MAXI, PLSD, SHIB, PLSF,
+        WAIT, WBTC
       nft: WAATSA
     bsc:
       tokens: BUSD, BUSD-T, CAKE
+  desc: sacrifice to support the right to hold cute yield-bearing Pulse Kittens
 ranking:
+  note: Our ranking has not been verified with the project team yet.
   founder: red
+  audit: orange
+  implementation: green
   team: red
   plan: orange
-  implementation: green
-  audit: orange
-  note: Our ranking has not been verified with the project team yet.
+tokens:
+  - symbol: PKTTN
+    chain: pulsechain
+    address: "0x378b04A0E24DbF08dcA65F3c87aD9dafc1d0dd9d"
+    desc: Pulse Kittens token used for herding and PKNFT minting.
+  - symbol: PKNFT
+    chain: pulsechain
+    address: " 0x7896814143a2e8b86d58e702a072a3e2c8937d75"
+    desc: Pulse Kitten NFT with random yield bonus.
 token:
   symbol: PKTTN
   chain: pulsechain-testnet

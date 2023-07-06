@@ -1,18 +1,46 @@
----
 name: PulseVerse
 status: active
-desc: Create, trade, collect, earn and more on PulseVerse. A decentralised NFT ecosystem on PulseChain.
+desc: An Ecosystem Powering the DeFI space on PulseChain.
+description: >-
+  PulseVerse is a decentralized finance ecosystem built on PulseChain. It
+  consists of the following products:
+
+  Fluid is a decentralized liquidity protocol that allows users to lend and borrow assets in a trustless and secure environment on PulseChain.
+
+  PulseVerse NFT Marketplace is a decentralized NFT marketplace built on PulseChain.
+
+  Swift is a decentralized peer-to-peer trading platform built on PulseChain.
+
+  with more to come.
+
+  PulseVerse aims to revolutionize the DeFI space on Pulsechain by offering products that reward users for taking part in the ecosystem.
 logo: /logos/pulseverse-256.png
 www: https://pulseverse.io/
 categories:
-  nft-market:
+  defi: PulseVerse aims to revolutionize the DeFI space on Pulsechain by offering
+    products that reward users for taking part in the ecosystem. It offers a
+    decentralized liquidity protocol called Fluid, a decentralized NFT
+    Marketplace, and a decentralized peer-to-peer trading platform called Swift.
+  nft-market: PulseVerse NFT Marketplace is a decentralized NFT marketplace built
+    on PulseChain, benefitting from its low gas fees. The marketplace allows
+    users to trade, sell and create NFTs on the PulseChain network. Users can
+    also trade their NFT copies from Ethereum.
 socials:
   twitter: PulseVerseio
   tg: PulseVerse
   discord: veUkyeVqPB
+  medium: pulseverse
+  yt: pulseverseio
 links:
-  - dapp: https://stake.v2b.testnet.pulseverse.io/
+  - docs: https://pulseverse.gitbook.io/
+  - dapp: https://search.pulseverse.io/
 sacrifice:
   www: https://mysacrifice.io/
+tokens:
+  - symbol: PLSV
+    desc: The PLSV token is the native asset of the PulseVerse Ecosystem and
+      oversees the entire PulseVerse Ecosystem including Fluid, Swift, and our
+      NFT Marketplace. PLSV can be staked to earn a percentage of the ecosystem
+      revenue and can also be turned into an NFT that represents a PLSV stake.
 token:
   symbol: PLSV
