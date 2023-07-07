@@ -59,7 +59,7 @@ ranking:
   team: green
   plan: green
   implementation: orange
-  audit: red
+  audit: orange
 tokens:
   - symbol: PLSV
     desc: The PLSV token is the native asset of the PulseVerse Ecosystem and
