@@ -35,7 +35,32 @@ links:
   - docs: https://pulseverse.gitbook.io/
   - dapp: https://search.pulseverse.io/
 sacrifice:
+  type: running
   www: https://mysacrifice.io/
+  desc: sacrifice to show you believe in the right to economic freedom which is the ability of people within a society to control how they earn and spend their money
+  start: "2023-07-07T13:00:00.000Z"
+  end: "2024-07-07T13:00:00.000Z"
+  address: "0x0fd7faC1F86D13EBDB1fD2997B541303Cc37fa29"
+  networks:
+    ethereum:
+      tokens: WETH, USDC, DAI, USDT, BUSD, LUSD, TUSD, FRAX, UNI, AAVE, COMP, HEX, WBTC, OHM, LINK, HDRN, ICSA, PHIAT, MAXI
+    bsc:
+      tokens: BUSD, WBNB, BUSD-T, USDC, DAI, CAKE
+    pulsechain:
+      tokens: WPLS, PLSX, HEX, eUSDT, eWETH, eUSDC, eDAI
+    avax:
+      tokens: USDC.e, USDT.e, WETH.e, DAI.e, USDC, USDT, WBTC.e, JOE, WAVAX
+    fantom:
+      tokens: WFTM, ETH, USDC, fUSDT, DAI, BOO, BTC
+    polygon:
+      tokens: USDC, USDT, DAI
+ranking:
+  founder: red
+  team: red
+  plan: red
+  implementation: red
+  audit: red
+  note: Our ranking has not been verified with the project team yet.
 tokens:
   - symbol: PLSV
     desc: The PLSV token is the native asset of the PulseVerse Ecosystem and
