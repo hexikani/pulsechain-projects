@@ -55,12 +55,11 @@ sacrifice:
     polygon:
       tokens: USDC, USDT, DAI
 ranking:
-  founder: red
-  team: red
-  plan: red
-  implementation: red
+  founder: green
+  team: green
+  plan: green
+  implementation: orange
   audit: red
-  note: Our ranking has not been verified with the project team yet.
 tokens:
   - symbol: PLSV
     desc: The PLSV token is the native asset of the PulseVerse Ecosystem and
