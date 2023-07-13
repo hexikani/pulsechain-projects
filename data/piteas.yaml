@@ -1,5 +1,5 @@
 name: Piteas Dex Aggregator
-status: active
+status: usable
 desc: First Optimal & Productive Dex Aggregator on Pulsechain.
 description: Piteas is a decentralized exchange (DEX) aggregator that provides
   the latest in swap technology. By combining multiple DEXs, we provide access
@@ -16,4 +16,5 @@ socials:
   twitter: piteasio
   github: piteasio
   tg: piteasio
+links: []
 creationDate: 2023-06-16T07:17:08.742Z
