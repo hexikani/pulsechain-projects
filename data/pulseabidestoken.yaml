@@ -1,21 +1,43 @@
----
-name: Pulse Abides Token
-status: promise
-desc: Token with value appreciation based on revenue from YouTube stream.
+name: The Pulse Abides
+status: active
+desc: Perpetual Airdrop token leveraging YouTube and Google ad revenue for
+  airdrops and buy-and-burns.
+description: >-
+  The Pulse Abides - Revolutionizing Token Distribution and Liquidity on
+  Pulsechain
+
+   The Pulse Abides (TPA) is a  cryptocurrency token built on the Pulsechain. TPA aims to foster a vibrant and inclusive community by utilizing an innovative distribution model centered around a YouTube channel and leveraging ad revenue for daily airdrops and buy-and-burn mechanisms. This white paper outlines the key features, tokenomics, and benefits of TPA, showcasing its potential to create liquidity, widespread token ownership, and price stability.
 logo: /logos/pulseabidestoken-256.png
 www: https://www.thepulseabides.info/
 categories:
-  meme:
+  game: "Coming soon to TPA ecosystem "
+  meme: "Check out our reflections token FILGOB "
+  wallet: Coming soon
+  dex: "DudeSwap will be part of the upcoming TPA ecosystem "
+  airdrop: Airdropping TPA every day on Youtube
+  defi: TPA will be a primary defi leader in the Pulsechain space
+  bridge: Coming soon
+  nft-market: "Soon to be implemented on www.thepulseabides.net "
 socials:
-  tg: ThePulseAbidesToken
-  yt: ThePulseAbides
-  discord: F4gRrnzkGr
+  twitter: "@AbidesPulse"
+  tg: "@thepulseabides"
+  yt: "@thepulseabides"
+links: []
 sacrifice:
+  start: 2022-05-01T00:00:00.000Z
+  final: https://docs.google.com/spreadsheets/d/e/2PACX-1vSqHKBjVOJSr0lq0TrSfm8M6DNntB7EUHf8EftllZPmb-91xcgtHZLKaQDyc6_Gh_xSavEF2drysbYb/pubhtml?gid=459783827&single=true
   type: past
   desc: sacrifice for a free and uncensored press
-  start: "2022-05-01T00:00:00.000Z"
-  final: https://docs.google.com/spreadsheets/d/e/2PACX-1vSqHKBjVOJSr0lq0TrSfm8M6DNntB7EUHf8EftllZPmb-91xcgtHZLKaQDyc6_Gh_xSavEF2drysbYb/pubhtml?gid=459783827&single=true
+tokens:
+  - symbol: TPA
+    chain: pulsechain
+    address: "0x2F55202Cb2C038749D0C028dED539d79318FfE1B"
+    desc: Main ecosystem airdrop token
+  - symbol: FILGOB
+    chain: pulsechain
+    address: "0xbc993Ef8731E3e4053b1E111E5010f3aC3EbdC5C"
+    desc: A clone of PoNW
 token:
   symbol: TPA
-  address: "0x2F55202Cb2C038749D0C028dED539d79318FfE1B"
   chain: pulsechain-testnet
+  address: "0x2F55202Cb2C038749D0C028dED539d79318FfE1B"
