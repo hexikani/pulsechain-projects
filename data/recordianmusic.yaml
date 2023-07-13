@@ -1,0 +1,42 @@
+name: RECORDIAN
+status: active
+desc: RECORDIAN is the complete music decentralized ecosystem that empowers
+  artists, supporters, and industry players utilizing the RECORDIAN Music
+  Streaming APP, NFT Marketplace, and Ad Studio.
+description: >-
+  The RECORDIAN Music Streaming App, where artists can take full control of
+  their content and earn more, while fans can discover new music and earn
+  rewards through our innovative Listen2Earn feature. Our platform is designed
+  to empower artists by providing them with a decentralized ecosystem that
+  offers unparalleled control over their content. With our unique technology,
+  artists can easily monetize their music and earn more revenue, while also
+  gaining exposure to new audiences.
+
+
+  The RECORDIAN NFT Marketplace, a unique and innovative platform that empowers artists to monetize their work through the creation and sale of digital assets, also known as NFTs. Our platform offers artists unparalleled control over their digital creations, enabling them to attach streaming royalties to their music NFTs and link them to their RECORDIAN streaming app profiles.
+
+
+  The RECORDIAN Ad Studio, the innovative platform that enables artists and brands to place targeted ad campaigns directly on the RECORDIAN Music Streaming App. Our platform offers unparalleled access to a highly engaged audience, providing artists and brands with a powerful tool for increasing awareness of their music, products, and services.
+logo: /logos/recordianmusic-256.png
+www: https://recordianmusic.com/
+categories:
+  media: RECORDIAN is the complete music decentralized ecosystem that empowers
+    artists, supporters, and industry players. Our platform utilizes the
+    RECORDIAN Music Streaming APP, NFT Marketplace, and Ad Studio, all powered
+    by the $RECORDIAN token, to provide a unique and rewarding experience for
+    all participants
+socials:
+  twitter: Recordian_Music
+  tg: Recordian_portal
+  discord: H8WfGpzh
+  medium: recordian-music
+  yt: channel/UCiAGtJr1C8tB8f7lewRD7Og
+  fb: people/Recordian/100092251278318
+  ig: recordian_music
+links: []
+tokens:
+  - symbol: RECORDIAN
+    chain: pulsechain
+    address: ""
+    desc: ""
+creationDate: 2023-07-09T14:38:06.009Z
