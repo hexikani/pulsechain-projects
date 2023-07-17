@@ -1,0 +1,50 @@
+name: PulseMafia.com
+status: active
+desc: The first pool for Pulsechain Validators.
+description: >-
+  PulseMafia is a project focused on pooling PLS within the Pulsechain community
+  in order to maximize rewards through Pulsechain Validators. This is achieved
+  by:
+
+
+  1. Add to the Pool
+
+  We're running an ongoing pool where you can send your PLS to the pool wallet. As the pool receives 32M PLS, we'll start a new validator. Our mission is to allow anyone in the community to benefit from Validator rewards.
+
+
+  2. Get MAFIA Token
+
+  As PLS enters the pool, we'll mint the $MAFIA token. The $MAFIA token represents your % ownership in the pool. You can either use the $MAFIA to redeem your PLS principal and rewards at redemption date (August 15, 2024), or sell it prematurely on Pulsex. 
+
+
+  3. Compound Validators
+
+  As the Pulsechain Validators earn 32M PLS in rewards (which is minimum stake required to start a new Validator), the "Godfather" will immediately reinvest back in to more validators (compounding). On August 15, 2024, the Godfather will exit all of the validators and airdrop your PLS back based on the $MAFIA that you hold.
+
+
+  To learn more, visit PulseMafia.com
+logo: /logos/pulsemafia-256.png
+www: https://pulsemafia.com/
+categories:
+  other: Helping people become Pulsechain Validators without the required 32M PLS
+    or technical ability.
+  wallet: We have a Pool Wallet and a Validator Wallet. As the sum of both equals
+    32M PLS, we'll add a new Validator for the community.
+  airdrop: Will Airdrop MAFIA as PLS received. On August 15, 2024, we'll airdrop
+    to MAFIA holders the PLS + Validator rewards.
+  sacrifice-pool: "As PLS enters the pool, 100% goes towards creating new
+    Pulsechain Validators. "
+  defi: Pulsechain Validators
+socials:
+  email: mike@escapeweb3.io
+  tg: pulsemafia
+  twitter: PulsechainMafia
+  yt: "@hexmike8360"
+links:
+  - whitepaper: https://mikes-organization-9.gitbook.io/pulsemafia/overview/pulsemafia-intro
+tokens:
+  - symbol: MAFIA
+    chain: pulsechain
+    address: "0x3c3ad0fBB7EB06967215282a3D00b898cfDc1f77"
+    desc: Used to redeem your PLS on August 15, 2024
+creationDate: 2023-07-17T18:58:47.006Z

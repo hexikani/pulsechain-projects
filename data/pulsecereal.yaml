@@ -1,0 +1,30 @@
+name: Pulse Cereal
+status: usable
+desc: Pulse Cereal is a decentralized smart contract disguised as a meme token
+  to add some fun and love to the world of crypto.
+description: Our goal is to create a safe and fun environment for others to
+  enjoy in the crypto space. By removing the need for intermediaries, our
+  memecoin offers a practical, secure and cost-effective way to transfer value
+  in an era of digital currency. With the right incentives, Pulse Cereal could
+  serve as an attractive alternative to more traditional digital currencies and
+  tokens, such as Bitcoin.
+logo: /logos/pulsecereal-256.png
+www: https://www.pulsecereal.com/
+categories:
+  meme: "Pulse Cereal’s functionalities have 3 points of interest. 1. Automatic
+    Reflection Redistribution: The smart contract automatically redistributes
+    $Cereal tokens to all existing holders with each transaction. 2.
+    Deflationary: 40% of $CEREAL supply burned at launch will cause a
+    deflationary movement by the reflections the burn wallet will gain. This
+    makes the asset more scarce overtime. 3. The smart contract automatically
+    adds value to the existing liquidity pools with each transaction
+    made.  Transaction Fees: 2% per transaction Redistribution: 1% of each
+    transaction redistributed to existing token holders Liquidity Pool: 1% of
+    each transaction added to the liquidity pool. (Deflationary, No Admin Keys,
+    Contract Renounced)"
+socials:
+  tg: PulseCereal
+  twitter: PulseCereal
+links:
+  - whitepaper: https://medium.com/@pulsecereal/pulse-cereal-token-23ea847a1a5
+creationDate: 2023-07-16T19:51:08.259Z
