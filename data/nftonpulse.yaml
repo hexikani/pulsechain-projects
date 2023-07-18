@@ -12,6 +12,22 @@ socials:
   tg: nftonpulse
   yt: c/HowToPulse
 sacrifice:
-  note: Sacrifice coming after pulsechain mainnet
+  type: running
+  desc: sacrifice for the freedom of education being available to everyone
+  start: "2023-06-08T00:00:00Z"
+  end: OpenEnded
+  address: "0xA5C24e95aD2bcFCFb6Ef638EF1BB02778490BdAb"
+  pointsPerUSD: 10000
+  networks:
+    ethereum:
+      tokens: USDT, USDC, DAI, HEX
+    pulsechain:
+      tokens: HEX, eHEX, WPLS, PLSX, INC, eWETH, eUSDT, eUSDC, eDAI
+ranking:
+  founder: green
+  team: green
+  plan: orange
+  implementation: red
+  audit: orange
 token:
-  symbol: INNO
+  symbol: HTP
