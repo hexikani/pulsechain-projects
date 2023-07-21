@@ -1,43 +1,52 @@
----
 name: MCR369
 status: promise
-desc: A collection of smart contracts that live on the Ethereum and PulseChain blockchains - stake the MCR369 token in the pool to earn a share of rewards generated from suite of products under Magic Carpet Ride.
+desc: A collection of smart contracts that live on the Ethereum and PulseChain
+  blockchains - stake the MCR369 token in the pool to earn a share of rewards
+  generated from suite of products under Magic Carpet Ride.
+description: Earn ETH, Hedron & HEX on Ethereum. Earn PLS, Hedron & HEX on PulseChain
 logo: /logos/mcr369-256.png
 www: https://mcr369.io/
+categories:
+  ecosystem:
+    - stakehouse
+    - bistro
+  defi: Stake MCR369 to earn ETH, Hedron & HEX on Ethereum | Earn PLS, Hedron &
+    HEX on PulseChain
 socials:
   twitter: MagicCarpet369
   tg: MagicCarpetRide369
   yt: MagicCarpetRide369
-categories:
-  defi:
-  ecosystem:
-    - stakehouse
-    - bistro
+  email: themagiccarpetride369@gmail.com
 links:
-  - docs: https://magic-carpet-ride-369.gitbook.io/magic-carpet-ride/
+  - docs: https://docs.mcr369.io/
+  - explainer: https://youtu.be/H33BMu3dek4
 sacrifice:
-  type: running
-  desc: sacrifice for the idea that all humans are entitled to choose what they eat
-  start: "2023-03-17T00:00:00.000Z"
-  end: OpenEnded
   address: "0x5DdC9Be86371a0F7c391e22B040DdE900E307305"
+  start: 2023-03-17T00:00:00.000Z
   pointsPerUSD: 100
+  end: OpenEnded
+  type: running
   networks:
     ethereum:
-      tokens: WETH, USDC, DAI, USDT, LUSD, TUSD, BUSD, HEX, TEAM, MAXI, DECI, LUCKY, TRIO, BASE, HDRN, ICSA, PLSD, PLSB, ASIC, SHIB
-    bsc:
-      tokens: WBNB, BUSD, BUSD-T, USDC, CAKE, DAI
+      tokens: WETH, USDC, DAI, USDT, LUSD, TUSD, BUSD, HEX, TEAM, MAXI, DECI, LUCKY,
+        TRIO, BASE, HDRN, ICSA, PLSD, PLSB, ASIC, SHIB
     avax:
       tokens: WAVAX, USDC.e, USDT.e, DAI.e, USDC, USDT, DAI
+    bsc:
+      tokens: WBNB, BUSD, BUSD-T, USDC, CAKE, DAI
     fantom:
       tokens: WFTM, USDC, DAI
     pulsechain:
       tokens: WPLS, PLSX, HEX, eHEX, INC, HDRN, ICSA, PP, eUSDC, eUSDT, eDAI
+  desc: sacrifice for the idea that all humans are entitled to choose what they eat
 ranking:
   founder: green
+  audit: red
+  implementation: red
   team: green
   plan: orange
-  implementation: red
-  audit: red
+tokens:
+  - symbol: MCR369
+    desc: Staking Token
 token:
   symbol: MCR369

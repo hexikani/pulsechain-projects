@@ -1,0 +1,31 @@
+name: 0xBarista
+status: active
+desc: "Unique Front-end for Liquid Loans, some automation that Liquid Loans does
+  not offer. Built for #PulseChain  Trustless, immutable & no admin keys."
+description: ""
+logo: /logos/0xbarista-256.png
+www: http://0xbarista.io/
+categories:
+  defi: Unique front end for Liquid Loans the first truly decentralized lending
+    protocol built specifically for PulseChain.
+socials:
+  twitter: 0xBARISTAio
+  tg: "@MagicCarpetRide369"
+  yt: MagicCarpetRide369
+  email: themagiccarpetride369@gmail.com
+links:
+  - docs: https://docs.mcr369.io/
+tokens:
+  - symbol: LOAN
+    chain: testnet
+    address: "0xbe4F7C4DF748cE32A5f4aADE815Bd7743fB0ea51"
+    desc: Refer to Liquid Loans
+  - symbol: USDL
+    chain: testnet
+    address: "0x460BD2c8343fCb052f818006121951d4Dc256e01"
+    desc: Stable Coin - Refer to Liquid Loans
+  - symbol: tPLS
+    chain: testnet
+    address: ""
+    desc: PulseChain
+creationDate: 2023-07-19T00:02:19.896Z

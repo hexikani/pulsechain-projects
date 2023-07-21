@@ -1,15 +1,23 @@
----
 name: STAKEHOUSE
 status: active
-desc: Self directed HEX staking pool protocol, earn more pay less, bigger pays better, Trustless, immutable, no admin keys, viable on 2 chains.
+desc: Self Directed HEX Pooled Staking protocol, earn more pay less, bigger pays
+  better, Trustless, immutable, no admin keys, built for Ethereum and Pulsechain
+  viable.
+description: ""
 logo: /logos/stakehouse-256.png
 www: https://0xstakehouse.io/
+categories:
+  defi: Pooled HEX & earn Big Pays Better & Hedron
 socials:
   twitter: 0xSTAKEHOUSEio
   tg: 0xSTAKEHOUSE
   yt: MagicCarpetRide369
-categories:
-  defi:
+  email: themagiccarpetride369@gmail.com
 links:
-  - docs: https://magic-carpet-ride-369.gitbook.io/magic-carpet-ride/stakehouse
+  - docs: https://docs.mcr369.io/
   - explainer: https://www.youtube.com/watch?v=0y4QqFqfV2I
+tokens:
+  - symbol: HEX
+    chain: testnet
+    address: "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+    desc: HEX Token
