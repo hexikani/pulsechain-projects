@@ -1,20 +1,24 @@
----
 name: Khaos Verse
-status: active
-desc: Provides the bridge between PulseChain and ERC-20 with the lowest trading fees and high APY.
+status: rugged
+desc: Provides the bridge between PulseChain and ERC-20 with the lowest trading
+  fees and high APY.
+description: ""
 logo: /logos/khaos-verse-256.png
 www: https://khaosverse.com/
 categories:
-  defi:
-  bridge:
-  dex:
+  dex: null
+  defi: null
+  bridge: null
 socials:
   twitter: KhaosVerse
   tg: KhaosVerse
+links: []
 sacrifice:
+  start: 2021-11-01T00:00:00.000Z
+  end: 2023-06-12T00:00:00.000Z
   type: past
   desc: sacrifice to get Khaos Verse tokens
-  start: "2021-11-01T00:00:00.000Z"
-  end: "2023-06-12T00:00:00.000Z"
+tokens:
+  - symbol: KHAOS
 token:
   symbol: KHAOS

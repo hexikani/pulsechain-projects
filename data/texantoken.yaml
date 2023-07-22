@@ -1,20 +1,42 @@
----
-name: Texan Token
+name: TEXAN Token
 status: usable
-desc: World’s first crypto endowment smart contract with staking and interest withdrawal.
+desc: The TEXAN Token is a crypto endowment token which stands as a financial
+  symbol of independence and self-determination.
+description: >-
+  We have created the world's first crypto endowment token you can use as an
+  individual or organization. 
+
+
+  When you "stake" your TEXAN Tokens by locking them up in the endowment contract you earn interest/yield which is programmed into the contract. The base rate is 5% annually but can reach a maximum annual average of 87%, if staked for a maximum of 22 years.
+
+
+  Interest/yield is paid in TEXAN Tokens through your sole interaction with the TEXAN smart contract.
+
+
+  TEXAN is true defi. The TEXAN contract is immutable; there are no admin keys, it's just you and the contract.
 logo: /logos/texantoken-256.png
 www: https://texan.cc/
 categories:
-  defi:
-  claim:
+  claim: null
+  defi: " The TEXAN Token is the endowment token on the blockchain. TEXAN is an
+    immutable contract with NO admin keys. Stakers of TEXAN are rewarded with
+    more TEXAN based on the length of their stake."
 socials:
   twitter: texan_token
   tg: texantoken
+  ig: texantoken
+links:
+  - www: https://linktr.ee/texantoken
 sacrifice:
+  start: 2022-07-18T00:00:00.000Z
   type: past
   desc: donate to the Texas nationalist movement
-  start: "2022-07-18T00:00:00.000Z"
+tokens:
+  - symbol: TEXAN
+    chain: ethereum
+    address: "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7"
+    desc: ""
 token:
+  symbol: TEXAN
   chain: ethereum
   address: "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7"
-  symbol: TEXAN

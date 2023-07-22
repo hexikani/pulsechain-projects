@@ -1,20 +1,28 @@
----
 name: Pulse Valley
-status: promise
-desc: Exclusive Poker Club. Deflationary token, limited access clubs, high end tournaments and much more.
+status: rugged
+desc: Exclusive Poker Club. Deflationary token, limited access clubs, high end
+  tournaments and much more.
+description: ""
 logo: /logos/pulsevalley-256.png
 www: https://pulsevalley.com/
 categories:
-  game:
+  game: null
 socials:
   twitter: pulse_valley
   tg: PulseValley
   ig: pulsevalley
+links: []
 sacrifice:
+  start: 2022-07-29T00:00:00Z
+  end: 2023-03-10T00:00:00Z
   type: past
-  desc: sacrifice to prove that you believe extorsion is a crime even when done by governments, and that you also believe blockchains are speech and speech is a protected human right
-  start: "2022-07-29T00:00:00Z"
-  end: "2023-03-10T00:00:00Z"
+  desc: sacrifice to prove that you believe extorsion is a crime even when done by
+    governments, and that you also believe blockchains are speech and speech is
+    a protected human right
+tokens:
+  - symbol: PVT
+    chain: ethereum
+    address: "0xA69579f901680c1659A08c357e02e149B2aeBED5"
 token:
   symbol: PVT
   chain: ethereum

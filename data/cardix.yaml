@@ -1,34 +1,37 @@
----
 name: Cardix
+status: rugged
 desc: Fiat on/off ramp with stablecoin on PulseChain.
-status: promise
+description: ""
 logo: /logos/cardix-256.png
 www: https://cardix.tech
 categories:
-  on-ramp:
-  stable-coin:
+  on-ramp: null
+  stable-coin: null
 socials:
   twitter: CardixUSC
   tg: CardixPulseChain
+links:
+  - whitepaper: https://drive.google.com/file/d/162IrvJMnUkZzrZLe7WA1YEmxLKqlFTz9/view?usp=sharing
 sacrifice:
-  desc: Sacrifice to prove how strong you believe that blockchains are speech and speech is a protected human right
-  www: https://cardix.tech/sacrifice
-  start: "2022-10-07T00:00:00Z"
-  end: "2023-01-01T00:00:00Z"
-  address: "0x5a8D1205320ED09B2EC5cB267835eD9C4242963B"
   minimumUSD: 50
+  address: "0x5a8D1205320ED09B2EC5cB267835eD9C4242963B"
+  www: https://cardix.tech/sacrifice
+  start: 2022-10-07T00:00:00Z
+  end: 2023-01-01T00:00:00Z
   networks:
     ethereum:
       tokens: HEX, USDC, USDT
     bsc:
       tokens: WBNB, BUSD, USDC, BUSD-T
-links:
-  - whitepaper: https://drive.google.com/file/d/162IrvJMnUkZzrZLe7WA1YEmxLKqlFTz9/view?usp=sharing
+  desc: Sacrifice to prove how strong you believe that blockchains are speech and
+    speech is a protected human right
 ranking:
   founder: red
+  audit: red
+  implementation: red
   team: orange
   plan: orange
-  implementation: red
-  audit: red
+tokens:
+  - symbol: Cardix
 token:
   symbol: Cardix
