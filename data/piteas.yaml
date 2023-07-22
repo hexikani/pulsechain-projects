@@ -21,7 +21,8 @@ links:
 creationDate: 2023-06-16T07:17:08.742Z
 sacrifice:
   type: running
-  www: https://docs.piteas.io/piteas-token/sacrifice-details
+  www: https://sacrifice.piteas.io/
+  name: Piteas Sacrifice
   desc: sacrifice to show your believe in the importance of decentralized finance
   start: "2023-07-22T15:00:00.000Z"
   end: "2023-08-21T15:00:00.000Z"
@@ -44,4 +45,4 @@ ranking:
   implementation: green
   audit: green
 token:
-  symbol: PST
+  symbol: PTS
