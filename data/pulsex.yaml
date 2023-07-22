@@ -1,19 +1,22 @@
----
 name: PulseX
 status: usable
 desc: Most liquid DEX on PulseChain by Richard Heart.
+description: ""
 logo: /logos/pulsex-256.png
 www: https://pulsex.com/
 categories:
-  defi:
-  dex:
+  dex: null
+  defi: null
 socials:
   twitter: pulsexcom
   tg: PulseXcom
   reddit: PulseX
+links: []
 sacrifice:
+  start: 2021-12-29T00:00:00.000Z
   type: past
   desc: sacrifice for freedom of movement and assembly
-  start: "2021-12-29T00:00:00.000Z"
-token:
-  symbol: PLSX
+tokens:
+  - symbol: PLSX
+    chain: pulsechain
+    address: "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab"

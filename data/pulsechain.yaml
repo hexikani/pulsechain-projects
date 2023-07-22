@@ -1,19 +1,24 @@
----
 name: PulseChain
 status: usable
-desc: Full state fork of Ethereum creating L1 blockchain with faster block time, higher throughput and cheap transaction costs.
+desc: Full state fork of Ethereum creating L1 blockchain with faster block time,
+  higher throughput and cheap transaction costs.
+description: ""
 logo: /logos/pulsechain-256.png
 www: https://www.pulsechain.com/
 categories:
-  blockchain:
+  blockchain: null
 socials:
   twitter: PulseChainCom
   tg: PulsechainCom
   reddit: PulseChain
+links: []
 sacrifice:
+  symbol: PLS
+  start: 2021-07-15T04:50:00.000Z
   type: past
   desc: sacrifice for freedom of speech
-  start: "2021-07-15T04:50:00.000Z"
-  symbol: PLS
-token:
-  symbol: PLS
+tokens:
+  - symbol: WPLS
+    chain: pulsechain
+    address: "0xA1077a294dDE1B09bB078844df40758a5D0f9a27"
+    desc: Wrapper version of the native PulseChain gas coin
