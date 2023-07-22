@@ -16,5 +16,33 @@ socials:
   twitter: piteasio
   github: piteasio
   tg: piteasio
-links: []
+links:
+  - docs: https://docs.piteas.io/audit
 creationDate: 2023-06-16T07:17:08.742Z
+sacrifice:
+  type: running
+  www: https://docs.piteas.io/piteas-token/sacrifice-details
+  desc: sacrifice to show your believe in the importance of decentralized finance
+  start: "2023-07-22T15:00:00.000Z"
+  end: "2023-08-21T15:00:00.000Z"
+  address: "0x0000012381729387983000000000000000000000"
+  networks:
+    pulsechain:
+      tokens: WPLS, PLSX, HEX, INC, eDAI, eUSDC, eUSDT
+    ethereum:
+      tokens: WETH, HEX, USDC, USDT, DAI
+    bsc:
+      tokens: WBNB, BUSD, USDC, BUSD-T
+    arbitrum:
+      tokens: WETH, ARB, USDC, USDT, DAI
+    polygon:
+      tokens: WMATIC, WETH, USDC, USDC
+ranking:
+  founder: red
+  team: red
+  plan: green
+  implementation: green
+  audit: green
+  note: Our ranking has not been verified with the project team yet.
+token:
+  symbol: PST
