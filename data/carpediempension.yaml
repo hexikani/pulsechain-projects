@@ -5,8 +5,8 @@ desc: Pension fund on the PulseChain
 logo: /logos/carpediempension-256.png
 www: https://carpediempension.com/
 socials:
-  twitter: CarpeDiemXCD
-  tg: CarpeDiemXCD
+  twitter: CarpeDiemCDP
+  tg: CarpeDiemCDP
   discord: carpediem
 categories:
   defi:
@@ -27,4 +27,4 @@ ranking:
   implementation: red
   audit: red
 token:
-  symbol: XCD
+  symbol: CDP
