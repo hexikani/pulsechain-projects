@@ -1,30 +1,55 @@
----
 name: Carpe Diem Pension
 status: promise
-desc: Pension fund on the PulseChain
+desc: Pension fund on Pulsechain.
+description: >-
+  Carpe Diem Pension is an automated pension funds that relies on pre-determined
+  rules that can never be changed. Not by anyone. Never.
+
+  It is currently under development and is planned to launch on Pulsechain in 2024. 
+
+
+  ##Carpe Diem Pension: 
+
+  - pays out indefinitely through a decentralized and immutable smartcontract
+
+  - does not play around with your money. You manage your own pension through the smartcontract
+
+  - starts paying out from the moment you make your first deposit
+
+  - allows you to literally build up your pension payout through accumulation of deposits. You increase the payout by depositing more and more each month.
+
+  - is transferable without restrictions (by sharing access to your wallet address)
+
+  - deposits and withdrawals are in CDP
 logo: /logos/carpediempension-256.png
 www: https://carpediempension.com/
-socials:
-  twitter: CarpeDiemXCD
-  tg: CarpeDiemXCD
-  discord: carpediem
 categories:
-  defi:
+  defi: Pension fund
+socials:
+  twitter: CarpeDiemCDP
+  tg: CarpeDiemCDP
+  discord: carpediem
+  medium: carpe-diem
+links: []
 sacrifice:
-  type: past
-  desc: "sacrifice for a guaranteed pension"
-  www: https://pensionsacrifice.com/
-  start: "2023-02-20T00:00:00.000Z"
-  end: "2023-05-21T00:00:00.000Z"
   address: "0x0dEED0EfaFA3Ec083CFa5AB16492896f7543E426"
+  www: https://pensionsacrifice.com/
+  start: 2023-02-20T00:00:00.000Z
+  end: 2023-05-21T00:00:00.000Z
+  type: past
   networks:
     ethereum:
       tokens: HEX, USDC, USDT
+  desc: sacrifice for a guaranteed pension
 ranking:
   founder: green
+  audit: red
+  implementation: red
   team: red
   plan: orange
-  implementation: red
-  audit: red
+tokens:
+  - symbol: CDP
+    chain: pulsechain
+    desc: Carpe Diem Pension
 token:
   symbol: XCD
