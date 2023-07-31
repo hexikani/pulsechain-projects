@@ -1,0 +1,31 @@
+name: CardioSwap
+status: completed
+desc: A PancakeSwap fork on PulseChain. Join our Liquidity Bootstrapping Event,
+  power our DEX, and revolutionize DeFi.
+description: CardioSwap❤️, a trailblazing DeFi project, takes the lead by
+  introducing a robust DEX - a fork of PancakeSwap - built upon the PulseChain
+  network. Offering low-cost transactions and a seamless trading experience, our
+  platform is designed to revolutionize decentralized finance. The backbone of
+  our ecosystem, the Cardio token, powers a range of innovative protocols,
+  paving the way for more integrations and features. Participate in our
+  Liquidity Bootstrapping Event and become a key part of our mission to disrupt
+  the DeFi space with path-breaking ideas and user-centric solutions. Get ready
+  to experience the next wave of DeFi evolution with CardioSwap.
+logo: /logos/cardioswap-256.png
+www: https://CardioSwap.io
+categories:
+  site: DEX
+  meme: ❤️
+  dex: null
+  defi: DEX, Liquidity Provider, Swapper, Farmings, etc.
+socials:
+  twitter: "@CardioSwap"
+  github: cardioswap
+  tg: CardioSwap
+links: []
+tokens:
+  - symbol: Pulse
+    chain: pulsechain
+    address: ""
+    desc: PLS
+creationDate: 2023-07-25T20:34:23.626Z
