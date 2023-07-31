@@ -1,5 +1,5 @@
 name: The Pulse Abides
-status: active
+status: rugged
 desc: Perpetual Airdrop token leveraging YouTube and Google ad revenue for
   airdrops and buy-and-burns.
 description: >-
@@ -12,11 +12,11 @@ www: https://www.thepulseabides.info/
 categories:
   game: "Coming soon to TPA ecosystem "
   meme: "Check out our reflections token FILGOB "
-  wallet: Coming soon
+  wallet: ""
   dex: "DudeSwap will be part of the upcoming TPA ecosystem "
   airdrop: Airdropping TPA every day on Youtube
   defi: TPA will be a primary defi leader in the Pulsechain space
-  bridge: Coming soon
+  bridge: ""
   nft-market: "Soon to be implemented on www.thepulseabides.net "
 socials:
   twitter: "@AbidesPulse"
