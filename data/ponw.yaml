@@ -1,47 +1,56 @@
----
 name: Proof of No Work Token
 status: promise
-desc: A new hyper-deflationary economic model, where the less you do, the more you make.
+desc: A new hyper-deflationary economic model, where the less you do, the more
+  you make.
+description: ""
 logo: /logos/ponw-256.png
 www: https://ponw.win/
 categories:
-  defi:
-  meme:
-links:
-  - whitepaper: https://proofofnowork.gitbook.io/proof-of-no-work-whitepaper/
+  meme: null
+  defi: null
 socials:
   twitter: PoNWDev
+  github: ProofOfNoWork
   tg: ProofofNoWork
   yt: "@proofofnowork"
-  github: ProofOfNoWork
+links:
+  - whitepaper: https://proofofnowork.gitbook.io/proof-of-no-work-whitepaper/
 sacrifice:
-  type: running
-  desc: sacrifice to show support for freedom of movement, freedom of speech & freedom to transact on the blockchain
-  www: https://ponw.win/sacrifice.html
-  start: "2023-05-05T00:00:00"
-  end: PulseChainLaunchDate+30d
   address: "0x281A6D3faAED4939D5c430c1fa125eBDd4209a78"
+  www: https://ponw.win/sacrifice.html
+  start: 2023-05-05T00:00:00
+  end: PulseChainLaunchDate+30d
   networks:
     ethereum:
-      tokens: WETH, HEX, HDRN, ICSA, SHIB, UNI, LINK, XEN, WBTC, MANA, BAT, DENT, OMI, RNDR, PEPE
-    pulsechain:
-      tokens: HEX, eHEX, PLSX, WPLS, HDRN, ICSA
+      tokens: WETH, HEX, HDRN, ICSA, SHIB, UNI, LINK, XEN, WBTC, MANA, BAT, DENT, OMI,
+        RNDR, PEPE
     bsc:
       tokens: WBNB, bXEN
     polygon:
       tokens: WMATIC, mXEN
-    # Cardano addr1q9jfueczld88nmhjtlul8up6zddl27gh8xfw5lsvykcjz7rynens976w08h0yhle70cr5y6m74u3wwvjaflqcfd3y9uqdkn2xq
-    # Dogecoin D97KwQNBbfAVg2Hu9yHwtzN6wxy9tr5YxJ
-    # XRP D97KwQNBbfAVg2Hu9yHwtzN6wxy9tr5YxJ
-    # Polkadot 12W646oFFcwB97VnSKcXXEcB3vCpqVkBw5ykshGGC4tAwDn6
-    # Bitcoin bc1q7fa0r7v0gr0zfkv6rsnsn6yuat67l9g2cxyf4n
-    # Bitcoin Cash qpaj0y0qgqympdufv257sm5rhxepmewaxuz242g6f4
-    # Litecoin LSGxMpo2bQhuyVvFMTrpnrPxvbHnpA8mcE
+    pulsechain:
+      tokens: HEX, eHEX, PLSX, WPLS, HDRN, ICSA
+  type: past
+  desc: sacrifice to show support for freedom of movement, freedom of speech &
+    freedom to transact on the blockchain
 ranking:
   founder: red
+  audit: red
+  implementation: orange
   team: red
   plan: orange
-  implementation: orange
-  audit: red
+tokens:
+  - symbol: PoNW
+    chain: pulsechain
+    address: "0x3301C67f4Ebbb64b354829E5dc0c503b4BdfD2dD"
+comments: >-
+  .sacrifice:
+   Cardano addr1q9jfueczld88nmhjtlul8up6zddl27gh8xfw5lsvykcjz7rynens976w08h0yhle70cr5y6m74u3wwvjaflqcfd3y9uqdkn2xq
+   Dogecoin D97KwQNBbfAVg2Hu9yHwtzN6wxy9tr5YxJ
+   XRP D97KwQNBbfAVg2Hu9yHwtzN6wxy9tr5YxJ
+   Polkadot 12W646oFFcwB97VnSKcXXEcB3vCpqVkBw5ykshGGC4tAwDn6
+   Bitcoin bc1q7fa0r7v0gr0zfkv6rsnsn6yuat67l9g2cxyf4n
+   Bitcoin Cash qpaj0y0qgqympdufv257sm5rhxepmewaxuz242g6f4
+   Litecoin LSGxMpo2bQhuyVvFMTrpnrPxvbHnpA8mcE
 token:
   symbol: PoNW
