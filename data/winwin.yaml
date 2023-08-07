@@ -1,36 +1,37 @@
----
 name: WinWin
 status: active
-desc: Gives everyone a fair chance of regularly winning prizes without risking their tokens, all while generating a healthy APY that compounds automatically.
+desc: Gives everyone a fair chance of regularly winning prizes without risking
+  their tokens, all while generating a healthy APY that compounds automatically.
 logo: /logos/winwin-256.png
 www: https://winwin.finance/
 categories:
-  defi:
-  game:
+  game: null
+  defi: null
 socials:
   twitter: winwindefi
   tg: winwindefi
+links:
+  - docs: https://docs.winwin.finance/
 sacrifice:
-  type: running
-  desc: sacrifice to help raise awareness of how gambling harms individuals, families, and communities all around the world
-  start: "2022-09-28T00:00:00Z"
-  end: OpenEnded
+  hideRateGraphs: true
   address: "0xcfb1e0c5645Fe132aF153CD37213F017eAaDD96B"
+  start: 2022-09-28T00:00:00Z
+  type: running
   networks:
     ethereum:
       tokens: DAI, HEX, HDRN, LUSD, MAXI, TUSD, USDC, USDT, WBTC
-    pulsechain:
-      tokens: HEX, PLSX, eUSDC, eUSDT, eDAI
     bsc:
       tokens: BUSD, USDC, BUSD-T
-  hideRateGraphs: true
-links:
-  - docs: https://docs.winwin.finance/
+    pulsechain:
+      tokens: HEX, PLSX, eUSDC, eUSDT, eDAI
+  desc: sacrifice to help raise awareness of how gambling harms individuals,
+    families, and communities all around the world
+  end: 2023-08-11T22:00:00Z
 ranking:
   founder: orange
+  audit: orange
+  implementation: orange
   team: green
   plan: green
-  implementation: orange
-  audit: orange
 token:
   symbol: WIN
