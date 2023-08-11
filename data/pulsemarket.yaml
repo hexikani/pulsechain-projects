@@ -1,0 +1,29 @@
+name: PulseMarket
+status: usable
+desc: PulseMarket is an NFT platform on the PulseChain network where you can
+  trade NFTs.
+description: >-
+  PulseMarket is an NFT platform where you can trade NFTs. Currently, more than
+  127 million NFTs are displayed on PulseMarket, with a significant portion of
+  the metadata of the collections indexed based on a copy of the Ethereum
+  system. Additionally, all new ERC721 smart contracts are automatically indexed
+  on PulseChain right after deployment.
+
+
+  PulseMarket was originally created to trade Cauldron and Booster NFTs from the Hocus Pocus project, but the team has decided to make it available for all projects that have been copied from Ethereum and the projects that are launching on PulseChain. No more begging at the door to trade your favorite projects. 
+
+
+  You can trade with different currencies, ranging from PLS, WPLS, PLSX, HEX and DAI, but the HOC token is the backbone of the system. Trading items in HOC tokens is, therefore, completely free from fees.
+logo: /logos/pulsemarket-256.png
+www: https://pulsemarket.app
+categories:
+  nft-market: null
+socials:
+  twitter: HocusPocusFi
+  github: Hocus-Pocus-Finance
+  tg: HOCport
+  discord: invite/NmJdNSQNBN
+  yt: channel/UCfWgk59xvEubi1akhHtpKGg
+  email: info@hocuspocus.finance
+links: []
+creationDate: 2023-08-10T08:53:51.802Z

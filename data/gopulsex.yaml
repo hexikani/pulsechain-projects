@@ -1,0 +1,34 @@
+name: GoPulseX.com
+status: usable
+desc: GoPulseX is PulseChain's all-in-one trading platform, designed to both
+  save and earn you money! It enables you to seamlessly swap tokens, utilizing a
+  diverse range of liquidity across various DEXs.
+description: >-
+  GoPulseX utilizes multiple markets, DEXs, AMMs and DeFi protocols to provide
+  optimal rates. Whenever you type in how many tokens you want to swap,
+  GoPulseX's intricate routing algorithm instantly analyzes quotes and fees from
+  dozens of routes.
+
+
+  It's blazingly fast (around 80x times faster than competitors), all calculations happen within miliseconds! The UI presents all analyzed routes with connector tokens and exact output amounts for full transparency. GoPulseX automatically determines the most efficient route with the optimal rate.
+
+
+  All of this happens in the background: GoPulseX ensures the best price, lowest slippage, and highest returns for each transaction. You save money without having to worry about anything!
+
+
+  More: wiki.GoPulseX.com
+logo: /logos/gopulsex-256.png
+www: https://GoPulseX.com
+categories:
+  site: "Available as website: GoPulseX.com"
+  dex: GoPulseX enables you to easily swap any token you own to any other token on
+    PulseChain, providing you with endless trading possibilities at your
+    fingertips.
+  defi: GoPulseX provides a comprehensive solution for decentralized on-chain
+    exchange with fast order execution and deep liquidity.
+socials:
+  twitter: GoPulsecom
+  tg: GoPulse
+links:
+  - docs: https://wiki.GoPulseX.com
+creationDate: 2023-08-07T08:47:54.028Z
