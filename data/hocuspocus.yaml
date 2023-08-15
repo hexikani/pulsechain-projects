@@ -22,11 +22,11 @@ sacrifice:
   start: 2022-12-02T00:00:00Z
   name: Hocus Pocus Magical Free Sacrifice
   end: OpenEnded
-  type: running
   networks:
     ethereum:
       tokens: WETH
   desc: sacrifice for the freedom to believe in the magic of blockchain
+  type: past
 ranking:
   founder: green
   audit: green

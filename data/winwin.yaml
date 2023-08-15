@@ -16,7 +16,6 @@ sacrifice:
   hideRateGraphs: true
   address: "0xcfb1e0c5645Fe132aF153CD37213F017eAaDD96B"
   start: 2022-09-28T00:00:00Z
-  type: running
   networks:
     ethereum:
       tokens: DAI, HEX, HDRN, LUSD, MAXI, TUSD, USDC, USDT, WBTC
@@ -26,7 +25,8 @@ sacrifice:
       tokens: HEX, PLSX, eUSDC, eUSDT, eDAI
   desc: sacrifice to help raise awareness of how gambling harms individuals,
     families, and communities all around the world
-  end: 2023-08-11T22:00:00Z
+  type: past
+  end: 2023-08-11T22:30:00Z
 ranking:
   founder: orange
   audit: orange
