@@ -40,7 +40,7 @@ sacrifice:
   name: RECORDIAN Public Sale
   desc: this is a public sale, not a sacrifice
   start: "2023-07-14T00:00:00.000Z"
-  end: "2023-08-18T00:00:00.000Z"
+  end: OpenEnded
   address: "0xB0F603477a713845a1c68d71aC6a8789FF8751Ff"
   networks:
     pulsechain:
