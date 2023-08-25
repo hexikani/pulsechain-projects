@@ -1,0 +1,44 @@
+name: PulseCoinList.com
+status: active
+desc: PulseChain Ranking Site & dApp Explorer.
+description: >-
+  PulseCoinList is the leading coin ranking site and dApp explorer within the
+  PulseChain Ecosystem.
+
+
+  Overview:
+
+
+  📊 Unrivaled Token Ranking: Delve into the vast repository of over 12,000 tokens. Our platform facilitates a thorough understanding of key metrics, from liquidity and market cap to trading volume.
+
+
+  🔄 ERC20 vs. PRC20 Analysis: Illuminate potential price gaps between PulseChain's PRC20s and Ethereum's ERC20s, positioning you for insightful decisions.
+
+
+  📊 MultiCharts: Streamline your insights. Our integrated charts offer a unified perspective on varied market metrics, eliminating the need to sift through disparate views.
+
+
+  🔍 PulseChain Metrics: Stay informed with a consolidated dashboard capturing everything PulseChain-related – from burn rates to pivotal on-chain data.
+
+
+  💡PulseChain App Ecosystem: Remain in sync with the latest dApps, innovative platforms, and burgeoning crypto initiatives on PulseChain.
+
+
+  💸 Balance Checker: For those who participated in the PulseChain Airdrop, our tool offers a transparent view of your PulseChain token balance.
+
+
+  💱 Buying PulseChain Simplified: Steer through a curated list of outlets to buy PulseChain tokens. Weigh options based on fees, transaction methods, and KYC stipulations.
+
+
+  For those keen on understanding the expanse and intricacies of PulseChain, PulseCoinList serves as a meticulous and comprehensive guide. Your exploration of the PulseChain universe is enriched and simplified with our curated insights.
+logo: /logos/pulsecoinlist-256.png
+www: https://pulsecoinlist.com/
+categories:
+  site: null
+  rankin  g: PulseChain Coin Ranking
+socials:
+  twitter: https://twitter.com/PulseCoinList
+  tg: https://t.me/pulsecoinlist
+links:
+  - www: https://apps.pulsecoinlist.com/
+creationDate: 2023-08-24T22:34:56.246Z

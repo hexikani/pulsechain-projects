@@ -1,0 +1,20 @@
+name: PulseReflections
+status: active
+desc: Deflationary, $PLS reflection token on PulseChain.
+description: "Holders earn 2% of all swap volume in the form of $PLS (the native
+  gas token of PulseChain). There is a 1% burn from swap volume which reduces
+  the circulating supply, increasing rewards to holders overtime. "
+logo: /logos/pulsereflections-256.png
+www: https://pulsereflections.com
+categories:
+  defi: ""
+socials:
+  twitter: plsreflections
+  tg: plsreflections
+links: []
+tokens:
+  - symbol: PRS
+    chain: pulsechain
+    address: "0xb6b57227150a7097723e0c013752001aad01248f"
+    desc: $PLS Reflection Token
+creationDate: 2023-08-21T15:25:12.899Z
