@@ -15,17 +15,23 @@ logo: /logos/cardioswap-256.png
 www: https://CardioSwap.io
 categories:
   site: DEX
-  meme: ❤️
   dex: null
+  service: null
+  on-ramp: null
   defi: DEX, Liquidity Provider, Swapper, Farmings, etc.
 socials:
   twitter: "@CardioSwap"
   github: cardioswap
   tg: CardioSwap
-links: []
+links:
+  - dapp: https://cardioswap.io/#/sale
 tokens:
-  - symbol: Pulse
+  - symbol: CARDIO
     chain: pulsechain
-    address: ""
-    desc: PLS
+    address: "0xE08DD1a6162A4096B4B4D3Fd3B60AE4aDe56a22f"
+    desc: $CARDIO is the native digital currency of CardioSwap, a decentralized
+      platform dedicated to providing swift and efficient token swapping
+      services. Designed for the modern crypto enthusiast, $CARDIO aims to
+      bridge the gap between traditional financial systems and decentralized
+      solutions.
 creationDate: 2023-07-25T20:34:23.626Z
