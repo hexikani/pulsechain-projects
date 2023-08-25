@@ -1,11 +1,33 @@
----
 name: Pulse Domains
 status: active
-desc: Decentralized naming for wallets, websites, & more
+desc: Decentralized naming for wallets, websites, & more.
+description: >-
+  Pulse Domains, the PulseChain Naming Service (PNS), is meant to bring adoption
+  and utility to the Pulsechain Ecosystem, namely, by allowing public addresses
+  to have a human-readable, memorable link. Everyone is encouraged to interact
+  with the protocol as they are permissionless contracts on the PulseChain
+  blockchain.
+
+
+  What is PNS?
+
+  PulseChain Name Service (PNS) has a main utility to map human-readable names (ex. ‘alex.pls’) to machine-readable identifiers such as PulseChain addresses, other cryptocurrency addresses, content hashes, and metadata.
+
+
+  PNS has similar goals to DNS, the internet’s Domain Name Service, but has a significantly different architecture due to the capabilities--and constraints--provided by EVM blockchains. Similarly, like DNS, PNS operates on a system of dot-separated hierarchical names called domains, with the owner of a domain having full control over subdomains.
+
+
+  Top-level domains (‘.pls’) are owned by smart contracts called registrars, which specify rules governing the allocation of their subdomains. Anyone may, by following the rules imposed by these registrar contracts, obtain ownership of a domain for their own use. PNS also supports importing in DNS names already owned by the user for use on PNS.
+
+
+  Because of the hierarchical nature of PNS, anyone who owns a domain at any level may configure subdomains - for themselves or others - as desired. For instance, if Alex owns 'alex.pls' he can create 'pay.alex.pls' and configure it as he wishes.
 logo: /logos/pulsedomains-256.png
 www: https://pulse.domains
 categories:
-  social:
+  social: null
+  nft: .pls names are NFTs
 socials:
   twitter: pulsedotdomains
   tg: pulsedomains
+links:
+  - docs: https://docs.pulse.domains/
