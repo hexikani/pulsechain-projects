@@ -1,0 +1,20 @@
+name: IMPLS
+status: active
+desc: IMPLS is a Yield Farming & Auto Compounding Vaults.
+description: IMPLS is a yield farming & auto compounding vaults protocol built
+  on PulseChain. There are multiple ways to earn with the project. IMPLS auto
+  compounding vaults, Yield Farm, and Single sided staking revenue share.
+logo: /logos/impls-finance-256.png
+www: https://impls.finance
+categories:
+  defi: yield aggregator, yield farming
+socials:
+  twitter: IMPLSfinance
+  tg: implsfinance
+links: []
+tokens:
+  - symbol: IMPLS
+    chain: pulsechain
+    address: "0x5f63BC3d5bd234946f18d24e98C324f629D9d60e"
+    desc: IMPLS
+creationDate: 2023-09-01T18:44:17.206Z
