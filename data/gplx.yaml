@@ -1,12 +1,17 @@
 name: GPLX
-status: rugged
+status: active
 desc: Decentralized Perpetual Exchange on Pulsechain! Trade PLS, PLSX, HEX,
   WBTC, WETH and more top cryptocurrencies with up to 50x leverage.
-description: ""
+description: >-
+  GPLX is a decentralized spot and perpetual exchange on Pulsechain that
+  supports low swap fees and zero price impact trades.
+
+  Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees and leverage trading.
 logo: /logos/gplx-256.png
 www: https://gplx.io/
 categories:
   dex: null
+  defi: null
 socials:
   twitter: Gplx_io
   github: Gplx-io
@@ -17,12 +22,7 @@ links:
 tokens:
   - symbol: GPLX
     chain: pulsechain
-    address: "0xccb0d8790bbb82754d6d2f79e61ceEE8582704c6"
+    address: "0xF2d9A3Ea1ADB44B7e95893069a2d5CB9BB50E677"
     desc: GPLX is the utility and governance token. Accrues 30% of the platform's
-      generated fees.
-  - symbol: GPLP
-    chain: pulsechain
-    address: "0x0a7Ea3F42d9218C23EF63De4D45D7FD119dB9e8e"
-    desc: GPLP is the liquidity provider token. Accrues 70% of the platform's
       generated fees.
 creationDate: 2023-06-21T05:05:47.830Z
