@@ -1,19 +1,33 @@
----
 name: PulseLN
 status: usable
-desc: PulseChain's fastest & simplest fiat onramp, allowing to swap PLS, BTC (Lightning Network Enabled), HEX, & BNB in less than ~10 seconds for low fees.
+desc: Instant PLS, BTC, BNB, HEX Exchange on PulseChain. Swap your favorite
+  cryptocurrencies instantly direct to your wallet. No registration, no signup.
+  Only your crypto address.
+description: PulseLN allows you to swap PLS, BTC, ETH, & BNB in less than ~15
+  seconds for low fees. Use PulseLN in combination with CashApp, Coinbase,
+  Binance, and other popular exchanges as an instant crypto on & off ramp.
 logo: /logos/pulseln-256.png
 www: https://pulseln.com/
 categories:
-  bridge:
+  site: null
+  on-ramp: null
+  bridge: null
 socials:
   twitter: PulseLN
   tg: PulseLNcom
+links: []
 sacrifice:
-  type: past
+  start: 2022-01-23T00:00:00.000Z
   desc: sacrifice for freedom of swap
-  start: "2022-01-23T00:00:00.000Z"
-  end: "2023-05-23T13:49:05.000Z"
+  type: past
+  end: 2023-05-23T13:49:05.000Z
+tokens:
+  - symbol: PLN
+    chain: pulsechain
+    address: "0xa685C45fd071DF23278069Db9137e124564897D0"
+    desc: "PLN is a Founder Token that accrues all swap fees from exchanges. PLN
+      launched with zero value & was airdropped for free to PulseChain addresses
+      in 2023. "
 token:
   symbol: PLN
   chain: pulsechain
