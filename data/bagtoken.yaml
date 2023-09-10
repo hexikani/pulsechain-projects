@@ -1,0 +1,30 @@
+name: "Bag Token "
+status: promise
+desc: Bag Token is an Ultra- Deflationary, Cross-Chain, Meme-Fi token, designed
+  to build big bags for BAG believers.
+description: >-
+  Built on Ethereum and Pulsechain, Bag Token is identical on both networks.
+
+  Both tokens will be launched simultaneously with a low, fixed deflationary supply and will have interesting and innovative features.
+
+  To incentivise hodling, Bag Token will have a “Hodl Period”. The Hodl Period lasts for 555 days (from launch) and if a users decides to sell in this time, they will be taxed, the earlier they sell, the more tax is due. Rather than pocketing the tax, the project will reinvest it to further develop the ecosystem through two innovative initiatives:
+
+  “Cross Chain Buy Back & Burn” is a first in the crypto space, it aims to bring users to Pulsechain by creating deflationary price action that links Bag Token across the two networks.
+
+  If one chain sees more sell volume, the CCBBB will pump the price on the opposing chain by buying and burning tokens. This should create interest and volume on both networks as the pendulum swings back and forth.
+
+  “Bag Tax Claim Back” takes a percentage of the sell tax on both networks and puts it back in the hands of the hodlers. All sacrificers that make it to the end of the Hodl Period take a share of the “BTCB” wallet. The wallet will hold the tax proceeds in Pulsechain (with ETH swapped for PLS), allowing the value to appreciate more than if held in ETH during the bull run.
+logo: /logos/bagtoken-256.png
+www: https://bagtoken.io
+categories:
+  meme: 'We are Not just a memecoin, Bag Token will be innovating the memespace
+    with unique features like "Cross-Chain, Buy Back and Burn"  and “Bag Tax
+    Claim Back”. '
+socials:
+  twitter: https://bagtoken.io/
+  tg: https://t.me/bagtoken
+  medium: "@bag_token"
+  email: hello@bagtoken.io
+links:
+  - docs: https://drive.google.com/file/d/1MVODPhJXmrca5U-WEAQOLF1dJCmvJpYJ/view
+creationDate: 2023-08-28T18:18:23.855Z
