@@ -1,0 +1,18 @@
+name: Tokens Express
+status: active
+desc: Tokens Express is a decentralized bridge to PulseChain. BNB Users are able
+  to bridge any token they wish to and from PulseChain to grow their community
+  on PulseChain.
+description: ""
+logo: /logos/tokens-express-256.png
+www: https://tokensex.link
+categories:
+  bridge: Arbitrary Message Bridge that utilizes the Omnibridge multi-token
+    extension allowing native PLS/BNB and all tokens to be bridged. Native
+    tokens are unwrapped to the native token for gas
+socials:
+  twitter: Tokensex_Bridge
+  github: tokensex
+  tg: TokensExpress_Official
+links: []
+creationDate: 2023-09-03T20:09:15.273Z
