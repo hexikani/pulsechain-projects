@@ -1,13 +1,40 @@
----
-name: Pulse Inu
-status: promise
-desc: INU meme token
+name: Pulseinu.org
+status: active
+desc: INU meme token born exlusive only on Pulsechain.
+description: >-
+  Pulse Inu is a community built meme coin on Pulsechain.
+
+  Better pumpamentals than Doge or the original Shiba Inu.
+
+  Pulse Inu is only available on Pulsechain.
+   Well known store of value brand with the highest price appreciation of ANY crypto, even Hex.
+  No sacrifice phase, no expectations. PINU launches as complete, community software.
+
+  PINU is either claimed or minted, that's it.
+
+  There are no founder allocations.
 logo: /logos/pulseinuorg-256.png
+www: https://www.pulseinu.org/
 categories:
-  meme:
+  meme: No sacrifice phase, no expectations. PINU launches as complete, community
+    software
+  airdrop: Airdrop for PulseX, Pulsechain sacrificers and Hex Stakers - stage ENDED
 socials:
+  twitter: "@PulseInu"
   tg: pulseinuofficial
+  yt: https://www.youtube.com/@PulseInu
+links:
+  - whitepaper: https://pulseinu.org/whitepaper.pdf
+  - audit: https://www.coinfabrik.com/blog/pulse-inu-audit
+tokens:
+  - symbol: PINU
+    chain: pulsechain
+    address: "0xb7109E977c7789E5405079fe89f84d867BEaB850"
+  - symbol: PINU
+    chain: pulsechain
+    address: "0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd"
+    desc: Pulseinu.org
 token:
   symbol: PINU
-  address: "0xb7109E977c7789E5405079fe89f84d867BEaB850"
   chain: pulsechain-testnet
+  address: "0xb7109E977c7789E5405079fe89f84d867BEaB850"
