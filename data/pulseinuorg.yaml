@@ -1,4 +1,4 @@
-name: Pulseinu.org
+name: PulseInu.org
 status: active
 desc: INU meme token born exlusive only on Pulsechain.
 description: >-
@@ -27,9 +27,6 @@ links:
   - whitepaper: https://pulseinu.org/whitepaper.pdf
   - audit: https://www.coinfabrik.com/blog/pulse-inu-audit
 tokens:
-  - symbol: PINU
-    chain: pulsechain
-    address: "0xb7109E977c7789E5405079fe89f84d867BEaB850"
   - symbol: PINU
     chain: pulsechain
     address: "0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd"
