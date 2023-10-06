@@ -1,38 +1,37 @@
----
 name: 8inches
-status: promise
+status: abandoned
 desc: DEX aggregator to be deployed on multiple chains incluing PulseChain.
 logo: /logos/8inches-256.png
 www: https://www.8inches.io/
 categories:
-  defi:
-  dex:
+  dex: null
+  defi: null
 socials:
   twitter: eight_8inches
   tg: eight8inches
 sacrifice:
-  type: running
-  desc: sacrifice for 8inches
-  start: "2023-06-04T00:00:00Z"
-  end: OpenEnded
   address: "0x794DCe4035ac9FBc2D4315a9bB524364Ac6e1C77"
   www: https://www.8inch.io/s
+  start: 2023-06-04T00:00:00Z
+  end: OpenEnded
   networks:
     ethereum:
       tokens: USDT, USDC, DAI, HEX, HDRN, WBTC
     bsc:
       tokens: USDC, BUSD-T, BUSD, DAI
-    fantom:
-      tokens: WFTM
     polygon:
       tokens: WMATIC
+    fantom:
+      tokens: WFTM
     pulsechain:
       tokens: PLSX, HEX, eHEX, HDRN, eDAI, eUSDC, eUSDT, eWBTC
+  desc: sacrifice for 8inches
+  type: past
 ranking:
   founder: red
+  audit: red
+  implementation: red
   team: red
   plan: red
-  implementation: red
-  audit: red
 token:
   symbol: 8INCHES
