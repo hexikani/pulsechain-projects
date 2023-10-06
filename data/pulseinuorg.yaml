@@ -30,7 +30,9 @@ tokens:
   - symbol: PINU
     chain: pulsechain
     address: "0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd"
-    desc: Pulseinu.org
+    desc: No multi chain confusion or dump potential or bridge risk Pulse Inu is
+      only available on Pulsechain Well known store of value brand with the
+      highest price appreciation of ANY crypto, even Hex.
 token:
   symbol: PINU
   chain: pulsechain-testnet
