@@ -44,5 +44,8 @@ ranking:
   plan: green
   implementation: green
   audit: green
-token:
-  symbol: PTS
+tokens:
+  - symbol: PTS
+    chain: pulsechain
+    address: "0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433"
+    desc: ""
