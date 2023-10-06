@@ -1,5 +1,5 @@
 name: Proof of No Work Token
-status: promise
+status: usable
 desc: A new hyper-deflationary economic model, where the less you do, the more
   you make.
 description: ""
@@ -18,7 +18,6 @@ links:
 sacrifice:
   address: "0x281A6D3faAED4939D5c430c1fa125eBDd4209a78"
   www: https://ponw.win/sacrifice.html
-  start: 2023-05-05T00:00:00
   end: PulseChainLaunchDate+30d
   networks:
     ethereum:
@@ -33,6 +32,7 @@ sacrifice:
   type: past
   desc: sacrifice to show support for freedom of movement, freedom of speech &
     freedom to transact on the blockchain
+  start: 2023-05-05T00:00:00
 ranking:
   founder: red
   audit: red
