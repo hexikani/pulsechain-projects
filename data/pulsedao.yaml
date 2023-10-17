@@ -1,12 +1,29 @@
----
 name: PulseDAO (former DecentralizeX)
-status: active
-desc: Self-governed blockchain CD. Efficient decentralized system made by holders, for holders.
+status: completed
+desc: "Dear PulseDAO Community: Important Notice https://pulseDAO.pro/notice ."
+description: >
+  Read notice: https://pulseDAO.pro/notice
+
+  The funds received during the "sacrifice" phase were not investments and have not been used for project development.
+
+
+  We're offering two options to all those who sacrificed during the "sacrifice" phase (Please respond by October 29th):
+
+
+  1.) You acknowledge that you originally had NO EXPECTATION OF TOKENS or any returns from your "sacrifice". But now, you desire your sacrifice to be considered as a contribution made today in order to acquire the tokens for their utility in the protocol.
+
+  OR
+
+  2) If you don't want to stay involved, you can choose to leave the project. If you do this, we'll give you back the tokens you put in at the beginning - you'll get reimbursed.
+
+
+  We're taking this approach due to earlier ambiguity during the "sacrifice" phase, and to ensure legal compliance. This sets a clear path forward while giving you all the necessary information to make informed decisions based on known facts and circumstances.
 logo: /logos/pulsedao-256.png
 www: https://pulsedao.pro/
 categories:
-  defi:
-  claim: PulseChain and PulseX sacrificers, HEX stakers and holders are eligible for airdrop.
+  claim: PulseChain and PulseX sacrificers, HEX stakers and holders are eligible
+    for airdrop.
+  defi: null
 socials:
   twitter: pulseXPD
   tg: PulseDAO
@@ -14,26 +31,33 @@ socials:
 links:
   - dapp: https://decentralizex.io
 sacrifice:
-  type: running
-  desc: sacrifice to prove how strongly you believe that blockchains are speech and speech is a protected human right
-  start: "2022-06-11T00:00:00Z"
-  end: OpenEnded
   address: "0x017b5900B4681B5C9Edd9BB5C08bCd6365e0dadE"
+  start: 2022-06-11T00:00:00Z
+  pointsPerUSD: 100000
+  end: OpenEnded
+  type: running
   networks:
     ethereum:
       tokens: USDC, USDT, BUSD, DAI, HEX, WBTC, WMATIC, LINK, UNI, SHIB
+    avax: null
     bsc:
       tokens: BUSD-T, BUSD, USDC, DAI
     polygon:
       tokens: DAI, WMATIC, HEX, USDC
-    avax:
-  pointsPerUSD: 100000
+  desc: sacrifice to prove how strongly you believe that blockchains are speech
+    and speech is a protected human right
 ranking:
+  note: Our ranking has not been verified with the project team yet.
   founder: red
+  audit: orange
+  implementation: green
   team: red
   plan: green
-  implementation: green
-  audit: orange
-  note: Our ranking has not been verified with the project team yet.
+tokens:
+  - symbol: XPD
+    chain: pulsechain
+    address: "0xFAaC6a85C3e123AB2CF7669B1024f146cFef0b38"
+    desc: PulseDAO (XPD) is a utility token designed for securing and governing the
+      protocol
 token:
   symbol: DTX
