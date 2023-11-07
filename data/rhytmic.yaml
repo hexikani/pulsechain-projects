@@ -1,0 +1,22 @@
+name: Rhytmic
+status: promise
+desc: Rhytmic is an data visualization platform designed exclusively for
+  Pulsechain projects.
+description: Rhytmic introduces data visualization tools for the Pulsechain
+  ecosystem. It offers real-time insights, predictive analytics, sentiment
+  analysis, token performance comparison, and more. The project prioritizes
+  security, privacy, and community engagement.
+logo: /logos/rhytmic-256.png
+www: https://www.rhytmic.finance/
+categories:
+  other: "Tool for monitoring  and insights "
+socials:
+  twitter: "@RhytmicDEFI"
+  tg: Rhytmic
+links: []
+tokens:
+  - symbol: RYTM
+    chain: pulsechain
+    address: ""
+    desc: ""
+creationDate: 2023-10-12T19:02:47.011Z

@@ -1,0 +1,31 @@
+name: Ethereum Trade Credits
+status: active
+desc: An entertaining meme token formed by OG Hexican with the enthusiasm of the
+  strong Hexican and Pulsican community. A fun magic carpet ride for
+  entertainment.
+description: ETHTC's can be used to buy advertising on tctrademartket.com. You
+  can also use ETHTC's for peer to peer transactions, they could be worth more
+  in the future so why take the $ which seems to just go down in value. Basic
+  ads are free to list on the website so have at it. List what you want to trade
+  or buy and sell using ETHTC's. More to come!
+logo: /logos/ethtc-256.png
+www: https://tctrademarket.com/
+categories:
+  other: Trade items and services with our token or with your own skill.
+  meme: A fun magic carpet ride.
+  service: List services or items for trade or buy and sell with ETHTC's.
+socials:
+  twitter: https://twitter.com/PulseETHTC
+  tg: https://t.me/PulseETHTC
+  yt: https://www.youtube.com/@TCtrademartDotCom
+  email: rootsremedy1@gmail.com
+links:
+  - www: https://www.youtube.com/watch?v=2MT84w5GB-A&t=7s
+tokens:
+  - symbol: ETHTC
+    chain: pulsechain
+    address: "0xB6FDD8A5b6069De409288Bc30C69c5856Dc67aC8"
+    desc: An entertaining meme token formed by OG Hexican with the enthusiasm of the
+      strong Hexican and Pulsican community. A fun magic carpet ride for
+      entertainment.
+creationDate: 2023-11-05T21:16:05.893Z

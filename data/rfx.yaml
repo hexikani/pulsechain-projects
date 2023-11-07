@@ -1,0 +1,22 @@
+name: Reflux
+status: completed
+desc: Earn PLS passive income.
+description: Reflux is a hyper-deflationary asset with a 0.25% burn on buy or
+  sell, which earns you PLS as passive income via a reflection process (1.75%
+  Reflux fee). Just Hodl to Earn. The greater the network activity, the higher
+  the PLS rewards.
+logo: /logos/rfx-256.png
+www: https://pulselorian.com/reflux
+categories:
+  defi: DeFi - PLS passive income via HODL or liquidity providing.
+socials:
+  twitter: reflux_pays_pls
+  tg: Reflux Token
+links:
+  - www: https://dexscreener.com/pulsechain/0x6292f579606108a285ff7b75efad54dc12576385
+tokens:
+  - symbol: RFX
+    chain: pulsechain
+    address: "0xF876BDf9D6403AA7D5bF7F523E8f440A841CC596"
+    desc: Earn PLS Passive Income
+creationDate: 2023-10-18T21:36:16.671Z
