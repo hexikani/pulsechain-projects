@@ -1,0 +1,20 @@
+name: PUSDxALGO
+status: usable
+desc: "A new algorithmic stable coin inspired by Terra Luna developed for
+  #Pulsechain."
+description: https://www.pulsechainusd.info/learn/
+logo: /logos/pusdxalgo-256.png
+www: https://pulsechainusd.io/sacrifice
+categories:
+  defi: Decentralized finance with a stablecoin
+  stable-coin: Algorithmic stablecoin
+socials:
+  twitter: PulsechainUSD
+  tg: PUSDxALGO
+links: []
+tokens:
+  - symbol: PUSD
+    chain: pulsechain
+    address: "0xff6eCEdc9Dca27Cf92930E227F4237771ED9F6A5"
+    desc: Stablecoin
+creationDate: 2023-11-26T19:44:00.083Z
