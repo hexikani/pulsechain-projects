@@ -9,10 +9,12 @@ description: Rhytmic introduces data visualization tools for the Pulsechain
 logo: /logos/rhytmic-256.png
 www: https://www.rhytmic.finance/
 categories:
-  other: "Tool for monitoring  and insights "
+  other: "Tool for monitoring and insights "
 socials:
   twitter: "@RhytmicDEFI"
-  tg: Rhytmic
+  tg: "@Rhytmic"
+  yt: "@Rhytmic-DeFi"
+  email: info@rhytmic.finance
 links: []
 tokens:
   - symbol: RYTM

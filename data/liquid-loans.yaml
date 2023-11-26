@@ -1,27 +1,32 @@
----
 name: Liquid Loans
 status: active
-desc: DeFi liquidity platform built for PulseChain. 0% interest-free. Immutable. Non-custodial. No admin keys. DeFi liquidity for everyone.
+desc: DeFi liquidity platform built for PulseChain. 0% interest-free. Immutable.
+  Non-custodial. No admin keys. DeFi liquidity for everyone.
+description: ""
 logo: /logos/liquid-loans-256.png
 www: https://liquidloans.io/
 categories:
-  defi:
-  stable-coin:
+  defi: null
+  stable-coin: null
 socials:
   twitter: liquidloansio
   tg: liquidloans
 links:
   - dapp: https://testnet.liquidloans.io/
   - docs: https://docs.liquidloans.io/
+  - audit: http://liquid.loans/audit
 sacrifice:
+  start: 2022-02-19T12:00:00.000Z
   type: past
-  desc: sacrifice for disapproval and rejection of corporate-owned, censorable, centralized stablecoins
-  start: "2022-02-19T12:00:00.000Z"
+  desc: sacrifice for disapproval and rejection of corporate-owned, censorable,
+    centralized stablecoins
 ranking:
   founder: green
+  audit: orange
+  implementation: green
   team: green
   plan: green
-  implementation: green
-  audit: orange
+tokens:
+  - symbol: LOAN
 token:
   symbol: LOAN
