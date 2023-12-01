@@ -35,7 +35,7 @@ sacrifice:
   start: 2022-06-11T00:00:00Z
   pointsPerUSD: 100000
   end: OpenEnded
-  type: running
+  type: past
   networks:
     ethereum:
       tokens: USDC, USDT, BUSD, DAI, HEX, WBTC, WMATIC, LINK, UNI, SHIB
