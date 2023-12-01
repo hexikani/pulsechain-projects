@@ -1,10 +1,9 @@
 name: PUSDxALGO
 status: usable
-desc: "A new algorithmic stable coin inspired by Terra Luna developed for
-  #Pulsechain."
+desc: "A new algorithmic stable coin inspired by Terra Luna developed for PulseChain."
 description: https://www.pulsechainusd.info/learn/
 logo: /logos/pusdxalgo-256.png
-www: https://pulsechainusd.io/sacrifice
+www: https://pulsechainusd.io/
 categories:
   defi: Decentralized finance with a stablecoin
   stable-coin: Algorithmic stablecoin
@@ -18,3 +17,21 @@ tokens:
     address: "0xff6eCEdc9Dca27Cf92930E227F4237771ED9F6A5"
     desc: Stablecoin
 creationDate: 2023-11-26T19:44:00.083Z
+sacrifice:
+  type: running
+  desc: sacrifice to prove how strong you believe that blockchains are speech and speech is a protected human right
+  start: "2023-11-25T00:00:00Z"
+  end: "2024-01-09T00:00:00Z"
+  address: "0x965dbB5D5c90a244FBD9C95AeA35F857a682e223"
+  www: https://pulsechainusd.io/sacrifice
+  networks:
+    ethereum:
+      tokens: USDT, USDC, DAI, HEX, WBTC
+    pulsechain:
+      tokens: PLSX, HEX, eHEX, eDAI, eUSDC, eUSDT
+ranking:
+  founder: orange
+  team: orange
+  plan: green
+  implementation: green
+  audit: orange

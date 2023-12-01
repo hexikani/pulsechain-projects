@@ -1,5 +1,5 @@
 name: 2PHUX
-status: active
+status: promise
 desc: We give more PHUX.
 description: >
   2PHUX works with the PHUX.IO exchange to increase the revenue of yield farmers
@@ -24,3 +24,22 @@ tokens:
     address: ""
     desc: 2PHUX.IO
 creationDate: 2023-11-26T20:30:42.313Z
+sacrifice:
+  type: running
+  desc: sacrifice for the right to the highest attainable standard of physical and mental health
+  start: "2023-11-25T00:00:00Z"
+  end: "2024-01-09T00:00:00Z"
+  address: "0x2222222299999999999999999999222222222222"
+  networks:
+    pulsechain:
+      tokens: PLSX, HEX, eHEX, 9INCH, e9INCH, SPARK, TETRAp, PHIAT, PHAME, PHUX, CST, eUSDT, eUSDC, eDAI
+      # LOAN, WATT, USDL, PSXD, eLUSD
+    bsc:
+    polygon:
+    ethereum:
+ranking:
+  founder: orange
+  team: orange
+  plan: red
+  implementation: red
+  audit: red
