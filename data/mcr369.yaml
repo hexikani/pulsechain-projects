@@ -1,5 +1,5 @@
 name: MCR369
-status: promise
+status: active
 desc: A collection of smart contracts that live on the Ethereum and PulseChain
   blockchains - stake the MCR369 token in the pool to earn a share of rewards
   generated from suite of products under Magic Carpet Ride.
@@ -25,7 +25,6 @@ sacrifice:
   start: 2023-03-17T00:00:00.000Z
   pointsPerUSD: 100
   end: OpenEnded
-  type: running
   networks:
     ethereum:
       tokens: WETH, USDC, DAI, USDT, LUSD, TUSD, BUSD, HEX, TEAM, MAXI, DECI, LUCKY,
@@ -39,6 +38,7 @@ sacrifice:
     pulsechain:
       tokens: WPLS, PLSX, HEX, eHEX, INC, HDRN, ICSA, PP, eUSDC, eUSDT, eDAI
   desc: sacrifice for the idea that all humans are entitled to choose what they eat
+  type: past
 ranking:
   founder: green
   audit: red
