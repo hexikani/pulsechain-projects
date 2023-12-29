@@ -38,8 +38,8 @@ sacrifice:
     polygon:
     ethereum:
 ranking:
-  founder: orange
-  team: orange
-  plan: red
-  implementation: red
-  audit: red
+  founder: green
+  team: green
+  plan: green
+  implementation: orange
+  audit: orange
