@@ -1,42 +1,58 @@
----
 name: POWERCITY
 status: active
-desc: Ecosystem of projects designed to improve PulseChain for both the community and developers alike. All connected through its central CORE.
-description: |
-  POWERCITY is revolutionizing the way native stakers of a token earn rewards for their participation.
+desc: Ecosystem of projects designed to improve PulseChain for both the
+  community and developers alike. All connected through its central CORE.
+description: >
+  POWERCITY is revolutionizing the way native stakers of a token earn rewards
+  for their participation.
+
   To achieve this objective, POWERCITY has adopted a revenue-over-inflation architecture.
+
   This design comprises an ecosystem of DeFi applications that bring utility and innovation to the space.
+
   1. CORE staking platform
+
   2. PortalX cross-chain swap
+
   3. EARN lending protocol
+
   4. Amplifier auto-compounding front-end for EARN and Liquid Loans lending protocols
+
   5. PixelPark NFT marketplace
+
   6. Accelerator automatic DeFi yield compounder
 logo: /logos/powercity-256.png
 www: https://www.powercity.io/
 categories:
-  defi:
   ecosystem:
     - powercity-portalx
     - powercity-earn
     - powercity-amplifier
     - powercity-pixelpark
+  defi: null
+  nft-market: null
 socials:
-  tg: POWERCITYio
   twitter: POWERCITYio
+  tg: POWERCITYio
   yt: channel/UCKoFHpAen2bjhqp4Vzq6ZRQ
 links:
   - whitepaper: https://docs.powercity.io/litepaper/
+  - dapp: https://core.powercity.io/
 sacrifice:
+  start: 2022-03-07T00:00:00.000Z
+  end: 2023-05-15T05:30:00.000Z
   type: past
   desc: sacrifice for right to free enterprise
-  start: "2022-03-07T00:00:00.000Z"
-  end: "2023-05-15T05:30:00.000Z"
 ranking:
   founder: green
+  audit: orange
+  implementation: green
   team: green
   plan: green
-  implementation: green
-  audit: orange
+tokens:
+  - symbol: WATT
+    chain: pulsechain
+    address: "0xDfdc2836FD2E63Bba9f0eE07901aD465Bff4DE71"
+    desc: Core token of POWERCITY ecosystem
 token:
   symbol: WATT

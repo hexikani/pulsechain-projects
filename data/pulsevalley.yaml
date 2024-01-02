@@ -1,5 +1,5 @@
 name: Pulse Valley
-status: promise
+status: scam
 desc: Exclusive Poker Club. Deflationary token, limited access clubs, high end
   tournaments and much more.
 description: ""
@@ -23,6 +23,11 @@ tokens:
   - symbol: PVT
     chain: ethereum
     address: "0xA69579f901680c1659A08c357e02e149B2aeBED5"
+    desc: This token launched but has no liquidity
+  - symbol: PVC
+    chain: pulsechain
+    address: ""
+    desc: ""
 token:
   symbol: PVT
   chain: ethereum
