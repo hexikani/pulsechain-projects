@@ -20,7 +20,7 @@ sacrifice:
   address: "0xACbAd6A1500aF68FBF41A7913b02975d731C7f1B"
   www: https://starterlabs.xyz/sacrifice/
   name: Starter Labs OnPulse Sacrifice
-  start: 2023-04-12T00:00:00.000Z
+  start: "2023-04-12T00:00:00.000Z"
   end: Tomorrow+7d
   networks:
     ethereum:
