@@ -1,12 +1,14 @@
----
 name: BEETroot
-status: active
-desc: A suite of privacy tools featuring a mixer, private EVM bridge, anonymous cross-chain exchange and a deflationary utility token with auto-rewards, buy back & burn and a black hole address reducing supply.
+status: rugged
+desc: A suite of privacy tools featuring a mixer, private EVM bridge, anonymous
+  cross-chain exchange and a deflationary utility token with auto-rewards, buy
+  back & burn and a black hole address reducing supply.
+description: ""
 logo: /logos/beetroot-256.png
 www: https://www.beetroot.world/
 categories:
-  privacy:
-  defi:
+  privacy: null
+  defi: null
 socials:
   twitter: BEETroot___
   tg: BEETrootChat
@@ -15,26 +17,30 @@ links:
   - audit: https://www.beetroot.world/_files/ugd/b4e0f9_2757e83d399a4cb2b9488d1e8e8d4ffb.pdf
   - dapp: https://dapp.beetroot.world/
 sacrifice:
-  type: past
-  desc: sacrifice to prove how strongly you believe in the rights of anonymity and privacy
-  start: "2022-09-06T23:00:00Z"
-  end: "2023-05-30T22:00:00Z"
   address: "0xfb2167cdD74FC8379D3ba83De9A3893772a5136D"
+  start: 2022-09-06T23:00:00Z
+  final: https://docs.google.com/spreadsheets/d/1yolbo_DpN8Hzz0SfquUpxZEfybqvIT9RA4umIE2-lMk/edit?usp=sharing
+  end: 2023-05-30T22:00:00Z
+  type: past
   networks:
     ethereum:
       tokens: USDC, USDT, BUSD, DAI
     bsc:
       tokens: USDC, BUSD-T, BUSD, DAI
-  final: https://docs.google.com/spreadsheets/d/1yolbo_DpN8Hzz0SfquUpxZEfybqvIT9RA4umIE2-lMk/edit?usp=sharing
+  desc: sacrifice to prove how strongly you believe in the rights of anonymity and
+    privacy
 ranking:
+  note: BEETroot token on PulseChain testnet was audited by InterFi.
   founder: orange
+  audit: green
+  implementation: green
   team: orange
   plan: orange
-  implementation: green
-  audit: green
-  note: BEETroot token on PulseChain testnet was audited by InterFi.
+tokens:
+  - symbol: BEET
+    chain: pulsechain
+    address: "0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32"
 token:
   symbol: BEET
+  chain: pulsechain
   address: "0xeDA0073B4Aa1b1B6f9c718c3036551ab46E5Ec32"
-  chain: "pulsechain"
-  

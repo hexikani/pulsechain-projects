@@ -1,21 +1,24 @@
----
 name: Hurricash
-status: completed
-desc: The first completely decentralized non-custodian protocol for private transactions on PulseChain.
+status: rugged
+desc: The first completely decentralized non-custodian protocol for private
+  transactions on PulseChain.
+description: ""
 logo: /logos/hurricash-256.png
 www: https://hurricash.com/
 categories:
-  defi:
-  privacy:
+  privacy: null
+  defi: null
 socials:
-  tg: hurricashofficial
   twitter: hurricash
+  tg: hurricashofficial
 links:
   - dapp: https://hurricash-testnet2b.on.fleek.co/
   - docs: https://hurricash.gitbook.io/hurricash
 sacrifice:
+  start: 2022-01-05T15:00:00.000Z
   type: past
   desc: sacrifice for freedom of privacy
-  start: "2022-01-05T15:00:00.000Z"
+tokens:
+  - symbol: HUR
 token:
   symbol: HUR
