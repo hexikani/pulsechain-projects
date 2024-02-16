@@ -1,13 +1,16 @@
 name: Cyrator - The Forge
 status: promise
-desc: Community Verified Censorship-Resistant Crypto Reviews.
-description: Cyrator is a verified web3 review platform with a mission to
-  eradicate shilling, false facts and other harmful information through a
-  decentralized and censorship resistant review mechanism. We have a dedicated
-  section for the PulseChain community to share information about and review
-  existing projects as well as new ones that are planning to build on the
-  ecosystem. Through Cyrator, a steady stream of credible projects will come to
-  the PulseChain ecosystem.
+desc: Next generation launchpad & incubator from the Cyrator.com team
+description: >
+  Cyrator is a verified web3 review platform with a mission to eradicate shilling, false facts and other harmful information through a decentralized and censorship resistant review mechanism. We have a dedicated section for the PulseChain community to share information about and review existing projects as well as new ones that are planning to build on the ecosystem. Through Cyrator, a steady stream of credible projects will come to the PulseChain ecosystem
+
+  In a world where being loud often overshadows being right, we're creating something different: a decentralized crowdfunding ecosystem designed to shake up how funding works in the web3 space. Our mission? To make it simpler for deserving projects to find funding, ensure community investments are safer, and boost cooperation between projects and their supporters for long-lasting success.
+  At the heart of our ecosystem are 3 entities:
+  The Forge, which provides decentralized due diligence and project mentoring.
+  The Well. A smart contract network that safely holds onto raised funds and only hands them out when projects hit their milestones.
+  The Council. A set of governance NFTs allowing the community to govern the Forge and the Well
+  What makes our ecosystem stand out is its openness. Anyone can come in and add their touch - maybe with a better smart contract to replace The Well, or a KYC service that helps our analysts in The Forge do their job better. This flexibility keeps us growing and resilient against regulatory challenges.
+  Every action in the ecosystem is voluntary. For example, projects aren't required to use the Well’s smart contracts to raise funds. They're free to explore other ways, but this choice may impact their ratings and funding prospects. We believe that projects embracing our full suite of services will build greater trust with the community and ultimately launch more successful projects. We're here not just to help raise funds but to raise the bar of success.
 logo: /logos/cyrator-256.png
 www: https://cyrator.com/forge
 categories:
@@ -18,7 +21,8 @@ socials:
   twitter: https://twitter.com/cyrator_app
   tg: https://t.me/cyratorcom
   yt: https://www.youtube.com/channel/UCyEkEl0Auazo7TN6dN_nk5A
-links: []
+links:
+  - whitepaper: https://cyrator.gitbook.io/forge/
 creationDate: 2024-02-13T12:11:19.883Z
 sacrifice:
   type: running
@@ -28,12 +32,12 @@ sacrifice:
   www: https://cyrator.com/forge/sacrifice
   networks:
     pulsechain:
-      tokens: eUSDC, eDAI, USDL, eWETH
+      tokens: eUSDC, eDAI, USDL, CST
     bsc:
       tokens: BUSD-T, USDC, DAI
     ethereum:
       tokens: USDT, USDC, DAI
-  symbol: Points
+  symbol: Forge NFTs
 ranking:
   founder: green
   team: green
