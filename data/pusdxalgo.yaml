@@ -18,7 +18,7 @@ tokens:
     desc: Stablecoin
 creationDate: 2023-11-26T19:44:00.083Z
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice to prove how strong you believe that blockchains are speech and speech is a protected human right
   start: "2023-11-25T00:00:00Z"
   end: "2024-01-09T00:00:00Z"
