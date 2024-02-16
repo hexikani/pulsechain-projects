@@ -43,5 +43,5 @@ ranking:
   founder: green
   team: green
   plan: green
-  implementation: red
-  audit: red
+  implementation: orange
+  audit: orange
