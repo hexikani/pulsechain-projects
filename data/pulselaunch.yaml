@@ -9,6 +9,28 @@ categories:
 socials:
   twitter: Pulse_Launch
   tg: pulselaunchofficial
+sacrifice:
+  address: "0x3346BB1CE3FB9501ef7B74126064022e9b9C7Dd9"
+  start: "2024-03-02T00:00:00Z"
+  pointsPerUSD: 10
+  networks:
+    pulsechain:
+      tokens: WPLS, PLSX, INC, HEX, eHEX, eDAI, eWETH, eUSDT, eUSDC, USDL
+    ethereum: 
+      tokens: WETH, WPLS, HEX, DAI, USDC, USDT
+    arbitrum:
+      tokens: ARB, USDC, WETH, DAI, WBTC
+  type: running
+  desc: sacrifice for LAUNCH tokens
+  symbol: LAUNCH
+  end: OpenEnded
+ranking:
+  note: Our ranking has not been verified with the project team yet.
+  founder: red
+  audit: orange
+  implementation: red
+  team: orange
+  plan: red
 links:
   - explainer: https://youtu.be/IgiO2X0gyQg
 creationDate: 2024-03-03T04:21:49.833Z

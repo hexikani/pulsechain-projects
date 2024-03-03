@@ -31,9 +31,10 @@ sacrifice:
   end: OpenEnded
   www: https://cyrator.com/forge/sacrifice
   hideRateGraphs: true
+  address: "0xAc9693E52eA67601353C8478B29B08192034aa89"
   networks:
     pulsechain:
-      tokens: eUSDC, eDAI, USDL, CST
+      tokens: eUSDC, eDAI, eUSDT, USDL, CST
     bsc:
       tokens: BUSD-T, USDC, DAI
     ethereum:

@@ -32,14 +32,14 @@ sacrifice:
   address: "0x912Ac102b677a36d1d04B7982601144a624a5884"
   networks:
     pulsechain:
-      tokens: PLSX, HEX, eHEX, 9INCH, e9INCH, SPARK, TETRAp, PHIAT, PHAME, PHUX, CST, eUSDT, eUSDC, eDAI, BEET, PrimePHUX, LOAN, WATT, USDL, eWETH
+      tokens: WPLS, PLSX, HEX, eHEX, 9INCH, e9INCH, SPARK, TETRAp, PHIAT, PHAME, PHUX, CST, eUSDT, eUSDC, eDAI, BEET, PrimePHUX, LOAN, WATT, USDL, eWETH, RBC
       # PXDC, EARN
     bsc:
       tokens: BUSD-T, USDC, DAI
     polygon:
       tokens: USDT, USDC, DAI
     ethereum:
-      tokens: HEX, WETH, USDT, USDC, DAI
+      tokens: HEX, WETH, USDT, USDC, DAI, 9INCH
 ranking:
   founder: green
   team: green

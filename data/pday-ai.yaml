@@ -23,3 +23,28 @@ tokens:
     address: "0x34CE5991C265E4032ac44dFB3C33F42693036753"
     desc: Pday Token
 creationDate: 2024-03-03T07:31:13.003Z
+sacrifice:
+  address: "0x010101A51A3EAFf06f2E7B5773F76E6cd3473a7f"
+  start: "2024-03-04T15:00:00Z"
+  pointsPerUSD: 10000
+  networks:
+    pulsechain:
+      tokens: WPLS, PLSX, HEX, INC, eDAI, eUSDC, eUSDT, USDL
+    ethereum:
+      tokens: WETH, USDC, USDT, DAI
+    bsc:
+      tokens: WBNB, USDC, BUSD-T, BUSD
+    arbitrum:
+      tokens: WETH, USDC, USDT, DAI
+    polygon:
+      tokens: MATIC, WETH, USDC, USDT
+  desc: sacrifice for importance of decentralized finance
+  type: running
+  token: PDAY
+  end: "2024-03-05T15:00:00Z"
+ranking:
+  founder: orange
+  audit: orange
+  implementation: red
+  team: green
+  plan: orange
