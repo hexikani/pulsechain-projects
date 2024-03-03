@@ -1,0 +1,14 @@
+name: Pulse Launch
+status: promise
+desc: PulseChain launchpad.
+description: ""
+logo: /logos/pulselaunch-256.png
+www: https://www.pulselaunch.xyz/
+categories:
+  service: Launchpad
+socials:
+  twitter: Pulse_Launch
+  tg: pulselaunchofficial
+links:
+  - explainer: https://youtu.be/IgiO2X0gyQg
+creationDate: 2024-03-03T04:21:49.833Z

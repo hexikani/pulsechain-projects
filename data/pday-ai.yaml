@@ -1,0 +1,25 @@
+name: Pday Protocol
+status: active
+desc: Revolutionizing trading with a powerful OTC module, customizable DCA set,
+  and an AI-powered strategy portal on Pulsechain.
+description: Pday Openbook Protocol, revolutionizing trading with a powerful OTC
+  module, DCA set, and an AI-powered strategy portal on Pulsechain. Pday aims to
+  consolidate a total of 1 major and 4 core products into a single platform,
+  initially three and subsequently one, making them available to the entire
+  Pulsechain community.
+logo: /logos/pday-ai-256.png
+www: https://pday.ai
+categories:
+  defi: Orderbook Protocol - Limit Order - DCA
+socials:
+  twitter: pdayai
+  github: pdayai
+  tg: pdayai
+links:
+  - docs: https://docs.pday.ai
+tokens:
+  - symbol: PDAY
+    chain: pulsechain
+    address: "0x34CE5991C265E4032ac44dFB3C33F42693036753"
+    desc: Pday Token
+creationDate: 2024-03-03T07:31:13.003Z
