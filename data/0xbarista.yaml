@@ -1,5 +1,5 @@
 name: 0xBarista
-status: active
+status: completed
 desc: "Unique Front-end for Liquid Loans, some automation that Liquid Loans does
   not offer. Built for #PulseChain  Trustless, immutable & no admin keys."
 description: ""
@@ -16,6 +16,10 @@ socials:
 links:
   - docs: https://docs.mcr369.io/
 tokens:
+  - symbol: BEAN
+    chain: pulsechain
+    address: "0xd7407bd3e6ad1baae0ba9eafd1ec41bfe63907b2"
+    desc: PulseChain
   - symbol: LOAN
     chain: testnet
     address: "0xbe4F7C4DF748cE32A5f4aADE815Bd7743fB0ea51"
@@ -24,8 +28,4 @@ tokens:
     chain: testnet
     address: "0x460BD2c8343fCb052f818006121951d4Dc256e01"
     desc: Stable Coin - Refer to Liquid Loans
-  - symbol: tPLS
-    chain: testnet
-    address: ""
-    desc: PulseChain
 creationDate: 2023-07-19T00:02:19.896Z
