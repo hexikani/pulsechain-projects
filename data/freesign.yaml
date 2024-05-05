@@ -1,0 +1,17 @@
+name: FreeClaim.pls
+status: completed
+desc: Sacrifice for the Freedom to Sign a Transaction on ETH and PLS.
+description: '"Points have no value. You must have no expectations. You get
+  nothing. You proved your belief in the freedom to sign. You did not send from
+  an exchange. You used your own keys as your signature to publish your address
+  in a set of free speech users. You signed the list of what I most deeply
+  believe in. See tweet for full details." x.com/MatiALLin '
+logo: /logos/freeclaim-256.png
+www: https://twitter.com/MatiAllin/status/1781729566496547050
+categories:
+  other: List of Addresses
+socials: {}
+links:
+  - www: https://freesign.pls.fyi/
+  - www: https://etherscan.io/address/0x3f5aF8e28CfC3E885812971F4B40610B55ae777A
+creationDate: 2024-05-05T04:08:33.996Z
