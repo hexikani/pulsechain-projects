@@ -15,3 +15,21 @@ links:
   - www: https://freesign.pls.fyi/
   - www: https://etherscan.io/address/0x3f5aF8e28CfC3E885812971F4B40610B55ae777A
 creationDate: 2024-05-05T04:08:33.996Z
+sacrifice:
+  type: running
+  desc: sacrifice for the right to the highest attainable standard of physical and mental health
+  start: "2024-04-20T00:00:00Z"
+  end: "2024-05-21T00:00:00Z"
+  address: "0x3f5aF8e28CfC3E885812971F4B40610B55ae777A"
+  token: points
+  networks:
+    pulsechain:
+      tokens: WPLS, PLSX, INC, eDAI, eUSDC, eUSDT, eWETH, eWBTC, HEX
+    ethereum:
+      tokens: DAI, USDC, USDT, WBTC, SHIB, PEPE
+ranking:
+  founder: green
+  team: green
+  plan: red
+  implementation: red
+  audit: red
