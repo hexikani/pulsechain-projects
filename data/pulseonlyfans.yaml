@@ -27,3 +27,26 @@ socials:
   tg: pulseonlyfans
 links: []
 creationDate: 2024-03-19T03:35:18.414Z
+sacrifice:
+  type: past
+  desc: sacrifice for the believe that PulseChain community is the sexiest in crypto
+  start: "2024-03-20T00:00:00Z"
+  end: "2024-03-28T20:00:00Z"
+  address: "0xda2247dfeBFa32EdcB28daBff5E2a07413e83E30"
+  symbol: points
+  pointsPerUSD: 1
+  networks:
+    pulsechain:
+      tokens: A1A, BEAR, GOFURS, LOAN, pTCG, PTP, ZKZX, PARTY, LOVE, BBC, DAI, ATROPA, WBTC, USDC, USDT, PP, uPX, MINT, SPARK, PINU, AXIS, PLSP, APC, NOPE, EARN, INVEST, eDAI, INC, MIKE, PLSX, PINU, HEX, eHEX, 9INCH, PHUX, TEXAN, IM, PLSPUP, CAT
+    bsc:
+      tokens: BUSD-T, USDC, DAI
+    polygon:
+      tokens: USDT, USDC, DAI
+    ethereum:
+      tokens: HEX, WETH, USDT, USDC, DAI, 9INCH
+ranking:
+  founder: red
+  team: red
+  plan: red
+  implementation: red
+  audit: red
