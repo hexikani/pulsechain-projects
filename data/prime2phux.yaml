@@ -1,0 +1,43 @@
+name: 2PHUX
+status: active
+desc: We give more PHUX.
+description: >
+  2PHUX works with the PHUX.IO exchange to increase the revenue of yield farmers
+  by up to 250% via a large pool of staked Prime PHUX.
+
+  A second but equally thrilling benefit will be increased voting power on which pools get the most yield on PHUX.IO. 
+
+  The 2PHUX team is distinct from the PHUX team but working to improve the PHUX ecosystem for all concerned.
+
+  At 2PHUX we give more PHUX.
+logo: /logos/2phux-256.png
+www: https://2PHUX.io
+categories:
+  defi: null
+socials:
+  twitter: "@Prime2PHUX"
+  tg: 2PHUX
+links: []
+tokens:
+  - symbol: Prime2PHUX
+    chain: pulsechain
+    address: ""
+    desc: 2PHUX.IO
+creationDate: 2023-11-26T20:30:42.313Z
+sacrifice:
+  type: running
+  desc: sacrifice for the right to the highest attainable standard of physical and mental health
+  start: "2024-05-13T17:00:00Z"
+  end: OpenEnded
+  address: "0xb18EEd486D2e1a2e9e75E39606b480649bABC118"
+  networks:
+    pulsechain:
+      tokens:
+  symbol: Prime2PHUX
+  hideRateGraphs: true
+ranking:
+  founder: green
+  team: green
+  plan: green
+  implementation: orange
+  audit: orange
