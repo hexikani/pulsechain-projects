@@ -28,7 +28,7 @@ sacrifice:
   type: running
   desc: sacrifice for the right to the highest attainable standard of physical and mental health
   start: "2024-01-05T17:00:00Z"
-  end: "2024-05-09T12:00:00Z"
+  end: "2024-05-10T00:00:00Z"
   address: "0x912Ac102b677a36d1d04B7982601144a624a5884"
   networks:
     pulsechain:
@@ -39,6 +39,7 @@ sacrifice:
       tokens: USDT, USDC, DAI
     ethereum:
       tokens: HEX, WETH, USDT, USDC, DAI, 9INCH
+  token: 2PHUX
 ranking:
   founder: green
   team: green
