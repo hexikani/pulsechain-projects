@@ -39,7 +39,7 @@ sacrifice:
     polygon:
       tokens: MATIC, WETH, USDC, USDT
   desc: sacrifice for importance of decentralized finance
-  type: running
+  type: past
   token: PDAY
   end: "2024-04-05T15:00:00Z"
 ranking:

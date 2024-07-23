@@ -25,7 +25,7 @@ tokens:
     desc: 2PHUX.IO
 creationDate: 2023-11-26T20:30:42.313Z
 sacrifice:
-  type: running
+  type: past
   desc: sacrifice for the right to the highest attainable standard of physical and mental health
   start: "2024-01-05T17:00:00Z"
   end: "2024-05-10T00:00:00Z"

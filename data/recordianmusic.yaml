@@ -1,5 +1,5 @@
 name: RECORDIAN
-status: active
+status: abandoned
 desc: RECORDIAN is the complete music decentralized ecosystem that empowers
   artists, supporters, and industry players utilizing the RECORDIAN Music
   Streaming APP, NFT Marketplace, and Ad Studio.
@@ -35,7 +35,7 @@ socials:
   ig: recordian_music
 links: []
 sacrifice:
-  type: running
+  type: past
   www: https://recordianmusic.com/sale
   name: RECORDIAN Public Sale
   desc: this is a public sale, not a sacrifice
