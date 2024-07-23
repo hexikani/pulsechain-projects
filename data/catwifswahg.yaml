@@ -22,7 +22,7 @@ sacrifice:
   type: running
   desc: sacrifice for the believe that PulseChain community is the sexiest in crypto
   start: "2024-04-25T00:00:00Z"
-  end: OpenEnded
+  end: "2024-05-06T19:00:00Z"
   address: "0x9ae53F2Fe1843631049Ba657d79200f843fCf88D"
   symbol: points
   pointsPerUSD: 1
