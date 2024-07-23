@@ -12,6 +12,7 @@ socials:
   tg: winwindefi
 links:
   - docs: https://docs.winwin.finance/
+  - audit: https://www.halborn.com/audits/winwin/winwin-protocol-smart-contract-security-assessment
 sacrifice:
   hideRateGraphs: true
   address: "0xcfb1e0c5645Fe132aF153CD37213F017eAaDD96B"
@@ -29,8 +30,8 @@ sacrifice:
   end: 2023-08-11T22:30:00Z
 ranking:
   founder: orange
-  audit: orange
-  implementation: orange
+  audit: green
+  implementation: green
   team: green
   plan: green
 token:
