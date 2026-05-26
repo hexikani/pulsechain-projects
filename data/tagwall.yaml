@@ -1,0 +1,32 @@
+---
+name: Tagwall
+status: usable
+desc: Immutable 1,000,000-pixel on-chain graffiti wall. No admin, no moderator, no ads.
+description: >-
+  Tagwall is a permanent on-chain canvas of one million pixels. Anyone can paint
+  any pixel by paying the native gas token; every paint is recorded on-chain
+  forever. Overwriting a pixel costs 1.10x the previous price; after 90 days
+  the price decays 10% per month back to the floor. The Canvas contract is
+  fully immutable, unmoderated, and deployed at the same CREATE2 address
+  (0xd58D54ec0dBa952Efd56cE2a04DCDF1719676415) on PulseChain, Ethereum, Base,
+  and BSC. The reference frontend at tagwall.io is open source (MIT) and any
+  mirror can self-host with its own filter policy.
+logo: /logos/tagwall-256.png
+www: https://tagwall.io
+categories:
+  social: Permanent on-chain cultural canvas; every paint is forever.
+  media: 1,000,000-pixel immutable graffiti wall.
+socials:
+  twitter: tagwall_io
+  github: tagwall
+links:
+  - dapp: https://tagwall.io
+  - github: https://github.com/tagwall/tagwall
+  - contract: https://otter.pulsechain.com/address/0xd58D54ec0dBa952Efd56cE2a04DCDF1719676415
+creationDate: 2026-05-24T00:00:00Z
+ranking:
+  founder: green
+  team: orange
+  plan: green
+  implementation: green
+  audit: orange
